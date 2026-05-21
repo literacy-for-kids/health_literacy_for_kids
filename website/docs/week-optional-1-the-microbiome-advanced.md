@@ -16,12 +16,21 @@ This is real, current science. Some of it is settled. A lot of it is still being
 
 ---
 
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. This week is for science understanding, not supplement, product, or treatment decisions.
+:::
+
+:::note Science Confidence Note
+The vagus nerve anatomy and basic gut-brain signaling pathways are well-established. Many microbiome-mood specifics are still emerging or active research. Use "influences" more often than "controls."
+:::
+
 :::info Facilitator Snapshot
 - This week dives into the gut-brain axis. The science is real but still developing.
 - Frame everything carefully: "research suggests" / "studies show an association" / "this is correlational" / "we don't yet know for certain." This is honest science communication, not hedging.
-- The big "wow" facts of this week: ~90% of body serotonin made in the gut, 80–90% of vagus nerve signals travel gut-to-brain (not brain-to-gut), bidirectional stress feedback through the microbiome.
+- The big "wow" facts of this week: most body serotonin is made in the gut, 80–90% of vagus nerve signals travel gut-to-brain (not brain-to-gut), and stress and the microbiome influence each other in both directions.
 - Practical insight section is informational, not prescriptive. Fiber diversity supports microbial diversity. Antibiotic use has costs. The family decides what to do with that information.
 - DO NOT prescribe diet, supplements, or behavior. This is a science exploration, not a wellness curriculum.
+- The serotonin fact needs immediate nuance: most gut serotonin acts locally in the gut and does not simply cross into the brain.
 :::
 
 :::tip Quick Navigation
@@ -47,6 +56,7 @@ This is real, current science. Some of it is settled. A lot of it is still being
 - Be ready to admit: "We don't know yet." That's the most honest thing you can say about parts of this field, and modeling that honesty is a big part of what this week teaches.
 - This week is more lecture-heavy than most. The student is mostly absorbing — the activity at the end is where they synthesize.
 - If a student asks "should I take probiotics?" the honest answer is: "The research is genuinely unclear. Some people find benefit from specific strains for specific conditions. Most over-the-counter probiotic supplements have not been shown to do much in healthy people. That's a family-doctor conversation."
+- Do not turn the lesson into a product hunt. No probiotic or supplement trials belong in this curriculum.
 :::
 
 :::tip Facilitation Mindset
@@ -152,8 +162,8 @@ A neurotransmitter is a chemical that nerves use to communicate with each other.
 
 Some real facts (with appropriate framing):
 
-- **Serotonin:** Approximately 90 percent of the body's serotonin is produced in the gut, mostly by specialized cells in the gut lining called enterochromaffin cells. The gut microbiome influences how much serotonin those cells produce.
-  - Caveat: Most of that gut serotonin doesn't cross into the brain. It acts in the gut and affects gut motility, mood signaling through indirect channels, and other functions. The simple sentence "your gut makes 90% of your serotonin" is true; the implication "so your gut directly controls your brain mood" is more complicated than it sounds.
+- **Serotonin:** Most of the body's serotonin is produced in the gut, mostly by specialized cells in the gut lining called enterochromaffin cells. The gut microbiome influences how much serotonin those cells produce.
+   - Caveat: Most of that gut serotonin acts locally in the gut and does not simply cross into the brain. The simple sentence "most of your body's serotonin is made in the gut" is true; the leap to "so your gut directly controls your mood" is more complicated than it sounds.
 - **GABA:** The main inhibitory (calming) neurotransmitter in the brain. Some gut microbes — especially certain Lactobacillus and Bifidobacterium species — produce GABA in the gut. Research is exploring how this affects brain-level GABA activity. The mechanism isn't fully mapped yet.
 - **Dopamine precursors:** Gut microbes can produce or influence the production of compounds that the body uses to make dopamine. Again — the connection from "produced in the gut" to "affects brain function" is real but still being mapped.
 
@@ -330,7 +340,7 @@ This is important. Being able to name what's not yet known is a real piece of sc
 After this week, check whether the learner can:
 
 1. **Describe the vagus nerve:** "It connects my gut to my brain, and most of the signals go from gut to brain."
-2. **Give one example of microbiome-mediated chemistry:** "About 90% of serotonin is made in the gut" or "Gut microbes can make GABA" or similar.
+2. **Give one example of microbiome-mediated chemistry:** "Most of the body's serotonin is made in the gut, but most of it acts locally there" or "Gut microbes can make GABA" or similar.
 3. **Hold the correlation/causation distinction:** "Studies show a connection between the microbiome and mood, but we don't always know if one causes the other — that's still being researched."
 
 If the learner can do at least 2 of these, the week has landed.

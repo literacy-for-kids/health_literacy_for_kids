@@ -14,11 +14,16 @@ This week we put the immune system framework to work. You're going to take a rea
 
 ---
 
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. You may use your own illness, a family story, an anonymized example, or a fictional example.
+:::
+
 :::info Facilitator Snapshot
 - This is a synthesis week. Everything from Weeks 8–9 gets applied to a real story.
 - Pick an illness the learner remembers reasonably clearly. A recent cold or stomach bug is ideal.
 - The point is mapping — not diagnosis. Don't try to figure out exactly which pathogen it was. Just trace the response.
 - This is also a practice run for the capstone (Weeks 15–18) — observing a process from outside.
+- Illness histories are private. Learners may use fictionalized or anonymized examples instead of personal ones.
 :::
 
 :::tip Quick Navigation
@@ -40,9 +45,10 @@ This week we put the immune system framework to work. You're going to take a rea
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Have a recent illness in mind. If the learner hasn't been sick recently, use a family member's recent illness, or do this exercise based on a famous illness narrative (a cold from a movie, a documented flu case).
+- Have a recent illness in mind. If the learner hasn't been sick recently, use a family member's recent illness, or do this exercise based on a famous illness narrative, an anonymized composite, or a fictional illness case.
 - Be ready to help the learner fill in gaps in their memory ("Do you remember when you first felt off? What was the very first symptom?").
 - Have a blank piece of paper or timeline template ready.
+- Make it clear that the learner never has to disclose private illness details if they would rather use an example case.
 :::
 
 :::tip Facilitation Mindset

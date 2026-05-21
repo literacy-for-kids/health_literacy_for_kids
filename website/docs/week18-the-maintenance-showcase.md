@@ -2,19 +2,23 @@
 sidebar_position: 18
 sidebar_label: "Week 18: Presenting Your Optimization Protocol"
 title: "Week 18: Presenting Your Optimization Protocol"
-description: "Students present their health maintenance protocol and data — what they designed, what they measured, and what they learned."
+description: "Students present what they learned from their capstone protocol and choose what data, if any, to share."
 ---
 
 # Week 18: Presenting Your Optimization Protocol
 *Unit 5 — The Optimization Protocol (Capstone) — Finale*
 
-The experiment is over. Now you make sense of it, and you share it.
+The experiment is over. Now you make sense of it, and you share what you choose to share.
 
-**For two weeks, you ran a real experiment on your own body. You picked the variable, designed the protocol, set up the environment, and collected the data. This week, you analyze the data, write Protocol v2.0 with everything you'd change next time, and present your findings to a real audience. This is what scientists do — not as a metaphor, but as the actual scientific method. You ran a study. Now you publish it.**
+**For two weeks, you ran a real experiment on your own body. You picked the variable, designed the protocol, set up the environment, and collected the data. This week, you analyze the data, write Protocol v2.0 with everything you'd change next time, and present your findings to a real audience if you want. This is what scientists do — not as a metaphor, but as the actual scientific method. You ran a study. Now you decide how to share the result.**
 
 This is the last week. Take your time with it.
 
 ---
+
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. A showcase can use anonymized, fictionalized, partial, or fully private data.
+:::
 
 :::info Facilitator Snapshot
 - This is the finale of 18 weeks of work. Celebrate it. Loudly.
@@ -22,6 +26,8 @@ This is the last week. Take your time with it.
 - The presentation does not need to be polished. A 3-minute conversation with a family member is enough. A poster board is great. A slide deck is great. Acting it out is great. Format is up to the student.
 - The final Bio-Telemetry Log entry is the equivalent of a "letter to your past self." Give the student real time and space for it.
 - This is also the closure for the entire curriculum, not just the capstone. The closing recap should look across all 18 weeks, not just the past four.
+- Celebrate the process, not the outcome. Protocol v2.0 is not a self-improvement contract.
+- The learner chooses what to share and what to keep private.
 :::
 
 :::tip Quick Navigation
@@ -48,12 +54,15 @@ This is the last week. Take your time with it.
 - Re-read the Week 15 protocol and Week 16 environmental changes. The "before/after" comparison this week depends on knowing what was set up at the start.
 - Decide who the showcase audience will be. Family member? Sibling? Just you and the student? Multiple people if available. Even one real audience member is enough.
 - Prepare a small but real celebration. This is the end of a long curriculum. The student carried out the whole thing.
+- Ask the learner what they want to share, anonymize, fictionalize, or keep private before any presentation begins.
 :::
 
 :::tip Facilitation Mindset
 You are about to celebrate a real accomplishment. The student followed a protocol, collected data, analyzed it, and drew conclusions about themselves. That is science. Treat it that way.
 
 **Most important thing to remember:** It does not matter whether the protocol "worked." What matters is that the student ran a real experiment, with real data, on something they were curious about. A null result — "no change" — is also a real scientific finding.
+
+Protocol v2.0 is a learning document, not a promise to self-optimize.
 :::
 
 ## For Younger Learners (Ages 8–9)
@@ -224,6 +233,9 @@ Format options:
 - A few simple slides
 - Just a verbal walk-through, holding up the tracking sheet
 - A drawn diagram of the experiment
+- An anonymized or fictionalized version that protects private details
+- A partial-data version that only shows selected parts of the dataset
+- A process-only version focused on what the learner discovered about experiments, without personal body details
 
 Style is up to the student. The structure is what matters.
 

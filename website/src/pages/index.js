@@ -19,7 +19,7 @@ function HomepageHeader() {
             18 weeks of hands-on, measurement-driven lessons — each about 20 minutes
             per session — designed for classrooms, homeschool families, after-school
             clubs, and any adult who wants to help kids move from following health rules
-            to actively managing their own biological systems.
+            to understanding and safely observing their own biological systems.
           </p>
           <div className={styles.buttons}>
             <Link

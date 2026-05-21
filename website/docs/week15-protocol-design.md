@@ -2,7 +2,7 @@
 sidebar_position: 15
 sidebar_label: "Week 15: Designing a Personal Health Maintenance System"
 title: "Week 15: Designing a Personal Health Maintenance System"
-description: "Students design a personal health maintenance protocol covering sleep, fuel, and physical load."
+description: "Students design a small personal observation protocol with clear safety, privacy, and medical-boundary guardrails."
 ---
 
 # Week 15: Designing a Personal Health Maintenance System
@@ -16,12 +16,16 @@ This capstone is completely voluntary and student-driven.
 
 ---
 
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. If something feels scary, painful, extreme, or confusing, pause and talk to a trusted adult or healthcare professional.
+:::
+
 :::info Facilitator Snapshot
 - This week sets up the entire capstone. The learner picks their variable, defines their metric, and plans the experiment.
 - CRITICAL: The student chooses the variable. Not you. Not their parent. Not their friend. The whole capstone hinges on this being self-directed.
 - Do NOT push toward sleep, exercise, or food choices. If the student picks one of those, fine — but only if it came from them.
-- Acceptable variable choices include things that are easy to measure: morning energy, recovery rate, frequency of getting sick, focus during certain times, mood patterns, hunger timing, anything observable.
-- The experiment is small. It's not "fix yourself." It's "study yourself for two weeks."
+- Acceptable variable choices include things that are easy to measure and safe to observe: morning energy, focus patterns, recovery rate from light exercise, bedtime consistency, hydration cues, reaction time, hunger timing without judgment, or mood pattern observations without diagnosis.
+- Observation-only is always valid. This is an educational observation project, not medical research and not a self-improvement challenge.
 :::
 
 :::tip Quick Navigation
@@ -46,6 +50,8 @@ This capstone is completely voluntary and student-driven.
 - Review the curriculum's "no diet advice / no medical advice / no body-shaming" policy. The capstone is the highest-risk zone for slipping. Stay vigilant.
 - Read through the example variables in Guided Session 1 so you can offer them if the student is stuck.
 - Be prepared to push back GENTLY if the student picks a variable that's essentially a self-improvement goal ("I want to lose weight," "I want to be faster at sports"). Redirect to a variable they want to UNDERSTAND, not OPTIMIZE.
+- Treat the protocol and dataset as private unless the learner chooses to share them.
+- If the learner wants to try any intervention beyond simple observation, a caregiver should review it first.
 :::
 
 :::tip Facilitation Mindset
@@ -127,23 +133,40 @@ Here are some variables that work well for a 2-week experiment. The student shou
 
 **Performance-related:**
 - Focus during morning vs. afternoon study sessions
-- Mood at different times of day
+- Mood at different times of day (without diagnosis)
 - Reaction time (using simple online reaction-time tests)
 
-**Health pattern-related:**
-- Frequency of headaches
+**Pattern-related:**
 - How often I notice system alerts (hunger, thirst, fatigue)
 - Hydration patterns (when I'm thirsty)
+- Bedtime and wake-time consistency
 
-**Microbiome-related (no diet prescription):**
-- Variety of plant foods eaten per week
-- How my gut feels at different times
+**Environment-related:**
+- How the room I'm in affects my homework focus
+- What time of day I notice the best alertness
 
-**Fuel-related (no diet prescription):**
+**Food-related observation only (optional):**
 - How quickly I get hungry after different meals
 - Energy patterns after different breakfasts
 
 > "Important: this is not 'fix something about me.' This is 'understand something about me better.' The variable is the thing you watch. You don't have to change it — you just have to watch it."
+
+**Not allowed for this capstone:**
+
+- weight or body-size tracking
+- calorie counting
+- restricting food, skipping meals, or fasting
+- "how little can I eat" style questions
+- supplement trials
+- medication changes
+- intentionally sleeping less
+- "how little can I sleep" style questions
+- intense new exercise routines
+- pain tolerance experiments
+- anything medically risky
+- anything a caregiver or doctor has not approved when a medical condition is involved
+
+Safer options include morning energy, focus patterns, recovery rate from light activity, bedtime consistency, time to fall asleep, sleep/wake consistency, hydration cues, hunger timing without judgment, environmental factors, mood pattern observations without diagnosis, reaction time, and alertness across the day.
 
 ---
 
@@ -192,7 +215,7 @@ Examples:
 
 - "I will measure my morning energy by rating it 1–10 within 30 minutes of waking up."
 - "I will measure how long it takes for my heart rate to return to baseline after 30 jumping jacks, once every morning."
-- "I will measure how many different plant foods I eat each day by listing them in my Log at dinner."
+- "I will measure my hydration cues by noting when I first feel thirsty each day."
 - "I will measure my focus during homework by using a 1–10 self-rating at the start, middle, and end of homework time."
 
 ---
@@ -221,15 +244,17 @@ Examples of good interventions:
 
 - "I will get bright outdoor light within 30 minutes of waking each day."
 - "I will leave my phone in another room while doing homework."
-- "I will eat a serving of a fermented food every day."
+- "I will keep my bedtime within the same 30-minute window each night."
 - "I will write down 3 things I learned each evening before bed."
 - "I will drink a glass of water first thing when I wake up."
 
 Important guardrails:
 
-- The intervention must be safe (no skipping meals, no dramatic sleep changes, no exercise changes that aren't already approved by family/doctor).
+- The intervention must be safe (no skipping meals, no dramatic sleep changes, no intense new exercise, no supplements, no medication changes, and no body-size goals).
 - The intervention must be sustainable for 11 days.
 - The intervention is ONE thing. Not five things. Just one.
+- Observation-only is always a valid design.
+- If an intervention affects food, sleep, or physical activity in any real way, a caregiver should review it first.
 
 The learner can also choose NOT to intervene and just observe. That's a valid experimental design called an "observational study."
 
@@ -270,6 +295,9 @@ _______________________________________
 
 HOW I'LL KNOW IF IT WORKED:
 _______________________________________
+
+SAFETY CHECK:
+This plan does not use weight, calories, restriction, supplements, medication changes, intentional sleep loss, or intense new exercise.
 ```
 
 The learner signs and dates it. This is their personal scientific protocol.
@@ -339,9 +367,9 @@ If the learner can do all 3 of these, they're ready for Week 16.
 
 > "There's no grade on this. There's no right answer. You picked the question. You designed the experiment. Whatever you find is going to be interesting BECAUSE it's about you."
 
-This is one of the most empowering things in the whole curriculum. You can study yourself. You don't need a doctor's permission or a textbook's approval. The Bio-Telemetry Log has been preparing you for exactly this.
+This is one of the most empowering things in the whole curriculum. You can study yourself. The Bio-Telemetry Log has been preparing you for exactly this.
 
-**This week's takeaway:** Curiosity about your own body is a valid scientific stance. You're allowed to ask questions about how you work and look for answers.
+**This week's takeaway:** Curiosity about your own body is a valid scientific stance. This is information, not a prescription.
 :::
 
 ---

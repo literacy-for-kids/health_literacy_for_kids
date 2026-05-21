@@ -2,7 +2,7 @@
 sidebar_position: 16
 sidebar_label: "Week 16: Optimizing Your Physical Operating Environment"
 title: "Week 16: Optimizing Your Physical Operating Environment"
-description: "Students engineer their sleep environment and daily context to support the health maintenance protocol."
+description: "Students map their environment and make low-cost, feasible changes to support a safe observation protocol."
 ---
 
 # Week 16: Optimizing Your Physical Operating Environment
@@ -21,6 +21,7 @@ This week, like the rest of the capstone, is yours. You pick the changes. The fa
 - CRITICAL: Do not prescribe environmental changes. You can ask "What's the light like in your bedroom at 9 PM?" — you cannot say "You should turn off the overhead light at 9 PM."
 - Small and specific beats big and vague. One to three changes, max. A single phone-charging-in-another-room change is a real intervention.
 - Costs and constraints are real. If a change requires buying something expensive or coordinating with other household members who aren't on board, it isn't going to happen. Help the student find what's actually feasible.
+- Some factors will be outside the learner's control. Those still belong on the system map, and they are not reasons to blame the learner.
 :::
 
 :::tip Quick Navigation
@@ -37,7 +38,7 @@ This week, like the rest of the capstone, is yours. You pick the changes. The fa
 | **Prep time** | ~10 minutes |
 | **Materials** | Bio-Telemetry Log, Week 15 protocol, paper for the environment map, optional: a phone or tape measure for noting room conditions |
 | **Key vocabulary** | environment audit, input, cue, friction, runtime environment, minimum viable change |
-| **Difficulty** | Intermediate
+| **Difficulty** | Intermediate |
 
 ## Facilitator Preparation
 
@@ -45,6 +46,8 @@ This week, like the rest of the capstone, is yours. You pick the changes. The fa
 - Re-read the student's Week 15 protocol. You need to know what variable they're studying before you can help them audit the environment around it.
 - Resist the urge to suggest changes. The student lives in the environment; you don't. Their picks will be better than yours.
 - If the student's target variable is sleep, food timing, focus, or anything involving the bedroom or a device, prepare for the conversation to involve screens. Stay neutral. Ask questions; don't lecture.
+- Some constraints will be outside the learner's control. Keep those in the map anyway. No-control factors are still part of systems thinking.
+- Changes should be low-cost and feasible. If a household constraint blocks a change, that is data, not failure.
 :::
 
 :::tip Facilitation Mindset
@@ -119,6 +122,8 @@ Walk through these categories one at a time. For each, ask the student to think 
 | **Pre-activity behavior** | What's the student doing in the 30 minutes before the relevant activity? Screens? Exercise? Conversation? Homework? |
 
 > "We're not trying to fix anything yet. We're just looking at what's there."
+
+Some factors will be under the learner's control, and some will not. Both belong on the system map.
 
 ---
 
@@ -348,7 +353,7 @@ If the learner can do all 3 of these, they're ready for Week 17.
 
 This week is quiet but powerful. Most people never audit their own environment. Most people don't even notice the environment exists. Now you do.
 
-**This week's takeaway:** Your environment isn't neutral. It's nudging you toward something. You get to choose what it nudges you toward — at least in the places you control.
+**This week's takeaway:** Your environment isn't neutral. It's nudging you toward something. Some nudges are changeable, some are not, and both are worth noticing.
 :::
 
 ---

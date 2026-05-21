@@ -74,6 +74,11 @@ const sidebars = {
       ],
     },
     'curriculum-overview',
+    'facilitator-safety-guide',
+    'curriculum-map',
+    'printable-templates',
+    'facilitator-response-bank',
+    'science-confidence-and-metaphors',
     'glossary',
     {
       type: 'category',

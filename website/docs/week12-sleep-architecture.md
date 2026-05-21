@@ -16,11 +16,16 @@ After this week, "I need sleep" will stop being something you say and become som
 
 ---
 
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. Do not intentionally reduce sleep for this lesson or for a capstone experiment.
+:::
+
 :::info Facilitator Snapshot
 - This week is the most "wow" week of Unit 4.
 - The key concepts: sleep is divided into stages (light, deep, REM); each stage does different work; the **glymphatic system** is real and actively clears the brain during sleep.
 - Memory consolidation happens during sleep — what you learned today gets moved to long-term storage tonight.
 - This is NOT a "you should sleep 9 hours" lecture. We're explaining what sleep is FOR. Specific sleep duration belongs with families.
+- Sleep data is private, and the tracking in this lesson is observational only.
 :::
 
 :::tip Quick Navigation
@@ -43,7 +48,7 @@ After this week, "I need sleep" will stop being something you say and become som
 
 :::info Before You Begin
 - Be ready to draw the sleep cycle graph (a hypnogram) — the typical pattern of sleep stages across the night.
-- Review the glymphatic system briefly: brain cells slightly shrink during sleep, allowing cerebrospinal fluid to flow through and flush out waste proteins (including beta-amyloid). This is real, well-documented science as of the past decade.
+- Review the glymphatic system briefly: during sleep, the space between brain cells expands, allowing cerebrospinal fluid to move more easily through brain tissue and carry away waste products. The mechanism is real, and details are still an active area of research.
 - Be ready to discuss memory consolidation — hippocampus to cortex transfer is the standard model.
 :::
 
@@ -166,7 +171,7 @@ Brief reference (NOT a prescription):
 
 These are population averages. Individual needs vary. The amount that's right is the amount that leaves the learner feeling awake during the day.
 
-> "How much sleep your body needs is something you and your family figure out. The point of this curriculum is just to explain why sleep is doing so much work."
+> "How much sleep your body needs is something you and your family figure out. These ranges are informational, not a prescription. The point of this curriculum is just to explain why sleep is doing so much work."
 
 ---
 
@@ -191,7 +196,8 @@ Important discovery from the last decade:
 
 The mechanism:
 
-- During deep sleep, brain cells slightly shrink — by about 60%, making more space between them.
+- During sleep, the space between brain cells expands, allowing cerebrospinal fluid to move more easily through brain tissue.
+- In the classic research, the interstitial space was observed to expand by roughly 60% during sleep.
 - Cerebrospinal fluid (the fluid your brain floats in) flows through these spaces.
 - The fluid carries waste proteins out of the brain.
 - One of the proteins cleared this way is called **beta-amyloid**. It builds up if not cleared. (Buildup of beta-amyloid is associated with Alzheimer's disease in older adults — emerging research is exploring the connection between sleep and long-term brain health, though this is still active science.)
@@ -242,6 +248,8 @@ Brief discussion:
 ### Goal
 
 Observe your own sleep patterns and what you notice about how you feel after different nights of sleep.
+
+This is observation only. Do not intentionally sleep less in order to create a bigger effect.
 
 ### Activities
 

@@ -10,9 +10,9 @@ const features = [
       'Students learn that sweating, shivering, and hunger are system alerts — triggered when variables drift outside acceptable tolerances.',
   },
   {
-    title: 'Fuel vs. Filler',
+    title: 'Different Inputs, Different Jobs',
     description:
-      'Diet reframed as a chemical engineering problem: calories are thermal energy, macronutrients are structural materials and lubricants.',
+      'Food-label Calories measure energy in food, and carbohydrates, fats, proteins, vitamins, and minerals all play different system roles.',
   },
   {
     title: 'Sleep is System Defragmentation',
@@ -55,7 +55,7 @@ const roadmapSections = [
   {
     title: 'The Optimization Protocol',
     weeks: 'Weeks 15–18',
-    description: 'Design, test, and iterate a personal health system',
+    description: 'Design, test, and iterate a personal observation protocol',
   },
 ];
 
@@ -103,9 +103,9 @@ export default function HomepageFeatures() {
           <p className={styles.sectionLead}>
             Health Systems Literacy for Kids is an 18-week curriculum for ages 8–12, built for
             classroom teachers, homeschool families, caregivers, and after-school leaders.
-            Students move from blindly following health rules to actively managing their
-            physiological operating system — understanding how the body runs, what breaks it,
-            and how to maintain it intentionally.
+            Students move from blindly following health rules to understanding how their
+            body systems work — noticing patterns, building vocabulary, and learning the
+            mechanisms behind sleep, energy, immunity, and repair.
           </p>
         </div>
       </section>
@@ -139,7 +139,7 @@ export default function HomepageFeatures() {
           <Heading as="h2">Core Concepts</Heading>
           <p className={styles.sectionLead}>
             The curriculum is organized around mental models that help students transition
-            from blindly following health rules to actively managing their own biological systems.
+            from blindly following health rules to understanding their own biological systems.
           </p>
           <div className={styles.cardGrid}>
             {features.map((feature) => (
@@ -154,7 +154,7 @@ export default function HomepageFeatures() {
           <Heading as="h2">Curriculum Roadmap</Heading>
           <p className={styles.sectionLead}>
             The learning progression moves from baseline telemetry and fuel chemistry through
-            immune systems and sleep science, culminating in a personal health optimization
+            immune systems and sleep science, culminating in a personal observation
             protocol that students design, test, and present.
           </p>
           <div className={styles.roadmapGrid}>

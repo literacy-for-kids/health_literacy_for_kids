@@ -2,7 +2,7 @@
 sidebar_position: 17
 sidebar_label: "Week 17: Running the Experiment and Collecting Data"
 title: "Week 17: Running the Experiment and Collecting Data"
-description: "Students implement their health maintenance protocol in the real world and collect data on outcomes."
+description: "Students implement their observation protocol in the real world and collect simple, honest data."
 ---
 
 # Week 17: Running the Experiment and Collecting Data
@@ -16,12 +16,17 @@ This is the longest "single" week in the curriculum — it runs across two full 
 
 ---
 
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. If tracking increases anxiety, simplify the protocol, switch to observation-only, or pause.
+:::
+
 :::info Facilitator Snapshot
 - Two weeks of daily data collection. Daily tracking should be small — 2 to 3 minutes maximum.
 - Two facilitator touchpoints: one at the start ("Setting Up the Tracking System") and one around the midpoint ("Mid-Course Review").
 - The midpoint check is not optional. Many students will hit a friction point in the first week. If the protocol is unworkable, fix it now — don't wait until Week 18 to discover it was broken.
 - Honest framing matters: two weeks is short for many health variables. The goal isn't "did I get dramatically better." It's "can I see a pattern in my own data."
 - Tracking consistency is the actual achievement of this week. A student who tracked every day and saw no change has run a successful experiment.
+- Missing data is not failure, and the dataset stays private unless the learner chooses to share it.
 :::
 
 :::tip Quick Navigation
@@ -38,7 +43,7 @@ This is the longest "single" week in the curriculum — it runs across two full 
 | **Prep time** | ~5 minutes per session; ~3 minutes per day of tracking |
 | **Materials** | Bio-Telemetry Log, the Week 15 protocol, a tracking sheet (paper or simple digital), the timer/watch/app needed for the specific metric |
 | **Key vocabulary** | tracking, adherence, context, dataset, midpoint review, friction point |
-| **Difficulty** | Intermediate — sustained effort over two weeks
+| **Difficulty** | Intermediate — sustained effort over two weeks |
 
 ## Facilitator Preparation
 
@@ -47,6 +52,8 @@ This is the longest "single" week in the curriculum — it runs across two full 
 - Decide when the midpoint check-in will happen and put it on the calendar. Roughly 7 days after tracking starts.
 - Be ready for the protocol to need adjustment. That's normal. A protocol that can't be followed is a protocol with a design problem, not a moral failing.
 - Keep tracking small. If a student is trying to record more than three things per day, that's a sign the system is too complex.
+- The learner does not have to share the tracking sheet with anyone else. Treat it like private science data.
+- If tracking increases anxiety, simplify the protocol or stop. That is useful information about the protocol.
 :::
 
 :::tip Facilitation Mindset
@@ -248,6 +255,8 @@ Track every day. At the end of two weeks, you have a complete dataset.
 **1. Daily Tracking (the whole two weeks)**
 
 Every day, do your 2–3 minute tracking ritual. Fill in the row. If you skip a day, leave it blank — don't backfill from memory. Honest data beats complete data.
+
+If the tracking starts to feel too intense or too personal, simplify it or pause it. That is allowed.
 
 If you adjust the protocol mid-experiment, note the date of the change in your Bio-Telemetry Log so the data still makes sense later.
 

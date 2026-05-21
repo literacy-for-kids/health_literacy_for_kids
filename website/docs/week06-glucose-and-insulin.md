@@ -2,7 +2,7 @@
 sidebar_position: 6
 sidebar_label: "Week 6: The Blood Sugar Spike and Crash Cycle"
 title: "Week 6: The Blood Sugar Spike and Crash Cycle"
-description: "Students learn why simple carbohydrates cause rapid system spikes followed by crashes, while complex foods provide slow-burn energy."
+description: "Students learn how the glucose-insulin loop responds to faster and slower fuel delivery patterns."
 ---
 
 # Week 6: The Blood Sugar Spike and Crash Cycle
@@ -16,12 +16,17 @@ You'll see this loop in action by eating two different breakfasts and tracking h
 
 ---
 
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. If something feels scary, painful, extreme, or confusing, pause and talk to a trusted adult or healthcare professional.
+:::
+
 :::info Facilitator Snapshot
 - This week is about a control loop, not about food shaming.
 - Keep it at the system level. No glycemic index numbers. No specific food recommendations. No diet advice.
-- The key insight: rapid spikes cause rapid drops. The system prefers gradual, steady input over sharp pulses.
+- The key insight: rapid spikes often cause rapid drops. The system usually handles gradual, steady input more smoothly.
 - The breakfast comparison activity is the centerpiece. Frame it as "watch the loop in action," not "look how bad sugary cereal is."
 - Never describe any food as "bad." Stay in fuel-delivery-rate language.
+- Glucose responses vary between people and between meals. One breakfast is one data point, not a verdict on a food or on a person.
 :::
 
 :::tip Quick Navigation
@@ -49,6 +54,7 @@ You'll see this loop in action by eating two different breakfasts and tracking h
 - You'll need two different mornings to test these — Session 2 sets up the experiment, and the Independent Practice runs it.
 - **Do not frame this as "Breakfast A is bad, Breakfast B is good."** Frame it as: "we're going to observe what happens with two different fuel delivery patterns."
 - If the learner has any dietary restrictions or allergies, adapt the foods. The activity works with any pair where one is fast-burning carbs and the other is balanced.
+- If food tracking feels too personal, use two fictional breakfast examples on paper and keep the student's own Log focused on energy patterns only.
 :::
 
 :::tip Facilitation Mindset
@@ -142,11 +148,13 @@ Insulin works fast. Glucose drops. But sometimes — because the surge of insuli
 When that happens, the learner often feels:
 
 - Tired or sluggish
-- Hungry again (even though they just ate a lot of calories)
+- Hungry again even though they just ate
 - A little irritable
 - Foggy or unfocused
 
 This is the "**crash**" people talk about after sugary food. It's not a moral failing of the food. It's the loop over-correcting because the input came in too fast.
+
+Different people can also have different responses to the exact same meal. Bodies vary.
 
 ---
 
@@ -226,6 +234,8 @@ A small rise, sustained at a moderate level, then a gentle return.
 Tell the learner you're going to test this on yourself.
 
 > "Pick two mornings this week. One morning, eat [Breakfast A — the quick-carb option]. The other morning, eat [Breakfast B — the balanced option]. Try to make the mornings similar in other ways (same wake time, same activities, similar sleep the night before)."
+
+If you do not want to compare your own breakfasts, you can compare two fictional breakfast profiles on paper and still track your own energy on normal mornings. Both versions teach the loop.
 
 For each morning, you'll track:
 
@@ -328,7 +338,7 @@ If the learner can do at least 2 of these, they're ready for Week 7.
 
 > "Some people would call Breakfast A a 'bad' breakfast. But it's not bad. It's a different fuel delivery profile. If you're about to do a quick sprint, a fast-carb snack is actually the RIGHT fuel — quick energy that the muscles can use immediately. The delivery profile matters less than whether it matches what the system needs in that moment."
 
-**This week's takeaway:** Food isn't moral. It's chemistry meeting a control loop. The loop prefers steady delivery, but the system can handle spikes — it just costs more energy to handle them. Understanding that is more useful than any food rule.
+**This week's takeaway:** Food isn't moral. It's chemistry meeting a control loop. The loop often handles steady delivery more smoothly, but one meal is still just one data point. Understanding that is more useful than turning a breakfast into a rule.
 :::
 
 ---

@@ -17,10 +17,14 @@ These numbers will become reference points for the rest of the curriculum. You'l
 ---
 
 :::warning Note for Facilitators
-This activity measures normal physiological parameters in a healthy child at rest and during light exercise. **It is an educational activity, not a medical assessment.** If a student consistently shows unusual readings (very high resting heart rate, difficulty recovering, significant breathlessness from light activity), discuss this with a doctor. All students should be assessed as comfortable to participate before the exercise component begins. If the learner has a heart condition, asthma, or any medical reason to avoid moderate exertion, skip the exercise portion and focus on resting measurements only.
+This activity measures normal physiological parameters in a healthy child at rest and during light exercise. **It is an educational activity, not a medical assessment.** Treat the Bio-Telemetry Log like private science notes, not a scoreboard. If a student consistently shows unusual readings (very high resting heart rate, difficulty recovering, significant breathlessness from light activity), discuss this with a doctor. If the learner has a heart condition, asthma, or any medical reason to avoid moderate exertion, skip the exercise portion and focus on resting measurements only. If pain, dizziness, chest pain, breathing difficulty, or feeling unsafe shows up during the activity, stop immediately.
 :::
 
 ---
+
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. If something feels scary, painful, extreme, or confusing, pause and talk to a trusted adult or healthcare professional.
+:::
 
 :::info Facilitator Snapshot
 - This week is the first time the learner generates real data about themselves.
@@ -28,6 +32,7 @@ This activity measures normal physiological parameters in a healthy child at res
 - Recovery time is the most interesting number. It tells you how fast the loops can bring the system back to baseline.
 - These measurements will be repeated in Week 17. Save them carefully.
 - Frame the numbers as DATA, not as a grade. There is no "good" or "bad" number — only their personal baseline.
+- No comparison rule: the numbers are for understanding the learner's own system, not comparing them with anyone else.
 :::
 
 :::tip Quick Navigation
@@ -193,6 +198,8 @@ Walk the learner through what you're going to do, BEFORE you do it:
 > We're watching how fast your loops bring your heart rate back to baseline. That recovery is what we're studying."
 
 Confirm the learner feels good and wants to do the activity. If they say no, switch to a lighter activity (a brisk walk for 60 seconds) or skip and use a different physiological event for baseline (e.g., a slow walk).
+
+If pain, dizziness, chest pain, breathing difficulty, or feeling unsafe shows up at any point, stop immediately.
 
 ---
 

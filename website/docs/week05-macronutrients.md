@@ -2,7 +2,7 @@
 sidebar_position: 5
 sidebar_label: "Week 5: Structural Materials vs. Thermal Energy"
 title: "Week 5: Structural Materials vs. Thermal Energy"
-description: "Students reframe diet as a chemical engineering problem, distinguishing thermal energy inputs from structural materials and lubricants."
+description: "Students distinguish energy inputs, structural materials, and helper molecules in the body's chemical plant."
 ---
 
 # Week 5: Structural Materials vs. Thermal Energy
@@ -10,7 +10,7 @@ description: "Students reframe diet as a chemical engineering problem, distingui
 
 Last week we tracked food from mouth to cell. This week we look at what the food is actually made of.
 
-**Food contains three big fuel types: carbohydrates, fats, and proteins. They are not interchangeable. Each one is used by the body for different purposes. On top of that, food carries micronutrients — small amounts of vitamins and minerals — that act as lubricants and cofactors. Without them, the chemical plant can't run, no matter how much fuel you put in.**
+**Food contains three big fuel types: carbohydrates, fats, and proteins. They are not interchangeable. Each one is used by the body for different purposes. On top of that, food carries micronutrients — small amounts of vitamins and minerals — that act like helper molecules and cofactors. Without them, the chemical plant can't run, no matter how much fuel you put in.**
 
 Diet is a chemical engineering problem, not a moral one.
 
@@ -18,7 +18,7 @@ Diet is a chemical engineering problem, not a moral one.
 
 :::info Facilitator Snapshot
 - This week introduces the three macronutrients and the concept of micronutrients.
-- The biggest pedagogical move: replace "good food" / "bad food" with "what is this fuel DOING in the system?"
+- The biggest pedagogical move: replace food-morality language with "what is this input doing in the system?"
 - Protein is the most surprising one for kids — they usually think of food as energy, but protein is largely STRUCTURAL.
 - Avoid all dietary prescriptions. The point is to understand the categories, not to grade their lunch.
 :::
@@ -194,7 +194,7 @@ Cells are constantly being built, repaired, and replaced. The body needs a stead
 ---
 
 ## Guided Session 2
-### Micronutrients — The Lubricants
+### Micronutrients — The Helper Molecules
 #### Learning Goal
 By the end of this session, the student can:
 
@@ -206,11 +206,11 @@ By the end of this session, the student can:
 
 #### Activities
 
-**1. The Lubricant Analogy**
+**1. The Helper-Molecule Analogy**
 
 > "Imagine a car engine. The fuel is gasoline — that's the macronutrients. But the engine also needs oil. Just a small amount, but if the oil runs out, the engine seizes. The car can have a full tank of gas and still not run."
 
-> "Micronutrients — vitamins and minerals — are the oil. The body only needs small amounts. But if a key vitamin or mineral runs out, certain enzymes stop working, and the chemical plant grinds to a halt in specific places."
+> "Micronutrients — vitamins and minerals — are more like tiny helper molecules and cofactors. The oil analogy helps us picture their importance, but bodies are not literal engines. The body only needs small amounts. But if a key vitamin or mineral runs out, certain enzymes stop working, and the chemical plant grinds to a halt in specific places."
 
 ---
 
@@ -235,7 +235,7 @@ Pull out one of the food packages you gathered. Find the nutrition facts panel.
 Walk through what's there:
 
 - **Serving size:** how much they're describing.
-- **Calories:** total thermal energy in one serving.
+- **Calories:** the amount of food energy listed for one serving.
 - **Total fat:** how much of that energy is from fat.
 - **Total carbohydrate:** how much is from carbs. Sub-categories: sugars (simple carbs) and fiber (carbs the body can't break down).
 - **Protein:** how much is protein.
@@ -304,7 +304,7 @@ Some foods don't have labels — fruit, vegetables, eggs, fresh meat, beans. Pic
 
 - Did any food surprise you with its macronutrient content?
 - Which food did you eat the most of this week?
-- If carbs are fast fuel, fats are slow fuel, and proteins are building blocks, what do you think a meal needs to have?
+- If carbs, fats, proteins, and micronutrients do different jobs, what jobs do you notice in the meals you eat?
 
 ---
 
@@ -323,9 +323,9 @@ If the learner can do at least 2 of these, they're ready for Week 6.
 ## Pause and Notice
 
 :::note What Matters Here
-> "When you hear someone say a food is 'healthy' or 'unhealthy,' what does that actually mean? Now that you know food is mostly carbs, fats, proteins, and micronutrients — does the 'good food / bad food' way of talking still make sense?"
+> "Once you know foods are mixtures of carbs, fats, proteins, and micronutrients, food-morality language becomes a lot less useful. Different inputs do different jobs."
 
-This is a powerful frame shift. There's no such thing as a "bad" food in pure systems terms. There are only fuel types and what they do in the body. A piece of candy is mostly simple carbs — fast fuel. A piece of broccoli is mostly fiber and micronutrients — limited fuel, lots of lubricants. Neither is good or bad. They do different things.
+This is a powerful frame shift. In this curriculum, foods are not moral rankings. They are combinations of energy, structure, and helper molecules. A piece of candy is mostly fast fuel. A piece of broccoli is mostly fiber and micronutrients. They do different things.
 
 **This week's takeaway:** Diet is a chemical engineering problem. Different fuels do different jobs. Nobody is allowed to shame anybody — including themselves — about food choices in this curriculum. We just look at what each input does in the system.
 :::
@@ -337,7 +337,7 @@ This is a powerful frame shift. There's no such thing as a "bad" food in pure sy
 :::tip Connecting to Earlier Weeks
 **From Week 4:** Last week you learned that food becomes ATP. This week you learned that food has three main fuel types, plus micronutrient lubricants. Each fuel type takes a different path to becoming ATP (or to becoming structural material instead of ATP).
 
-**From Week 1:** Hunger is a system alert — but the body doesn't just want "calories." It wants the right MIX of carbs, fats, proteins, and micronutrients. That's why eating only one kind of food for too long doesn't satisfy the system properly.
+**From Week 1:** Hunger is a system alert — but the body doesn't only need energy. It also needs structure and helper molecules. That's why eating only one kind of food for too long doesn't support the whole system very well.
 :::
 
 ---

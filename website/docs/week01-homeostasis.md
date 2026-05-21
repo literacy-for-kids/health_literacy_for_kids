@@ -18,11 +18,16 @@ You are not just a person. You are hardware, firmware, and software, all running
 
 ---
 
+:::note Where the Metaphor Breaks
+The engineering frame helps us see patterns, but bodies are living systems, not literal machines. Different bodies can send different signals. The goal is not perfect control. The goal is to understand the signals with curiosity.
+:::
+
 :::info Facilitator Snapshot
 - This week is about a vocabulary shift. We are introducing the engineering frame that runs through the whole course.
 - The big "aha" is that symptoms are signals, not random feelings. Sweating is not just uncomfortable — it is the body actively cooling itself.
 - Keep it experiential. Make the learner notice their own body, not memorize terms.
 - Introduce the Bio-Telemetry Log at the end of the week. A simple notebook is all you need.
+- Most system alerts are useful information. Some alerts also need adult or medical help right away: severe pain, trouble breathing, fainting, chest pain, severe allergic reaction symptoms, or signs of severe dehydration.
 :::
 
 :::tip Quick Navigation
@@ -45,6 +50,7 @@ You are not just a person. You are hardware, firmware, and software, all running
 
 :::info Before You Begin
 - Set up a notebook or folder for the Bio-Telemetry Log. It will be used all 18 weeks.
+- Treat the Bio-Telemetry Log like a private science notebook. The learner chooses what to share.
 - Have a glass of cold water available for the "step outside on a cold day" demonstration (or actually step outside if the weather cooperates).
 - Read through both guided sessions before starting.
 - Set up a visual timer if helpful.
@@ -54,6 +60,10 @@ You are not just a person. You are hardware, firmware, and software, all running
 This week is about **wonder**, not memorization.
 
 Don't lecture about biology. Let the learner notice their own body in real time and then give them the vocabulary to name what they observed. The order is: experience first, label second.
+:::
+
+:::warning Some Alerts Need Backup
+Most alerts are part of a healthy system doing its job. Some are also reasons to pause the lesson and get adult or medical help right away: severe pain, trouble breathing, fainting, chest pain, severe allergic reaction symptoms, or signs of severe dehydration.
 :::
 
 ## For Younger Learners (Ages 8–9)
@@ -271,7 +281,7 @@ Make a quick table:
 
 Discussion:
 
-> "Notice that none of these alerts are 'bad.' They are the system working correctly. A body that NEVER felt hungry would be broken. The alerts ARE the system being healthy."
+> "Notice that these alerts are not random or shameful. They are signals. Most of them mean the system is doing its job. A body that NEVER felt hungry would have a serious problem. And remember: some alerts still mean it's time to get adult or medical help."
 
 ---
 

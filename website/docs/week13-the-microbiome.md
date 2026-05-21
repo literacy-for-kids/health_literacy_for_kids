@@ -2,7 +2,7 @@
 sidebar_position: 13
 sidebar_label: "Week 13: The Symbiotic Co-Processor in Your Gut"
 title: "Week 13: The Symbiotic Co-Processor in Your Gut"
-description: "Students learn about the microbiome as a symbiotic co-processor — trillions of gut microbes that break down complex fuels and synthesize neurotransmitters."
+description: "Students learn about the microbiome as a symbiotic co-processor — trillions of gut microbes that break down complex fuels and influence other body systems."
 ---
 
 # Week 13: The Symbiotic Co-Processor in Your Gut
@@ -10,17 +10,22 @@ description: "Students learn about the microbiome as a symbiotic co-processor �
 
 This week is one of the most surprising weeks in the whole curriculum. Get ready.
 
-**You are not one organism. You are an ecosystem. Living inside you — mostly in your large intestine — are trillions of microbes. Roughly the same number of microbial cells as human cells, possibly more. They are not stowaways. They are a third-party processing plant your body depends on. They break down fiber, produce vitamins, synthesize neurotransmitters that affect your mood, and crowd out harmful bacteria. You feed them; they feed you back.**
+**You are not one organism. You are an ecosystem. Living inside you — mostly in your large intestine — are trillions of microbes. Roughly the same number of microbial cells as human cells, possibly more. They are not stowaways. They are a third-party processing plant your body depends on. They break down fiber, produce vitamins, influence other body systems through chemical signaling, and crowd out harmful bacteria. You feed them; they feed you back.**
 
 This week is meant to feel like a discovery. Walk into it ready to be surprised.
 
 ---
+
+:::note Where the Metaphor Breaks
+The co-processor metaphor helps us picture partnership, but microbes are living organisms interacting with digestion, immunity, development, and the nervous system all at once. The gut-brain connection is real, and many details are still active research.
+:::
 
 :::info Facilitator Snapshot
 - This week is about WOW. The microbiome facts are genuinely incredible — most kids and adults have never been told them.
 - The two big "wow" moments: (1) you contain roughly as many microbial cells as human cells, and (2) gut microbes affect mood through the gut-brain axis.
 - The framing throughout: this is an ecosystem you HOST. You and your microbes are partners.
 - Gut-brain axis content is active research. Frame as "emerging research suggests" — not definitive.
+- Use the word "influences" more often than "controls" when talking about mood or behavior.
 :::
 
 :::tip Quick Navigation
@@ -46,6 +51,7 @@ This week is meant to feel like a discovery. Walk into it ready to be surprised.
 - Have a fermented food on hand if possible — it's interesting to look at and discuss.
 - Review the rough numbers: ~37 trillion human cells, ~38 trillion microbial cells (most estimates), ~1000 species of bacteria typical in a healthy adult gut. These numbers are approximate and have been refined over time.
 - **Gut-brain axis caveat:** Frame all gut-brain claims as "emerging research suggests" rather than definitive. The connection is real and well-documented, but specific causal claims are still being worked out.
+- Do not turn this lesson into probiotics or supplement advice. Product decisions belong to families and healthcare professionals.
 :::
 
 :::tip Facilitation Mindset
@@ -71,7 +77,7 @@ This week should feel like a magic trick. Walk into it like a magician about to 
 :::info For Ages 10–12
 - Discuss specific microbial functions (short-chain fatty acid production, vitamin K synthesis, B12 synthesis).
 - Discuss the development of the microbiome — babies acquire their first microbes during birth and breastfeeding, and the microbiome continues to develop through childhood.
-- Discuss specific research findings on the gut-brain axis (90% of serotonin produced in the gut, etc.) with the appropriate "emerging research" caveat.
+- Discuss specific research findings on the gut-brain axis with the appropriate "emerging research" caveat, including the nuance that most body serotonin is made in the gut but most of it acts locally there.
 :::
 
 ---
@@ -154,7 +160,8 @@ By the end of this session, the student can:
 
 Some facts (with appropriate framing):
 
-- About 90% of the body's **serotonin** (a chemical involved in mood and sleep) is produced in the gut.
+- Most of the body's **serotonin** is produced in the gut.
+- Most gut serotonin acts locally in the gut and does not simply cross into the brain. The gut-brain connection is real, but the pathway from gut chemistry to mood is indirect and still being studied.
 - Gut microbes can produce or influence the production of neurotransmitters — chemicals that affect the brain.
 - Some research suggests that the composition of the microbiome influences mood, anxiety, and even thinking. This is active research — the connection is real, but specific causes and effects are still being mapped.
 
@@ -206,6 +213,8 @@ What reduces it:
 - Significant chronic stress
 
 > "We're NOT telling you to change your diet. Diet decisions are family decisions. But knowing that variety matters — that's information you can use however your family decides to use it."
+
+> "And we're not using this lesson to suggest supplements or probiotic products. This is science information, not a product recommendation."
 
 If you have a fermented food on hand, take it out and look at it. Yogurt contains live bacterial cultures. So does sauerkraut, miso, kombucha, kefir. When you eat them, you're literally consuming live microbes — many of which pass through and can briefly join your microbiome.
 

@@ -10,11 +10,23 @@ description: "Students explore the physiological mechanisms of chronic stress an
 
 This week is the capstone of the entire firmware framing.
 
-**The body you're walking around in evolved over millions of years to handle a specific kind of environment — one with intermittent acute threats (a predator, a storm, a fight) separated by long periods of recovery. Your hardware is excellent at that pattern. It is much less excellent at handling sustained, low-level threat signals that never quite resolve. Chronic stress is what happens when the body's acute stress system runs nonstop. This week we look at exactly how the system runs, what the hardware costs of running it sustainably are, and what the documented recovery mechanisms look like. The body is running software that evolved for a different environment. The hardware hasn't updated. Your job is to run it intelligently.**
+**The body you're walking around in evolved over millions of years to handle a specific kind of environment — one with intermittent acute threats (a predator, a storm, a fight) separated by long periods of recovery. Your hardware is excellent at that pattern. It is much less excellent at handling sustained, low-level threat signals that never quite resolve. Chronic stress is what happens when the body's acute stress system runs nonstop. This week we look at exactly how the system runs, what the hardware costs of running it sustainably are, and what the documented recovery mechanisms look like. The body is running software that evolved for a different environment. The hardware hasn't updated. Your job here is to understand the system, not to solve every stressor.**
 
 This is the final optional week. Take it seriously.
 
 ---
+
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. If something feels scary, painful, extreme, or confusing, pause and talk to a trusted adult or healthcare professional.
+:::
+
+:::warning Emotional Safety Note
+This optional week talks about chronic stress. Some learners may recognize stressors in their own lives that they cannot control. This curriculum is not asking them to fix those stressors. If this topic feels personal, scary, or overwhelming, pause and talk with a trusted adult, caregiver, counselor, or appropriate support person.
+:::
+
+:::note Where the Metaphor Breaks
+The hardware/software framing helps picture stress physiology, but real stress responses are shaped by relationships, environment, development, disability, trauma, neurodivergence, and social context. Not all stressors are controllable.
+:::
 
 :::info Facilitator Snapshot
 - This is heavy material. The mechanisms are real and well-documented in the medical literature. Pace yourself.
@@ -23,6 +35,8 @@ This is the final optional week. Take it seriously.
 - The recovery mechanisms are NOT wellness tips. They're documented physiological reset mechanisms. Present them that way.
 - "The body is running software that evolved for a different environment. The hardware hasn't updated." This is the framing line for the whole week.
 - DO NOT prescribe behavior. DO NOT moralize about stress. Some chronic stressors in a student's life are not things they can change. The goal is understanding, not optimization.
+- Participation in this optional week should stay optional.
+- This lesson is not therapy, and recovery mechanisms are real biology, not moral obligations.
 :::
 
 :::tip Quick Navigation
@@ -48,6 +62,7 @@ This is the final optional week. Take it seriously.
 - Be ready for the student to ask about stressors in their own life. Listen carefully. This is NOT a session for problem-solving their personal stressors — that's a different conversation, possibly with a different adult. This session is about understanding the mechanism.
 - If a student seems distressed during this material — e.g., recognizing themselves in the chronic stress description — pause the content and ask how they're doing. If you're not the right person to support them through that, you can say so honestly: "This sounds like something to talk about with [trusted adult / parent / counselor]. The science doesn't replace that conversation."
 - The recovery mechanisms section is informational. The student does not need to start doing breathing exercises this week to "pass" the curriculum.
+- The stress-load map can use fictional examples, a book or movie character, a generic school week, or small stressors only. No learner has to disclose private stressors.
 :::
 
 :::tip Facilitation Mindset
@@ -79,7 +94,7 @@ This week is genuinely advanced and emotionally weighted. For 8–9 year olds, s
 :::info For Ages 10–12
 - Full gland and hormone terminology.
 - Discuss the chronic effects section with appropriate context about timescales.
-- The "stress load map" activity should use specific events from the past week.
+- The "stress load map" activity may use specific events from the past week, a fictional example, a generic school week, or small stressors only.
 :::
 
 ---
@@ -271,6 +286,8 @@ This is the key insight: recovery is not optional. The body's design assumes rec
 
 > "These are NOT wellness tips. They are documented physiological reset mechanisms. The body has built-in pathways for ending the stress response. We're going to describe them as the engineering they are."
 
+Recovery mechanisms are real biology, not moral obligations. Not using one is not a failure.
+
 **Mechanism 1: Slow Deep Breathing (Vagal Engagement)**
 
 > "Stretch receptors in the lungs are connected to the vagus nerve — the same vagus nerve you learned about in Optional Week 1. When you take slow deep breaths, the stretch in the lungs signals the vagus nerve. The vagus nerve triggers the parasympathetic nervous system, which is the counter-balance to the sympathetic nervous system."
@@ -322,7 +339,7 @@ The relationship:
 
 > "The system has two parts: a stress response (designed correctly) and a recovery response (also designed correctly). Both are real, both are physiological, both are necessary. The problem isn't stress. The problem is when stress activation happens without recovery activation. The hardware needs the down cycle."
 
-> "Your job is not to eliminate stress from your life. That's not possible and not desirable. Your job is to recognize that the system has a recovery phase, and that the recovery phase is real biology — not optional, not soft, not a luxury. It's part of the engineering."
+> "Your job is not to eliminate stress from your life. That's not possible and not desirable. Your job here is to recognize that the system has a recovery phase, and that the recovery phase is real biology. Some stressors are outside a learner's control, and this lesson is not asking anyone to fix unsafe or unfair situations."
 
 ---
 
@@ -330,13 +347,15 @@ The relationship:
 
 ### Goal
 
-Map your own stress activations from the past week — not to fix them, but to see the system running. Then identify the recovery mechanisms that were available, and the ones that weren't.
+Map a week of stress activations — not to fix them, but to see the system running. Then identify the recovery mechanisms that were available, and the ones that weren't.
 
 ### Activities
 
 **1. The Stress Load Map**
 
-Think back over the past week. On a piece of paper, make a table:
+You may map your own week, a fictional example, a book or movie character, a generic school week, or small stressors only. No one has to disclose personal stressors.
+
+Think back over the past week, or choose one of the safer options above. On a piece of paper, make a table:
 
 | Day | What activated my stress response? | How long did it last? | What recovery happened (if any)? |
 |---|---|---|---|
@@ -348,11 +367,13 @@ Think back over the past week. On a piece of paper, make a table:
 | Sat | | | |
 | Sun | | | |
 
-Examples of stress activations: a hard test, a fight with a friend, a deadline, news about something scary, being late for something, social discomfort, physical pain, a parent in a bad mood, big change in plans.
+Examples of stress activations: a hard test, a fight with a friend, a deadline, news about something scary, being late for something, social discomfort, physical pain, or a big change in plans.
 
 Examples of recovery: full night of sleep, a walk or workout, time with a person you feel safe with, doing something that absorbed your attention (drawing, reading, music), slow breathing, downtime alone.
 
 > "We're not labeling things 'good' or 'bad.' We're looking at the cycle. Activation. Recovery. Activation. Recovery."
+
+> "If this feels too personal, switch to a fictional or small-stressor example. That is completely allowed."
 
 ---
 
@@ -393,11 +414,11 @@ In your Bio-Telemetry Log, write:
 >
 > _______________________________________
 >
-> "A recovery mechanism that I have access to but don't always use:"
+> "A recovery mechanism that was available in this example:"
 >
 > _______________________________________
 
-The second one is intentionally framed without prescription. You're noticing what's available, not committing to anything.
+The second one is intentionally framed without prescription. You're noticing what is available, not making a promise.
 
 ### Bio-Telemetry Log
 
@@ -407,7 +428,7 @@ The second one is intentionally framed without prescription. You're noticing wha
 >
 > **Something about the stress response I now understand differently:** _____________
 >
-> **A recovery mechanism that I have access to:** _____________
+> **A recovery mechanism that was available in this example:** _____________
 >
 > **Most surprising fact from this week:** _____________
 
@@ -442,9 +463,9 @@ If the learner can do at least 2 of these, the week has landed.
 
 > "You know all of that now. Not as a vague feeling — as actual biology. That changes things. You can look at a stressful moment and recognize what's happening in your body. You can recognize that the recovery side of the cycle is real biology, not weakness. You can recognize that being chronically stressed isn't a character flaw — it's the body running a system that wasn't designed for the modern environment."
 
-> "The framing for this entire curriculum has been: the body is hardware running software. This week is where that framing matters most. The body is running software that evolved for a different environment. The hardware hasn't updated. Your job — your actual job — is to run the hardware intelligently. That means using the recovery mechanisms. That means not pretending the system doesn't have limits. That means being honest with yourself about whether the activation-recovery cycle is balanced."
+> "The framing for this entire curriculum has been: the body is hardware running software. This week is where that framing matters most. The body is running software that evolved for a different environment. The hardware hasn't updated. But this lesson is not a moral scorecard. Some learners have access to more recovery than others, and some stressors are outside a child's control. Understanding the biology does not mean carrying the blame."
 
-**This week's takeaway:** Chronic stress is a hardware cost, not a character flaw. The recovery mechanisms are real biology. Knowing how the system works is the first step in running it intelligently.
+**This week's takeaway:** Chronic stress is a hardware cost, not a character flaw. The recovery mechanisms are real biology. Knowing how the system works is the first step in understanding it safely.
 :::
 
 ---

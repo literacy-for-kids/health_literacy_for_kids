@@ -19,7 +19,7 @@ This week we follow one bite of food from start to finish.
 :::info Facilitator Snapshot
 - This week is a tour of the digestive system reframed as a processing plant.
 - The key concept is ATP — the molecule that actually powers cells. Don't overemphasize ATP biochemistry; just establish that food becomes a usable energy currency.
-- Caloric density is introduced as "thermal energy per gram." No talk of "good" or "bad" foods, no calorie targets, no portion advice.
+- Food-label Calories are introduced as energy measurements, not moral scores. No calorie counting, no calorie targets, and no food ranking.
 - The goal is mechanism understanding, not dietary instruction.
 :::
 
@@ -45,6 +45,7 @@ This week we follow one bite of food from start to finish.
 - Choose a snack the learner already likes (a cracker, an apple slice, a piece of bread). Avoid anything new or with judgment loaded onto it.
 - Be ready to draw a simple body diagram showing mouth → stomach → small intestine → bloodstream → cells.
 - Review the term ATP. You only need to know it stands for "adenosine triphosphate" (no need to teach the chemistry) and that it's the molecule cells use as energy.
+- If food tracking feels too personal for a learner, use a fictional example meal and the pipeline drawing only. No one has to share personal food observations.
 :::
 
 :::tip Facilitation Mindset
@@ -166,7 +167,7 @@ ENERGY + BUILDING MATERIALS (used by cells)
 By the end of this session, the student can:
 
 - explain that cells use ATP as their energy currency
-- describe a calorie as a measurement of thermal energy
+- describe food-label Calories as a measurement of energy in food
 - explain that "metabolism" is the rate at which the body processes fuel
 
 ---
@@ -191,20 +192,20 @@ Each cell can make and use ATP at the same time. Cells in your muscles, your bra
 
 Now introduce calories. Be careful here — this is where diet culture lives. Stay on the engineering frame.
 
-> "A calorie is just a measurement of thermal energy. Specifically, it's the energy needed to heat 1 kilogram of water by 1 degree Celsius. That's it. It's like inches or pounds — a unit of measurement."
+> "On food labels, Calories are a measure of energy in food. Technically, the Calories on food labels are kilocalories, but most people just call them Calories. For this curriculum, the important idea is that Calories measure food energy, not moral value."
 
 > "Different foods carry different amounts of energy per gram:
-> - Fats: ~9 calories per gram
-> - Carbohydrates: ~4 calories per gram
-> - Proteins: ~4 calories per gram
-> - Water: 0 calories
-> - Fiber: mostly 0 calories (your body can't break it down)"
+> - Fats: about 9 Calories per gram
+> - Carbohydrates: about 4 Calories per gram
+> - Proteins: about 4 Calories per gram
+> - Water: 0 Calories
+> - Fiber: very little usable energy for your body"
 
 > "Energy density doesn't make a food 'good' or 'bad.' It just means some foods carry more thermal energy per bite. Fat is dense — it stores a lot of energy in a small package. That's why the body uses fat as long-term storage (we'll come back to this next week)."
 
 **Important to say out loud:**
 
-> "We're not going to talk about counting calories or any of that. The number itself isn't the point. What matters is understanding that fuel has measurable energy content, and your body uses that energy to run."
+> "We're not going to count Calories, set targets, or score food. The number itself isn't the point. What matters is understanding that food carries measurable energy, and your body uses that energy to run."
 
 ---
 
@@ -233,6 +234,8 @@ When you exercise, you burn more ATP. When you grow, you burn more ATP (building
 ### Goal
 
 Observe your own digestion in real time and notice how your energy levels change over the hours after a meal.
+
+If you would rather not track a real meal, use a fictional meal and complete only the pipeline drawing.
 
 ### Activities
 
@@ -304,7 +307,7 @@ If the learner can do at least 2 of these, they're ready for Week 5.
 
 > "Most adults don't know how food becomes energy. They just know 'I eat, then I have energy.' You now know the steps."
 
-The point of this week is to demystify the system. There's no magic. There's no "good food" / "bad food." There's just a chemical processing plant that takes input and makes ATP.
+The point of this week is to demystify the system. There's no magic, and there is no moral score hidden in the label. There is a chemical processing plant that takes input and makes ATP.
 
 **This week's takeaway:** You eat food. Your body breaks it into tiny pieces. The pieces become energy. That's the whole pipeline.
 :::

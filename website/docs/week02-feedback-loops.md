@@ -16,11 +16,16 @@ You'll learn to recognize which kind of loop is running, what each one is good f
 
 ---
 
+:::note Where the Metaphor Breaks
+The loop diagrams in this lesson are simplified on purpose. Real biological loops are noisy, influenced by many inputs at once, and sometimes get overwhelmed. The diagrams help us see the pattern, not every detail.
+:::
+
 :::info Facilitator Snapshot
 - The vocabulary words "negative feedback" and "positive feedback" don't mean "bad" and "good." They mean "dampening" and "amplifying."
 - Most of the body uses negative feedback. Positive feedback is the rare special case (childbirth, blood clotting, immune system ramping up).
 - The big insight is that the same machinery — control loops — can be tuned for stability OR for fast-amplification, and the body uses both.
 - This week sets up Week 3, where the learner will measure their own loops in action.
+- Real body loops are not single wires. Multiple sensors and signals often influence the same variable at the same time.
 :::
 
 :::tip Quick Navigation

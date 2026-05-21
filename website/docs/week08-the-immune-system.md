@@ -16,11 +16,16 @@ Most kids learn about the immune system as "white blood cells fight germs." That
 
 ---
 
+:::note Where the Metaphor Breaks
+The cybersecurity frame is useful, but the immune system is not just an attack system. It also has tolerance and regulation jobs. A healthy immune system has to know what to fight, what to leave alone, and when to calm back down.
+:::
+
 :::info Facilitator Snapshot
-- This week is heavy on metaphors. The cybersecurity frame works almost line-by-line.
+- This week is heavy on metaphors. The cybersecurity frame helps, but remember that the immune system also has tolerance and regulation functions.
 - Three layers to introduce: physical barriers (firewall), innate immunity (real-time antivirus), and adaptive immunity (learning system that writes antibodies).
 - Don't try to teach every cell type. Macrophages, T cells, B cells, dendritic cells — pick a few and use them as examples.
 - Vaccines are touched on briefly as "firmware updates" — a way of writing definitions without the cost of a real infection.
+- Not everything foreign is an enemy. Food, helpful microbes, and the body's own tissues all require the immune system to use restraint as well as force.
 :::
 
 :::tip Quick Navigation
@@ -44,7 +49,7 @@ Most kids learn about the immune system as "white blood cells fight germs." That
 :::info Before You Begin
 - Review the three-layer model: physical barriers → innate immunity → adaptive immunity.
 - Be ready to use the cybersecurity metaphors consistently throughout the lesson.
-- If the learner has any specific immune-related condition (allergies, autoimmune issue), feel free to discuss it as an example of "what happens when the firewall miscategorizes something." Stay in systems language.
+- If the learner has any specific immune-related condition (allergies, autoimmune issue), feel free to discuss it as an example of what happens when tolerance or regulation goes wrong. Stay in systems language.
 - This is a place where the curriculum touches on vaccines. Frame as: "vaccines are firmware updates — they teach the system to recognize a threat without the system having to be attacked first." Specific recommendations belong to families and doctors.
 :::
 

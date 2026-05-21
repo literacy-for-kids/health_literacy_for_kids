@@ -16,11 +16,16 @@ Most people don't realize how much of their daily experience is being governed b
 
 ---
 
+:::note Where the Metaphor Breaks
+Calling the morning rhythm a "boot sequence" is a helpful metaphor, not a literal startup file. Circadian biology is a coordinated timing network. Family schedules and school schedules do not always match a learner's biology, and that mismatch is not the learner's fault.
+:::
+
 :::info Facilitator Snapshot
 - This week introduces the circadian rhythm as the body's master clock.
 - The key actor is the **suprachiasmatic nucleus (SCN)** — a small cluster of cells in the brain that sets the rhythm based on light input through the eyes.
-- Cortisol rises in the morning to "boot up" the system. Melatonin rises in the evening to "shut down" the system. They oppose each other.
+- Cortisol is a steroid hormone made by the adrenal cortex and usually rises in the morning. Melatonin is a small hormone released by the pineal gland on a light/dark rhythm and usually rises in the evening.
 - This is not a "go to bed earlier" lecture. We're explaining the mechanism. Sleep timing decisions belong to families.
+- If a school or family schedule clashes with a learner's natural rhythm, frame that as a systems mismatch, not a character flaw.
 :::
 
 :::tip Quick Navigation
@@ -45,6 +50,7 @@ Most people don't realize how much of their daily experience is being governed b
 - Be ready to draw a 24-hour graph showing temperature, alertness, and hormone levels over a day.
 - Review the basic mechanism: light enters eyes → signals SCN → SCN coordinates hormone release → hormones drive the rhythm of body temperature, alertness, sleepiness, etc.
 - This week is the setup for next week's deep dive into sleep itself.
+- Keep the language non-blaming. If the learner notices that their schedule and their sleepiness do not line up neatly, that observation belongs in systems thinking.
 :::
 
 :::tip Facilitation Mindset
@@ -122,7 +128,7 @@ Draw a 24-hour horizontal graph. Now we plot several variables across the day:
 - Second peak in early evening
 - Drops sharply after sunset
 
-**Cortisol (the "wake up" hormone)**
+**Cortisol (a steroid hormone that helps the system wake up)**
 
 - Lowest in the middle of the night
 - Rises sharply 1–2 hours before waking (this is what wakes you up)
@@ -130,7 +136,7 @@ Draw a 24-hour horizontal graph. Now we plot several variables across the day:
 - Gradually drops through the day
 - Lowest in the evening
 
-**Melatonin (the "go to sleep" hormone)**
+**Melatonin (a small hormone that signals biological night)**
 
 - Lowest during the day
 - Begins rising about 2 hours before bedtime (dim-light onset)
@@ -310,7 +316,7 @@ This week, more than most, has a "huh, I didn't know that" quality. Sit with tha
 
 **From Week 2:** Cortisol and melatonin form an opposing pair — when one is high, the other is low. Just like opposite-acting actuators in a feedback loop.
 
-**From Week 5:** Hormones like cortisol and melatonin are proteins (well, melatonin is technically smaller, but cortisol is). Once again, the body is using protein-like signaling molecules to coordinate.
+**From Week 5:** Hormones are a separate category of chemical messengers. Cortisol is a steroid hormone made from cholesterol, and melatonin is a small hormone derived from tryptophan. Neither one is a protein.
 :::
 
 ---

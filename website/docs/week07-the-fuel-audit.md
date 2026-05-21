@@ -2,7 +2,7 @@
 sidebar_position: 7
 sidebar_label: "Week 7: Mapping Inputs to Output Performance"
 title: "Week 7: Mapping Inputs to Output Performance"
-description: "Students track their physical energy levels against fuel inputs to identify the correlation between high-glycemic inputs and the afternoon system crash."
+description: "Students track daily inputs and outputs to look for patterns without judgment or prescribed behavior change."
 ---
 
 # Week 7: Mapping Inputs to Output Performance
@@ -16,12 +16,17 @@ This is also a practice run for the capstone in Weeks 15–18.
 
 ---
 
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. If something feels scary, painful, extreme, or confusing, pause and talk to a trusted adult or healthcare professional.
+:::
+
 :::info Facilitator Snapshot
 - This week is data collection — three to four days of tracking.
 - Critical reminder: this is NOT a food-tracking exercise for diet purposes. It is a systems audit. Inputs and outputs.
-- The learner records what they ate, what they did, and how they felt. They look for correlations.
+- The learner records what they noticed coming in and what they noticed coming out. They look for correlations.
 - Do not, under any circumstances, use this week to push food behavior change. The point is to see the patterns. Family decisions about food belong to family.
 - Some learners may notice patterns about specific foods. That's interesting data, not a verdict.
+- Any learner may choose the non-food version of this audit for any reason, and they do not have to explain why.
 :::
 
 :::tip Quick Navigation
@@ -44,9 +49,10 @@ This is also a practice run for the capstone in Weeks 15–18.
 
 :::info Before You Begin
 - Plan the audit around a typical week. Don't pick a week with travel, holidays, or unusual events.
-- Have a simple tracking sheet ready (the format is in Session 1).
+- Have a simple tracking sheet ready (the format is in Session 1, and the [Printable Templates](./printable-templates.md) page has both food-inclusive and food-free versions).
 - **Important framing reminder:** This is not a food diary. It's a system audit. We're tracking inputs (food, sleep, activity) AND outputs (energy, mood, focus). Both sides of the loop.
-- If the learner has any history of disordered eating or food anxiety, swap food tracking for sleep tracking and energy tracking. The systems lesson still works without specific food entries.
+- Any learner may choose the food-free version of the audit for any reason. They do not have to explain why. Food-free options include sleep, energy, focus, hydration cues, and environmental patterns.
+- No calorie counting, no public sharing of logs, and no behavior-change assignments based on the audit.
 :::
 
 :::tip Facilitation Mindset
@@ -104,6 +110,11 @@ It's a careful examination of records to see what's actually happening. Companie
 
 > "We're going to collect data on what goes IN (food, sleep, water, activity) and what comes OUT (energy, focus, mood, physical performance). Then we'll look at the data and see if there are any patterns."
 
+Two equally valid versions of this audit:
+
+- **Food-inclusive audit:** meals are one type of input among several.
+- **Food-free audit:** skip meals completely and track sleep, focus, hydration cues, energy, activity, and environment only.
+
 ---
 
 **2. The Tracking Sheet**
@@ -138,6 +149,8 @@ _______________________________________________
 _______________________________________________
 ```
 
+If using the food-free version, replace the meal lines with things like bedtime consistency, morning light, hydration cues, environment notes, or activity patterns.
+
 You can simplify or expand this depending on the learner. Keep it short enough that they'll actually do it.
 
 ---
@@ -149,6 +162,8 @@ Important conversation before starting:
 > "When you're tracking, you might be tempted to change what you eat or what you do because you know it's being recorded. Try NOT to do that. Just live your normal week, and write down what actually happens. The data is only useful if it's honest."
 
 > "Also: nobody is going to grade this. Not me, not anyone. You're the only person looking at it. So you can be totally honest."
+
+> "You also do not have to share the sheet with anyone else. The data is not a grade, and your body is not being judged."
 
 Discussion question: "If you weren't being recorded, what would a typical Tuesday look like? Just go live that."
 
@@ -231,6 +246,8 @@ Complete 3–4 days of audit data. Then sit with the data and write up what you 
 Use the tracking sheet from Session 1. Fill it out at the end of each day, OR throughout the day if that works better. Do this for 3–4 days minimum.
 
 If a day goes sideways and you don't fill in the sheet, just skip that day. Don't try to reconstruct it from memory. Honest data only.
+
+If the tracking starts to increase anxiety or feel too personal, switch to the food-free version or stop. That is allowed.
 
 **2. The Pattern Hunt**
 

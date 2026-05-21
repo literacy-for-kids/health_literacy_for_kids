@@ -16,11 +16,16 @@ By the end of this week, you'll never look at a fever the same way again.
 
 ---
 
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. If trouble breathing, confusion, severe dehydration, a severe headache with a stiff neck, chest pain, or a high or persistent fever shows up, pause and involve a trusted adult or healthcare professional.
+:::
+
 :::info Facilitator Snapshot
 - This week is the most reframe-heavy of the curriculum. We're going to take symptoms that feel terrible (fever, swelling, runny nose, fatigue) and show what each one is actually doing.
 - The big idea: when you feel sick, you're feeling your immune system WORK. Almost every miserable symptom is a deliberate tactic.
 - This is also where the curriculum has to be careful: we are NOT saying "don't treat fever" or "let your child suffer." Reframing the mechanism is not the same as prescribing behavior.
 - Decisions about treatment belong to families and doctors. We're only explaining what the system is doing.
+- Fever having a purpose does not mean a fever is always safe or should always be left alone.
 :::
 
 :::tip Quick Navigation
@@ -45,6 +50,7 @@ By the end of this week, you'll never look at a fever the same way again.
 - Be ready to walk through a step-by-step timeline of an immune response.
 - Be ready to discuss fever as a deliberate set-point shift (calling back to Week 2's set point concept).
 - **Important medical disclaimer to share with the learner:** "Understanding what a fever is doing does not mean you have to suffer through it. High fevers can be dangerous, and your family and your doctor decide how to treat them. We're just explaining the mechanism."
+- If a real illness story starts raising immediate concern, pause the lesson. Trouble breathing, confusion, severe dehydration, severe pain, chest pain, a severe headache with a stiff neck, or a high or persistent fever are not discussion prompts. They are reasons to get adult or medical help.
 - If the learner has chronic inflammation, allergies, or autoimmune conditions, you can use those as examples of "the system running this response when it doesn't need to" — but stay careful and respectful.
 :::
 
@@ -186,7 +192,7 @@ Why?
 
 > "When you have a fever, your body isn't 'overheating.' It's deliberately heating up to give itself an advantage over the pathogen. It's a tactical move."
 
-**Important:** very high fevers (especially in young children or for prolonged periods) can be harmful. The body's defense response can sometimes overshoot. This is why doctors and parents pay attention to how high a fever goes and how long it lasts. The mechanism explanation doesn't replace medical judgment.
+**Important:** very high fevers (especially in young children or for prolonged periods) can be harmful. The body's defense response can sometimes overshoot. This is why doctors and parents pay attention to how high a fever goes and how long it lasts. The mechanism explanation does not replace medical judgment, and it does not mean "never treat a fever."
 
 ---
 
@@ -314,7 +320,7 @@ If the learner can do at least 2 of these, they're ready for Week 10.
 
 > "Being sick is, in a strange way, the body succeeding. The misery is the cost of the system working. A body that DIDN'T feel sick when fighting an infection would be a body that's not putting up much of a fight."
 
-This doesn't mean we have to enjoy being sick. It doesn't mean we shouldn't take medicine. It just means the framing is different. Symptoms are the system at work. That's worth respecting.
+This doesn't mean we have to enjoy being sick. It doesn't mean we shouldn't take medicine or ask for care. It just means the framing is different. Symptoms are the system at work. That's worth respecting.
 
 **This week's takeaway:** Your body's defense response is one of the most coordinated, energy-expensive operations in biology. When you feel sick, you're feeling the cost of that operation. It's working for you, even when it doesn't feel like it.
 :::

@@ -10,17 +10,23 @@ description: "Students explore the difference between running a system to failur
 
 This is the last week of Unit 4. We close out the preventative maintenance unit by looking at how the body's hardware — muscles, bones, tendons, ligaments — actually maintains itself over time.
 
-**Your body's tissues are not static. They are being broken down and rebuilt constantly. Every muscle, every bone, every ligament is in a continuous wear-and-repair cycle. Exercise is not "burning calories" or "working out." Exercise is a deliberate, controlled stress signal that tells the body to rebuild the affected tissues STRONGER. Without that signal, the body has no reason to invest energy in maintaining them.**
+**Your body's tissues are not static. They are being broken down and rebuilt constantly. Every muscle, every bone, every ligament is in a continuous wear-and-repair cycle. Exercise is not mainly about "burning off" food or earning food. Exercise is a deliberate, controlled load signal that tells the body to rebuild the affected tissues stronger. Without that signal, the body has no reason to invest energy in maintaining them.**
 
 After this week, you'll understand what exercise is actually for — and it's not what most people think.
 
 ---
+
+:::warning Safety and Privacy Reminder
+This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. Stop if pain, dizziness, breathing difficulty, chest pain, or feeling unsafe shows up.
+:::
 
 :::info Facilitator Snapshot
 - This week reframes exercise as a stress-and-repair cycle.
 - The key insight: muscle and bone respond to demand. If you use them, the body builds them up. If you don't, the body lets them shrink to save energy.
 - This is not a "you should exercise more" lecture. It's a mechanism explanation.
 - Important caveat: the curriculum should never make a learner feel ashamed about being active or inactive. Stay neutral.
+- Soreness can happen after unfamiliar load, but soreness is not required for growth. Sharp pain, joint pain, persistent pain, or worsening pain are not signals to push through.
+- Movement ability varies by body, disability, injury, illness, access, and context. Variation is expected.
 :::
 
 :::tip Quick Navigation
@@ -45,6 +51,7 @@ After this week, you'll understand what exercise is actually for — and it's no
 - Review the basic model: exercise creates micro-damage → recovery rebuilds slightly stronger than before → over time, the system adapts.
 - Be ready to discuss the "use-it-or-lose-it" principle — it applies to muscles, bones, and many other systems.
 - Avoid framing exercise as "good" or "lack of exercise" as "bad." Frame as "this is what the signal does."
+- Do not assign intense new exercise routines for this lesson. Use ordinary activities the learner is already doing.
 :::
 
 :::tip Facilitation Mindset
@@ -148,6 +155,8 @@ This means:
 - The pattern that works is: stress → recover → stress → recover. Cycles, not constants.
 
 > "If exercise is a signal, recovery is the response. Both are needed."
+
+Soreness can happen after unfamiliar load, but soreness is not required for growth. Sharp pain, joint pain, worsening pain, or pain that does not improve is not a useful sign to push through.
 
 ---
 
@@ -263,6 +272,8 @@ Without changing anything, write down what physical activity you did this week. 
 
 Don't judge any of it. Just observe.
 
+Do not invent an intense new activity for this lesson. Use activities you were already going to do.
+
 **2. The Recovery Reflection**
 
 Pick one activity you did this week that was harder than usual. Maybe a long walk, a hard game, climbing a lot of stairs.
@@ -272,7 +283,7 @@ Pick one activity you did this week that was harder than usual. Maybe a long wal
 - How long did the soreness last?
 - Did the activity feel easier the next time you did something similar?
 
-If you felt sore, that was the wear-and-repair cycle running. The muscle was damaged. Repair was happening. The soreness was the cleanup process.
+If you felt sore, that may have been part of the wear-and-repair cycle running after unfamiliar load. But soreness is not required for growth, and sharp pain, joint pain, worsening pain, or pain that does not improve are signals to stop and get help.
 
 **3. The "Use It or Lose It" Observation**
 
