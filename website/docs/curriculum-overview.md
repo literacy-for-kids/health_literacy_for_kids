@@ -2,148 +2,151 @@
 sidebar_position: 1
 sidebar_label: "Curriculum Overview"
 title: "Curriculum Overview"
-description: "An overview of the 18-week Health Systems Literacy for Kids curriculum structure, units, and learning goals"
+description: "An overview of the 18-week Health Systems Literacy for Kids structure, units, and learning goals in the updated kid-facing language"
 ---
 
 # Curriculum Overview
 
-Health Systems Literacy for Kids is an 18-week curriculum that teaches young learners (ages 8–12) how the human body actually works by using engineering and systems vocabulary as the primary lens: hardware, firmware, software, sensors, actuators, control loops, telemetry, maintenance cycles, and threat response. The framing is deliberate, but the curriculum is not asking learners to optimize themselves. It is teaching them how to understand patterns safely.
+Health Systems Literacy for Kids is an 18-week curriculum for ages 8-12 that teaches the body as a set of connected systems.
 
-This page provides the structural overview. For the philosophy and the "why," see the [Welcome page](./intro.md). For teaching support, use the [Facilitator Safety Guide](./facilitator-safety-guide.md), [Curriculum Map](./curriculum-map.md), [Printable Templates](./printable-templates.md), [Facilitator Response Bank](./facilitator-response-bank.md), and [Science Confidence and Metaphor Guide](./science-confidence-and-metaphors.md).
+The course keeps the systems-thinking identity of the project, but the learner-facing language is now warmer, more concrete, and more playful. Kids meet body clues, body autopilot, food jobs, the body security team, the night cleanup crew, and the Body Mystery Project before they meet the heavier technical vocabulary.
+
+For the philosophy and big-picture framing, use the [Welcome page](./intro.md). For teaching support, use the [Facilitator Safety Guide](./facilitator-safety-guide.md), [Curriculum Map](./curriculum-map.md), [Printable Templates](./printable-templates.md), [Facilitator Response Bank](./facilitator-response-bank.md), [Science Confidence and Metaphor Guide](./science-confidence-and-metaphors.md), and [Glossary](./glossary.md).
 
 ---
 
 ## Unit Structure
 
-The 18 weeks are organized into five units. Each unit builds on the previous one. The two optional weeks deepen the science, but they are not required for the core sequence.
+The 18 weeks are organized into five units. Each unit builds on the previous one. Two optional weeks deepen the science after the core sequence.
 
-### Unit 1 — The Control Loops (Weeks 1–3)
+### Unit 1 - Body Autopilot and Steadying Loops (Weeks 1-3)
 
-The foundational unit. Students learn that the body is constantly running sensor-actuator feedback loops to maintain a stable internal environment. They learn what symptoms actually are (system alerts) and they measure their own baseline telemetry.
+Learners meet the body's autopilot, learn how steadying loops work, and practice noticing a starting number and a calming-down pattern.
 
-- Week 1: The Body as a Control Loop System
-- Week 2: How the Body Monitors and Self-Corrects
-- Week 3: Measuring Your Own Hardware Recovery Rate
-
----
-
-### Unit 2 — The Chemical Plant (Weeks 4–7)
-
-The fueling system. Students follow the physical path of food through the body, distinguish energy in food from major building materials and helper molecules, and observe the glucose control loop in action. Food is reframed as chemistry and systems behavior, not a moral scorecard.
-
-- Week 4: How the Body Processes What You Eat
-- Week 5: Structural Materials vs. Thermal Energy
-- Week 6: The Blood Sugar Spike and Crash Cycle
-- Week 7: Mapping Inputs to Output Performance
+- Week 1: Your Body's Autopilot
+- Week 2: Steadying Loops and Fast-Building Loops
+- Week 3: How Fast Does My Heart Calm Down?
 
 ---
 
-### Unit 3 — System Security & Threat Response (Weeks 8–10)
+### Unit 2 - Food Journey and Body Clues (Weeks 4-7)
 
-The defense network. Students learn how the immune system operates like a firewall and antivirus suite — physical barriers, innate response, adaptive response, and the writing of new "virus definitions" (antibodies). They walk through what actually happens during a common illness.
+Learners follow one bite through the body, sort food jobs without moral labels, compare fuel patterns, and become Body Pattern Detectives.
 
-- Week 8: Your Body's Cybersecurity Architecture
-- Week 9: From Exposure to Immunity
-- Week 10: Mapping an Illness Episode
-
----
-
-### Unit 4 — Preventative Maintenance (Weeks 11–14)
-
-The systems that keep the machine running over time. Students learn the body's internal clock (circadian rhythm), what actually happens during sleep, the microbiome as a symbiotic co-processor, and how the wear-and-repair cycle keeps muscles and bones strong.
-
-- Week 11: The Body's Internal Clock
-- Week 12: What Happens During System Defragmentation
-- Week 13: The Symbiotic Co-Processor in Your Gut
-- Week 14: Long-Term Hardware Survival
+- Week 4: The Journey of One Bite
+- Week 5: Different Foods Do Different Jobs
+- Week 6: Fast Up / Fast Down Fuel Patterns
+- Week 7: Body Pattern Detective
 
 ---
 
-### Unit 5 — The Optimization Protocol (Weeks 15–18)
+### Unit 3 - Body Security Team and Response Stories (Weeks 8-10)
 
-The capstone. Students design a small personal observation project: choose one variable they want to understand better, define a metric, choose observation-only or one safe change, collect data for two weeks, and present findings. This is completely voluntary and student-driven. Facilitators do not prescribe targets or outcomes.
+Learners meet the body's protection layers, build a body alarm timeline, and map illness stories with privacy and uncertainty kept visible.
 
-- Week 15: Designing a Personal Health Maintenance System
-- Week 16: Optimizing Your Physical Operating Environment
-- Week 17: Running the Experiment and Collecting Data
-- Week 18: Presenting Your Optimization Protocol
+- Week 8: Your Body's Security Team
+- Week 9: Body Alarm Timeline
+- Week 10: Illness Story Map
+
+---
+
+### Unit 4 - Body Clock, Cleanup, and Repair (Weeks 11-14)
+
+Learners study daily rhythm, sleep, gut helpers, and movement as parts of the body's ongoing maintenance and repair story.
+
+- Week 11: Your Body Clock
+- Week 12: The Night Cleanup Crew
+- Week 13: Tiny Helpers in Your Gut
+- Week 14: How Movement Tells Your Body What to Build
+
+---
+
+### Unit 5 - The Body Mystery Project (Weeks 15-18)
+
+Learners choose one safe body question, set up a small observation plan, collect clues, and decide what to share or keep private.
+
+- Week 15: Pick a Body Question
+- Week 16: Set Up Your Space
+- Week 17: Collect Your Clues
+- Week 18: Share What You Discovered
 
 ---
 
 ### Optional Extensions
 
-Two bonus weeks go deeper on advanced topics, designed for learners who finish the main curriculum and want more. Optional means optional.
+- Optional Week 1: Deeper Dive: Gut-Brain Questions
+- Optional Week 2: Deeper Dive: Stress and Recovery
 
-- Optional 1: Deep Dive — Gut-Brain Axis
-- Optional 2: The Physical Mechanics of Chronic Stress
+These extensions are for older or especially interested learners and still follow the same privacy, safety, and no-shame expectations as the core course.
 
 ---
 
-## What Is Distinctive About This Curriculum
+## What Makes This Curriculum Distinctive
 
-### Engineering Framing, Not Health Rules
+### Systems Thinking Without Adult-Coded Overload
 
-Most health education for kids is a rulebook. This curriculum is a systems manual. Students learn the mechanisms, and the "rules" become design choices they can reason about.
+The curriculum still teaches real systems ideas, but it starts with kid language and moves to technical language second.
 
-Metaphors help, but bodies are living systems, not literal machines. The engineering lens is a teaching tool, not a claim that every body behaves like a predictable device.
+### Safety and Privacy Stay Visible
 
-### No Diet Advice, No Medical Advice
+The course stays non-medical, non-diet, non-therapy, non-body-shaming, and observation-first.
 
-The curriculum explicitly does not tell students what to eat, when to sleep, or how to exercise. It explains how the systems work. Decisions about specific behaviors stay with families and doctors.
+### Drawing, Roleplay, and Fictional Examples Count
 
-### No Shame, No Guilt, No Body Image
+Learners can participate through comics, detective boards, roleplay, oral answers, emoji scales, and story characters.
 
-Bodies are hardware. All hardware is interesting. We never talk about weight, appearance, or body image. The engineering frame is the protective layer.
+### The Capstone Is Curiosity-Driven
 
-### The Capstone Is Completely Voluntary
+The final unit is a Body Mystery Project, not an optimization challenge. No change is a real finding.
 
-Students choose their own variable to study. Facilitators do not prescribe sleep times, food choices, or exercise routines. The point is to learn experimental design, not to enforce behavior or chase body outcomes.
+### The Notebook Is Private
 
-### The Bio-Telemetry Log
-
-Students keep a running record of measurements and observations about their own bodies. Over 18 weeks, this becomes a personal data set — a tangible artifact showing what they have learned. It should be treated as private unless the learner chooses to share.
+The student-facing notebook is the **Body Clues Notebook**. Older learners and facilitators may still hear the technical name **Bio-Telemetry Log**.
 
 ---
 
 ## Support Pages
 
-- [Facilitator Safety Guide](./facilitator-safety-guide.md): curriculum-wide privacy, consent, and medical-boundary guardrails.
-- [Curriculum Map](./curriculum-map.md): the full 18-week and optional-week sequence in one table.
-- [Printable Templates](./printable-templates.md): copy-and-print trackers, protocol sheets, and reflections.
-- [Facilitator Response Bank](./facilitator-response-bank.md): ready-to-use language for tricky moments.
-- [Science Confidence and Metaphor Guide](./science-confidence-and-metaphors.md): where the engineering lens helps and where it stops.
+- [Facilitator Safety Guide](./facilitator-safety-guide.md): privacy, consent, emotional-safety, and medical-boundary guardrails.
+- [Curriculum Map](./curriculum-map.md): the full sequence in one updated table.
+- [Printable Templates](./printable-templates.md): drawing pages, trackers, detective sheets, and capstone pages.
+- [Facilitator Response Bank](./facilitator-response-bank.md): scripts for tricky moments.
+- [Science Confidence and Metaphor Guide](./science-confidence-and-metaphors.md): how to use models honestly.
+- [Glossary](./glossary.md): kid phrase first, technical phrase second.
 
 ---
 
 ## Prerequisites
 
-**None.** Students do not need any prior background in biology, anatomy, or chemistry. The curriculum builds vocabulary from scratch.
+None.
 
-Facilitators do not need a medical or scientific background. The lesson pages are the guide.
+Learners do not need prior biology or chemistry knowledge. Facilitators do not need professional science training.
 
 ---
 
 ## What Success Looks Like
 
-By the end of the curriculum, students should be able to:
+By the end of the curriculum, learners should be able to:
 
-- Describe the body as a system of feedback loops and name at least three of them
-- Measure their resting heart rate and recovery time, and explain what those numbers represent
-- Reframe symptoms (hunger, thirst, fatigue, fever, pain) as system alerts from a working system
-- Explain at a systems level how fuel is processed and why the body prefers gradual fuel delivery over sharp pulses
-- Describe how the immune system detects threats and writes new "definitions" to recognize them later
-- Explain what sleep is for, in mechanism terms
-- Describe the microbiome as an ecosystem the body hosts
-- Run a small personal observation project and present findings
+- explain a few body systems in kid language and, if ready, in technical language
+- treat body clues as information instead of shame signals
+- talk about food jobs and patterns without moral labels
+- explain that sleep, timing, protection, repair, and recovery are active body stories
+- protect privacy around personal body data
+- complete a small observation project without turning it into body judgment
 
-The deepest outcome is the framing shift: students see their own bodies as systems they can understand, not as things that happen to them.
+The deepest outcome is the framing shift:
 
-The capstone is educational observation, not health optimization.
+**Learners begin to see their bodies as something they can study with care, curiosity, and less fear.**
 
 ---
 
 ## A Note on Pacing
 
-Eighteen weeks is a guideline, not a deadline. Some families finish in 12 weeks. Some take 24. The right pace is the one that lets the ideas actually land. If a week sparks a lot of questions, slow down. If a week feels obvious, move on.
+Eighteen weeks is a guide, not a race.
 
-The capstone weeks (15–18) work best when students have had time to absorb the earlier units. Do not rush there.
+If a week sparks more drawing, more questions, or more pretend examples, slow down.
+
+If a learner needs smaller steps, make them smaller.
+
+The capstone works best when the earlier weeks have had time to settle.

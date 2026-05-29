@@ -1,35 +1,49 @@
 ---
 sidebar_position: 10
-sidebar_label: "Week 10: Mapping an Illness Episode"
-title: "Week 10: Mapping an Illness Episode"
-description: "Students analyze a recent illness, mapping the sequence from suspected breach through system alerts, active defense, and final resolution."
+sidebar_label: "Week 10: Illness Story Map"
+title: "Week 10: Illness Story Map"
+description: "Students map a fictional or family-approved illness story and practice separating what they know from what they are guessing."
 ---
 
-# Week 10: Mapping an Illness Episode
-*Unit 3 — System Security & Threat Response*
+# Week 10: Illness Story Map
+*Unit 3 - Body Security Team and Response Stories*
 
-This week we put the immune system framework to work. You're going to take a real illness — yours, or someone close to you — and map it from start to finish.
+This week helps the learner turn an illness episode into a simple story map.
 
-**Engineers do "post-mortems" on system failures: they walk back through what happened, when, and why. We're going to do the same thing with a recent illness. The goal isn't to assign blame or find what you did "wrong." The goal is to see the system clearly — what got past the firewall, how the defense responded, how long the cycle took, and what your immune system now remembers.**
+The learner does not have to identify the exact germ. The learner practices sequencing clues and noticing uncertainty.
 
----
+:::tip This Week's Mission
+- Turn an illness episode into a story map.
+- Separate what is known from what is guessed.
+- Keep privacy short, warm, and easy.
+:::
 
-:::warning Safety and Privacy Reminder
-This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. You may use your own illness, a family story, an anonymized example, or a fictional example.
+:::info Kid Version
+Sometimes it helps to draw a body story like a comic.
+
+What got in? What clues showed up? What did the body do next? What helped the person recover?
+
+Some parts of the story are guesses. That is okay.
+:::
+
+:::info Technical Name
+Adults may call this a **case review**.
+
+In earlier versions of this curriculum, the lesson used the word **post-mortem**. For learners, **story map** or **case file** is the better fit.
 :::
 
 :::info Facilitator Snapshot
-- This is a synthesis week. Everything from Weeks 8–9 gets applied to a real story.
-- Pick an illness the learner remembers reasonably clearly. A recent cold or stomach bug is ideal.
-- The point is mapping — not diagnosis. Don't try to figure out exactly which pathogen it was. Just trace the response.
-- This is also a practice run for the capstone (Weeks 15–18) — observing a process from outside.
-- Illness histories are private. Learners may use fictionalized or anonymized examples instead of personal ones.
+- Default to fictional, anonymized, or family-approved examples.
+- Younger learners need only three phases.
+- Older learners can use a five-part map if they want more detail.
+- Keep privacy reminders short and repeated.
+- Do not ask learners to identify the exact pathogen.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Reconstruct the Timeline](#guided-session-1)
-- [Guided Session 2: The Five-Phase Framework](#guided-session-2)
+- [Guided Session 1: Three-Part Story Map](#guided-session-1)
+- [Guided Session 2: What We Know and What We Guess](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -38,190 +52,139 @@ This lesson helps you notice patterns. It does not diagnose, treat, or prescribe
 | | |
 |---|---|
 | **Prep time** | ~10 minutes |
-| **Materials** | Paper for the timeline, Bio-Telemetry Log, optional: a parent's memory or notes about a recent illness |
-| **Key vocabulary** | post-mortem, exposure, incubation, peak, resolution, immunity |
-| **Difficulty** | Intermediate |
+| **Materials** | Paper, pencils, comic-strip boxes, Body Clues Notebook |
+| **Key vocabulary** | story map, case file, known, guessed, uncertain |
+| **Difficulty** | Introductory |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Have a recent illness in mind. If the learner hasn't been sick recently, use a family member's recent illness, or do this exercise based on a famous illness narrative, an anonymized composite, or a fictional illness case.
-- Be ready to help the learner fill in gaps in their memory ("Do you remember when you first felt off? What was the very first symptom?").
-- Have a blank piece of paper or timeline template ready.
-- Make it clear that the learner never has to disclose private illness details if they would rather use an example case.
+- Pick a fictional illness story or a family-approved private example.
+- Decide whether the learner will use three boxes or five boxes.
+- Keep the privacy reminder simple: "Use a pretend example if you want."
+- Avoid detective pressure around naming the exact germ.
 :::
 
 :::tip Facilitation Mindset
-The post-mortem is a story-telling exercise. Make it feel like reconstructing a mystery. Many things will be uncertain — that's fine. Engineers do post-mortems with incomplete information all the time.
+The lesson is about mapping a story, not solving a mystery perfectly.
 :::
 
-## For Younger Learners (Ages 8–9)
+## For Younger Learners (Ages 8-9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "We're going to tell the story of a time you were sick — but instead of just 'I felt bad,' we're going to figure out what your body was doing at each step."
+**Simplest version of the concept:** "We can tell the story of getting sick and getting better in a few steps."
 
 **What to shorten or skip:**
-- Use only three phases instead of five: how it started, the worst part, how it got better.
-- Drawing the timeline is fine in place of writing.
+- Use only three phases.
+- Skip exact timelines or pathogen names.
 
-**Adapting the activities:**
-- Make it a story with you as a narrator: "First, the bad guys got in through your nose. Then your body noticed and called the guards. Then..."
-- A storybook-style drawing might work better than a written timeline.
-
-**What success looks like:** The learner can tell a 3-part story about an illness using systems language (the body noticing, fighting, and remembering).
+**What success looks like:**
+The learner can tell the story in order: something got in, the body responded, the body recovered.
 :::
 
-:::info For Ages 10–12
-- Use all five phases explicitly.
-- Add specifics: which immune cells were probably active at each phase, what symptoms came when, what cytokines might have been driving each symptom.
-- Discuss how the same pathogen can affect different people differently based on prior exposure and immune system state.
+## For Older Learners (Ages 10-12)
+
+:::info Deeper Option
+- Use five phases if helpful.
+- Add what is known, what is guessed, and what is still uncertain.
+- Explain that good science can include uncertainty instead of pretending to know more than we do.
 :::
 
 ---
 
 ## Guided Session 1
-### Reconstruct the Timeline
+### Three-Part Story Map
 #### Learning Goal
-By the end of this session, the student can:
+By the end of this session, the learner can:
 
-- identify the approximate exposure point for a past illness
-- map the symptoms in chronological order
-- estimate when the adaptive immune system kicked in
+- map an illness story in order
+- explain the beginning, middle, and recovery parts
+- use a comic or drawing format
 
 ---
 
 #### Activities
 
-**1. Pick the Illness**
+**1. Make Three Big Boxes**
 
-Sit down with the learner. Ask:
+Label them:
 
-> "What's the most recent time you were sick? Anything counts — a cold, a stomach bug, the flu. We're going to take that and map it."
+1. something got in
+2. my body responded
+3. my body recovered
 
-If the learner can't remember details, that's fine. Pick the most recent or most memorable illness. Or use a family member's illness if their parent can help fill in the timeline.
-
----
-
-**2. Draw the Timeline**
-
-On a long sheet of paper, draw a horizontal line. Mark "Day 0" on the left and "Recovery" on the right.
-
-Together, fill in what they remember:
-
-- **When did you first feel "off"?** (This is often a vague feeling — tired, slightly off, like something might be coming.)
-- **What was the FIRST clear symptom?** (Sore throat? Runny nose? Stomach ache?)
-- **When did it get worst?** (The peak — when you felt the most miserable.)
-- **When did you start feeling better?**
-- **When were you fully recovered?**
-
-Mark each event on the line with rough timing.
-
-If they don't remember exact dates, use rough markers: "Sunday-ish," "Day 3-ish," "by the next weekend."
+Let the learner draw the whole story in simple scenes.
 
 ---
 
-**3. Add the Probable Exposure**
+**2. Optional Five-Part Map for Older Learners**
 
-> "Where do you think you got it?"
+If the learner wants more detail, add:
 
-This is detective work. Possible places:
+1. exposure or first clue
+2. early response
+3. stronger symptoms
+4. recovery starts
+5. feeling more normal again
 
-- Someone at school was sick
-- A family member was sick
-- A particular event where you were around lots of people
-- Touched a surface and then your face
-- Drank from someone's water bottle
+---
 
-You'll probably never know for sure. That's OK.
+**3. Comic-Strip Template**
 
-Important note: pathogens have an **incubation period** — the time between exposure and the first symptom. For most viruses, that's 1–14 days. So if you got sick on Tuesday, exposure was probably 1–14 days earlier.
+Use speech bubbles, arrows, labels, or stick figures.
+
+This week works very well with art.
 
 ---
 
 ## Guided Session 2
-### The Five-Phase Framework
+### What We Know and What We Guess
 #### Learning Goal
-By the end of this session, the student can:
+By the end of this session, the learner can:
 
-- categorize the events of an illness into five phases
-- describe what their immune system was doing in each phase
-- identify what their immune system now remembers about this pathogen
+- separate known details from guesses
+- say "I am not sure" without feeling stuck
+- avoid over-claiming what caused an illness story
 
 ---
 
 #### Activities
 
-**1. The Five Phases**
+**1. Color-Code the Story**
 
-Walk through them:
+Mark parts as:
 
-**Phase 1 — Exposure**
+- **known**
+- **guessed**
+- **still unsure**
 
-The pathogen enters the body. Firewall layer engages. Some pathogens get through.
+Examples:
 
-In your timeline: this happened BEFORE you noticed anything.
-
-**Phase 2 — Incubation**
-
-The pathogen is multiplying. The immune system is starting to notice. You might feel slightly off but not clearly sick. Symptoms are mild or absent.
-
-In your timeline: probably 1–5 days after exposure.
-
-**Phase 3 — Active Infection**
-
-Symptoms ramp up. Innate immunity is responding hard. Inflammation is happening at the infection site. Fever may begin. You feel sick.
-
-In your timeline: the days when you actually felt sick.
-
-**Phase 4 — Adaptive Defense Activates**
-
-B and T cells targeted to this specific pathogen multiply. Antibodies flood the bloodstream. The pathogen population starts crashing.
-
-In your timeline: roughly day 3–7 of the active phase. This is usually when people "turn the corner" and start feeling like they're going to get better.
-
-**Phase 5 — Resolution and Memory**
-
-Pathogen is cleared. Inflammation winds down. Energy returns. Memory cells are stored.
-
-In your timeline: the recovery days at the end.
+- known: there was a fever
+- guessed: the person caught it at school
+- still unsure: exactly which germ caused it
 
 ---
 
-**2. Map the Phases**
+**2. Practice the Uncertainty Sentence**
 
-Take the timeline and label each section with the phase it represents.
+Say:
 
-Example:
+> "Some parts of the story are guesses. That's okay."
 
-```
-Day 0           Day 3          Day 6         Day 10
-  |               |              |              |
-  v               v              v              v
-[EXPOSURE]  [INCUBATION]  [ACTIVE INFECTION]  [ADAPTIVE]  [RESOLUTION]
-   1-5 days    quietly      sore throat,        antibodies   feeling
-   earlier     building     fever, tired       kicking in    normal again
-```
-
-(Adjust to fit the actual illness.)
+> "We do not have to know the exact pathogen to learn from the timeline."
 
 ---
 
-**3. The Post-Mortem Questions**
+**3. Warm Privacy Reminder**
 
-For the illness mapped, answer:
+Say:
 
-| Question | Your Answer |
-|---|---|
-| What was the most likely exposure source? | |
-| What was the very first symptom? | |
-| What was the peak symptom or peak day? | |
-| About how long was the total illness? | |
-| What helped you recover? | |
-| What did your immune system "write" as a result? | |
+> "If you want, you can use a pretend example."
 
-The last question is the important one. After this illness, your body has memory B and T cells specific to this pathogen. Next time you encounter the same one, the response will be much faster — sometimes so fast you don't even feel sick.
+> "Private health stories do not have to become class stories."
 
-> "You added to your antibody library because of this illness. The cost was a few days of feeling bad. The benefit is that this specific threat is now in your definitions."
+Keep it brief and reassuring.
 
 ---
 
@@ -229,79 +192,59 @@ The last question is the important one. After this illness, your body has memory
 
 ### Goal
 
-Write up a complete post-mortem of an illness in the Bio-Telemetry Log.
+Create a short illness story map using fictional, anonymized, or family-approved information.
 
 ### Activities
 
-**1. The Full Post-Mortem**
+**1. Finish the Story Map**
 
-Choose an illness — yours or a family member's — and write a complete post-mortem using the five-phase framework.
+The learner can:
 
-Required sections:
+- finish a three-box comic
+- build a five-box case file
+- retell the story out loud
+- use all fictional details
 
-- **Illness name (if known):** _____________
-- **Date range:** _____________
-- **Probable exposure:** _____________
-- **Timeline of symptoms (in order):** _____________
-- **Phase 1 (Exposure):** _____________
-- **Phase 2 (Incubation):** _____________
-- **Phase 3 (Active Infection):** _____________
-- **Phase 4 (Adaptive Defense):** _____________
-- **Phase 5 (Resolution):** _____________
-- **What my immune system now remembers:** _____________
+**2. Reflection Choice**
 
-**2. The "Times It Could Have Gone Differently" Reflection**
+Choose one:
 
-Briefly imagine: how would this story be different if:
+- "One thing I know for sure is..."
+- "One part that is still a guess is..."
+- "One thing the body did during recovery was..."
 
-- The pathogen had been a brand-new strain your body had no defense against?
-- You had encountered this same pathogen before and already had antibodies?
-- You'd been vaccinated against this exact pathogen?
+### Body Clues Notebook
 
-You don't need to answer in detail. Just notice how the same exposure can lead to very different outcomes depending on what your immune system already knows.
+Starter page:
 
-### Bio-Telemetry Log
-
-> **My Illness Post-Mortem:**
+> **Beginning of the story:** _____________
 >
-> **What I learned about my own immune system:** _____________
+> **Body clues in the middle:** _____________
 >
-> **One thing about the timeline that surprised me:** _____________
+> **How recovery looked:** _____________
+>
+> **What is still uncertain:** _____________
 
-**Sentence starters for younger learners:**
-- "When I got sick, the first thing was ___."
-- "My body got better when ___."
-
-### Reflection Questions
-
-- If you'd written a post-mortem like this every time you got sick, you'd have a personal infection history. What would that be useful for?
-- Are there any illnesses you've NEVER had that you wonder about? What is your immune system waiting for?
-- How long do you think the body remembers an antibody design? (For some pathogens: decades. For others: months.)
+Pretend examples are always allowed.
 
 ---
 
 ## Check for Understanding
 
-After this week, check whether the learner can:
-
-1. **Name the five phases of an illness:** exposure, incubation, active infection, adaptive defense, resolution.
-2. **Apply the framework to a real illness:** Walk through their post-mortem with them. They should be able to point to events in each phase.
-3. **Explain what the immune system gained from the illness:** "Memory cells / antibody designs for this specific pathogen." Or similar.
-
-If the learner can do at least 2 of these, they're ready for Week 11.
+1. Can the learner tell the story in order?
+2. Can the learner separate what is known from what is guessed?
+3. Can the learner say that uncertainty is allowed?
 
 ---
 
 ## Pause and Notice
 
 :::note What Matters Here
-> "When you look at this whole illness as a timeline, does it feel different than when you were just living through it?"
+Ask:
 
-> "While you were sick, you were probably just feeling miserable. From the outside — looking at the timeline — it's actually a coordinated response. Hundreds of millions of cells working together, communicating with each other, fighting a specific threat, and building memory for next time."
+> "How does it help to say 'I am not sure yet' when telling a body story?"
 
-This is one of the gifts of systems literacy: the ability to step back from the experience and see the mechanism. Both views are real.
-
-**This week's takeaway:** Being sick is a story. There's a beginning (exposure), a middle (defense), and an end (memory). Your immune system is the author.
+Good science is not pretending to know everything.
 :::
 
 ---
@@ -309,28 +252,30 @@ This is one of the gifts of systems literacy: the ability to step back from the 
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
-**From Week 7 (the fuel audit):** This week was another data-collection exercise. You were the system being studied. Different system, same observation method.
+From Week 9: symptoms can be clues you feel and part of the body's response.
 
-**From Week 8:** The five-phase framework maps directly onto the three immune layers. Firewall (phase 1). Innate (phase 2–3). Adaptive (phase 4). Memory (phase 5).
-
-**From Week 9:** Every symptom you put in the timeline was something we decoded last week. Now you can name what each one was doing.
+Week 10 turns those clues into a full story map.
 :::
 
 ---
 
-:::tip Simplify (Ages 8–9)
-Use only three phases: how it started, how it got worse, how it got better. Tell it as a story. The post-mortem can be a drawing instead of a written entry.
+:::tip Simplify (Ages 8-9)
+Use only three big comic boxes and a pretend character.
 :::
 
-:::tip Extend (Ages 10–12)
-Research one specific famous illness episode (the 1918 flu pandemic, a polio epidemic, the COVID-19 pandemic) and write a post-mortem at the level of an entire population — the same five phases, but across millions of people. Discuss how epidemiologists track these patterns.
+:::tip Extend (Ages 10-12)
+Invite older learners to label parts of the story known, guessed, and uncertain.
 :::
 
 :::tip Vocabulary This Week
-**Post-mortem** • **Exposure** • **Incubation** • **Active infection** • **Resolution** • **Immunity**
-See the [Glossary](./glossary.md) for definitions.
+**Kid phrase -> Technical phrase**
+
+- illness story map -> case review
+- known / guessed / uncertain -> evidence / hypothesis / uncertainty
+
+See the [Glossary](./glossary.md) for both versions.
 :::
 
 ## Preview of Next Week
 
-Next week we begin Unit 4: Preventative Maintenance. We start with the body's internal clock — the circadian rhythm — and how light controls almost every system you have.
+Next week, the learner meets the body clock and maps morning, afternoon, evening, and night signals.

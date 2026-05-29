@@ -1,32 +1,59 @@
 ---
 sidebar_position: 4
-sidebar_label: "Week 4: How the Body Processes What You Eat"
-title: "Week 4: How the Body Processes What You Eat"
-description: "Students follow the physical path of fuel through the body, from ingestion to cellular energy production."
+sidebar_label: "Week 4: The Journey of One Bite"
+title: "Week 4: The Journey of One Bite"
+description: "Students trace how food moves through the body and how tiny pieces become usable energy and building material."
 ---
 
-# Week 4: How the Body Processes What You Eat
-*Unit 2 — The Chemical Plant*
+# Week 4: The Journey of One Bite
+*Unit 2 - Food Journey and Body Clues*
 
-Welcome to the chemical plant. For the next four weeks, we're going to study how the body converts food into the energy and materials it needs to operate.
+This week is about where food goes and what jobs happen along the way.
 
-**Food is fuel. The body is a chemical processing facility. What goes in your mouth gets broken down step by step into smaller and smaller pieces, until it can enter individual cells and be used to make ATP — the energy currency that powers nearly every action in your body.**
+The learner does not need to count, judge, or improve food. The learner studies the journey.
 
-This week we follow one bite of food from start to finish.
+:::tip This Week's Mission
+- Follow one bite from mouth to cells.
+- Learn how the body turns food into usable pieces.
+- Build a comic strip of the food journey.
+:::
 
----
+:::info Kid Version
+Think of the body as a busy **food workshop**.
+
+One bite gets chewed, mixed, sorted, delivered, and used.
+
+Different body parts do different jobs so tiny pieces can reach the cells that need them.
+:::
+
+:::info Technical Name
+Older learners may hear these science words:
+
+- **digestion**
+- **metabolism**
+- **ATP**
+
+For the main lesson, it is enough to say that cells use tiny food pieces for energy and building.
+:::
+
+:::warning No Counting Required
+Food labels can be used as examples, but nobody has to count Calories, list real meals, or share what they ate.
+
+Fictional foods are welcome.
+:::
 
 :::info Facilitator Snapshot
-- This week is a tour of the digestive system reframed as a processing plant.
-- The key concept is ATP — the molecule that actually powers cells. Don't overemphasize ATP biochemistry; just establish that food becomes a usable energy currency.
-- Food-label Calories are introduced as energy measurements, not moral scores. No calorie counting, no calorie targets, and no food ranking.
-- The goal is mechanism understanding, not dietary instruction.
+- Use a comic strip as the main activity.
+- Use **food workshop** as the main kid-facing phrase.
+- Keep **Calories measure energy, not worth** in simple language.
+- Use pretend snacks or story foods by default if the learner prefers privacy.
+- Move ATP, kilocalories, and metabolism detail into older-learner notes.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Bite-to-Cell Journey](#guided-session-1)
-- [Guided Session 2: ATP — The Energy Currency](#guided-session-2)
+- [Guided Session 1: The Food Journey Comic](#guided-session-1)
+- [Guided Session 2: What the Cells Do With It](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -35,197 +62,161 @@ This week we follow one bite of food from start to finish.
 | | |
 |---|---|
 | **Prep time** | ~10 minutes |
-| **Materials** | A small snack to eat (any normal food), paper and pencil, Bio-Telemetry Log |
-| **Key vocabulary** | digestion, ATP, calorie, metabolism, throughput |
-| **Difficulty** | Intermediate |
+| **Materials** | Paper, pencil, crayons or markers, optional simple food label, Body Clues Notebook |
+| **Key vocabulary** | digestion, food workshop, small intestine, cells, ATP |
+| **Difficulty** | Introductory |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Choose a snack the learner already likes (a cracker, an apple slice, a piece of bread). Avoid anything new or with judgment loaded onto it.
-- Be ready to draw a simple body diagram showing mouth → stomach → small intestine → bloodstream → cells.
-- Review the term ATP. You only need to know it stands for "adenosine triphosphate" (no need to teach the chemistry) and that it's the molecule cells use as energy.
-- If food tracking feels too personal for a learner, use a fictional example meal and the pipeline drawing only. No one has to share personal food observations.
+- Pick one simple food example: real, fictional, or drawn.
+- Prepare six comic-strip boxes or fold paper into six parts.
+- Decide whether to show a food label. If you do, present it as information only.
+- Keep the language neutral: no good food, bad food, or "earning" energy.
 :::
 
 :::tip Facilitation Mindset
-This is a tour, not a lecture. Move through the steps with the learner doing the eating and noticing. Use phrases like "what do you think happens next?" rather than describing the whole pipeline at once.
+The key question is not "Was this a healthy bite?"
+
+The key question is "What jobs happened next?"
 :::
 
-## For Younger Learners (Ages 8–9)
+## For Younger Learners (Ages 8-9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "Your body breaks food into really tiny pieces, and the tiny pieces become energy that runs everything inside you. Like a fuel pipeline."
+**Simplest version of the concept:** "Food goes on a trip. Different body parts help break it into tiny pieces the body can use."
 
 **What to shorten or skip:**
-- You can skip the term ATP and just call it "the body's energy money."
-- Skip the calorie discussion. The mechanism is enough.
+- Skip kilocalories and ATP unless curiosity is high.
+- Keep the comic strip to six boxes and one bite.
 
-**Adapting the activities:**
-- Use drawing as the main mode. Have the learner draw the journey of a bite of food.
-- Use a Lego or toy analogy: food is a big Lego sculpture. The body has to take it apart into individual bricks before it can use them.
-
-**What success looks like:** The learner can describe in their own words that food gets broken down inside the body and the small pieces become energy.
+**What success looks like:**
+The learner can name at least three stops on the journey.
 :::
 
-:::info For Ages 10–12
-- Introduce the names of digestive organs: stomach, small intestine, large intestine, liver, pancreas.
-- Introduce the concept of enzymes as molecular tools that break specific bonds.
-- Discuss the fact that not all calories are used the same way — some are stored, some are burned immediately, some are used for building.
+## For Older Learners (Ages 10-12)
+
+:::info Deeper Option
+- Add the terms **digestion**, **metabolism**, and **ATP**.
+- Explain ATP as a cell energy ticket or battery charge.
+- If using a food label, say clearly: "Calories measure energy, not worth."
 :::
 
 ---
 
 ## Guided Session 1
-### The Bite-to-Cell Journey
+### The Food Journey Comic
 #### Learning Goal
-By the end of this session, the student can:
+By the end of this session, the learner can:
 
-- describe the physical path of food from mouth to cell
-- name at least three stages of digestion
-- explain that the body breaks food into smaller and smaller pieces before it can use any of it
+- trace the main path food takes through the body
+- explain what each stop does in simple language
+- represent the journey with a comic strip or drawing
 
 ---
 
 #### Activities
 
-**1. The Pipeline Drawing**
+**1. Build a Six-Box Comic**
 
-Draw a simple side view of a person. As you talk, label each stage.
+Label the boxes:
 
-**Stage 1 — The Mouth**
+1. Bite
+2. Chew
+3. Stomach mixing
+4. Small intestine sorting
+5. Blood delivery
+6. Cells using tiny pieces
 
-Have the learner take a bite of the snack. Don't swallow yet — just chew.
+Use a real snack, a pretend snack, or a silly fictional food.
 
-> "What's happening right now? What are your teeth doing? What's the spit doing?"
+Prompt:
 
-Explain:
-
-- Teeth break food into smaller chunks (mechanical breakdown).
-- Saliva contains enzymes (molecular tools) that start breaking down carbohydrates IMMEDIATELY in your mouth. Try chewing a plain cracker for a long time — it actually starts to taste sweet because the enzymes are breaking starch into sugar.
-
-**Stage 2 — The Stomach**
-
-> "Once you swallow, the food goes down a tube called the esophagus into a muscular bag called the stomach."
-
-The stomach:
-
-- Mixes the food with strong acid (yes, you have acid in there — strong enough to break down most foods, but the stomach lining is built to handle it).
-- Mechanically churns the food (your stomach actually has muscles that squeeze and mix).
-- Adds more enzymes that break down proteins.
-
-It typically takes 2–4 hours for the stomach to process a meal.
-
-**Stage 3 — The Small Intestine**
-
-> "The half-processed mush leaves the stomach and enters a very long, thin tube called the small intestine. This is where the real work happens."
-
-- It's about 20 feet long, all coiled up in the abdomen.
-- The inside is covered in tiny finger-like projections called villi that massively increase the surface area.
-- Enzymes from the pancreas and bile from the liver continue breaking down the food.
-- The small molecules (sugars, amino acids, fatty acids) cross the intestine wall and enter the bloodstream.
-
-**Stage 4 — The Bloodstream**
-
-> "Now the fuel is in the blood. The blood is a delivery network — it carries the fuel to every cell in your body."
-
-**Stage 5 — The Cell**
-
-> "Each cell takes in the fuel through its outer wall and uses it to make ATP — the energy molecule that powers everything the cell does."
-
-**Stage 6 — The Large Intestine**
-
-> "Anything the small intestine couldn't absorb (like fiber) goes into the large intestine. Water is absorbed back into the body, and what's left becomes waste."
+> "What happens to this bite next?"
 
 ---
 
-**2. The "Smaller and Smaller" Insight**
+**2. Draw It**
 
-Draw a flowchart on paper:
+In each box, add:
 
-```
-WHOLE FOOD (you bite it)
-       ↓
-CHUNKS (you chew)
-       ↓
-MUSHY PASTE (stomach acid + churning)
-       ↓
-SMALLER MOLECULES (enzymes in small intestine)
-       ↓
-TINY USABLE PIECES (cross into bloodstream)
-       ↓
-ENERGY + BUILDING MATERIALS (used by cells)
-```
+- a picture
+- one sentence
+- or a few labels
 
-> "Notice the pattern. Every step is BREAKING DOWN. Big to small. Complex to simple. The body needs everything to be in the smallest possible pieces before it can use any of it."
+Possible kid-friendly phrasing:
+
+- teeth break food smaller
+- stomach mashes and mixes
+- small intestine sorts tiny pieces
+- blood carries pieces around
+- cells use what arrives
+
+---
+
+**3. Try It With a Simple Object**
+
+Use beads, paper scraps, or puzzle pieces.
+
+Pretend the pieces are bits of food being sorted into different containers.
+
+Ask:
+
+> "What kind of body job is this like?"
+
+This helps make the invisible sorting step easier to picture.
 
 ---
 
 ## Guided Session 2
-### ATP — The Energy Currency
+### What the Cells Do With It
 #### Learning Goal
-By the end of this session, the student can:
+By the end of this session, the learner can:
 
-- explain that cells use ATP as their energy currency
-- describe food-label Calories as a measurement of energy in food
-- explain that "metabolism" is the rate at which the body processes fuel
+- explain that food becomes usable tiny pieces
+- name at least two jobs those pieces can do
+- describe Calories as energy information, not a moral score
 
 ---
 
 #### Activities
 
-**1. The Currency Analogy**
+**1. Food Jobs**
 
 Ask:
 
-> "If you wanted to buy something in a store in another country, what's the first thing you'd have to do?"
+> "After the body sorts the food, what can those tiny pieces help do?"
 
-Exchange your money for the local currency. That country's stores can't use your money directly. They need their local currency.
+List simple jobs:
 
-> "Cells are the same. They can't use a sandwich. They can't use an apple. They need their local currency — ATP. So the whole digestive system is one giant currency exchange. We take big complex food and convert it into ATP."
-
-Each cell can make and use ATP at the same time. Cells in your muscles, your brain, your heart, your liver — they're all running ATP at this exact moment. The faster they need to work, the more ATP they burn.
-
----
-
-**2. The Calorie Concept**
-
-Now introduce calories. Be careful here — this is where diet culture lives. Stay on the engineering frame.
-
-> "On food labels, Calories are a measure of energy in food. Technically, the Calories on food labels are kilocalories, but most people just call them Calories. For this curriculum, the important idea is that Calories measure food energy, not moral value."
-
-> "Different foods carry different amounts of energy per gram:
-> - Fats: about 9 Calories per gram
-> - Carbohydrates: about 4 Calories per gram
-> - Proteins: about 4 Calories per gram
-> - Water: 0 Calories
-> - Fiber: very little usable energy for your body"
-
-> "Energy density doesn't make a food 'good' or 'bad.' It just means some foods carry more thermal energy per bite. Fat is dense — it stores a lot of energy in a small package. That's why the body uses fat as long-term storage (we'll come back to this next week)."
-
-**Important to say out loud:**
-
-> "We're not going to count Calories, set targets, or score food. The number itself isn't the point. What matters is understanding that food carries measurable energy, and your body uses that energy to run."
+- move
+- think
+- grow
+- repair
+- stay warm
+- keep organs working
 
 ---
 
-**3. Metabolism — The Throughput Rate**
+**2. Cell Energy Tickets**
 
-> "Metabolism is the word for all the chemical reactions happening in your body to keep you alive. People sometimes use 'metabolism' as if it means 'how fast you burn calories.' That's part of it. But really it's the total throughput of the chemical plant."
+Say:
 
-What uses ATP every second:
+> "Cells turn some of those tiny pieces into little energy tickets. Scientists call one important energy ticket **ATP**."
 
-- Your heart pumping
-- Your lungs breathing
-- Your brain thinking
-- Your kidneys filtering blood
-- Your liver doing dozens of chemical jobs
-- Your immune system patrolling
-- Your cells dividing and repairing
+That is enough detail for most learners.
 
-> "Even when you're sitting completely still, your body is burning ATP. That base rate is called your **basal metabolic rate** — the energy cost of just existing."
+---
 
-When you exercise, you burn more ATP. When you grow, you burn more ATP (building new tissue costs energy). When you fight off an illness, you burn more ATP. The throughput goes up and down based on what the system is doing.
+**3. Food Labels Without Pressure**
+
+If you show a label, say:
+
+> "Calories measure energy. They do not measure whether a person is good, bad, careful, lazy, or anything else."
+
+No counting required.
+
+The learner can also skip labels entirely and stay with the comic strip.
 
 ---
 
@@ -233,83 +224,59 @@ When you exercise, you burn more ATP. When you grow, you burn more ATP (building
 
 ### Goal
 
-Observe your own digestion in real time and notice how your energy levels change over the hours after a meal.
-
-If you would rather not track a real meal, use a fictional meal and complete only the pipeline drawing.
+Create a private record of one food journey using drawing, talking, or simple notes.
 
 ### Activities
 
-**1. The Digestion Timeline**
+**1. Finish the Comic Strip**
 
-Pick a normal meal (any meal — breakfast, lunch, dinner, snack).
+The learner can:
 
-Right before you eat: rate your hunger 1–10 and your energy level 1–10.
+- finish the six-box comic
+- retell it out loud
+- create it with a fictional snack
+- add silly captions
 
-At these times after you finish eating, do the same:
+**2. Reflection Choice**
 
-- 15 minutes later
-- 30 minutes later
-- 1 hour later
-- 2 hours later
-- 3 hours later
+Choose one:
 
-Record both numbers each time.
+- "One stop on the food journey that surprised me was..."
+- "One job food pieces can do is..."
+- "If I made this a cartoon, the funniest box would be..."
 
-**2. The Pipeline Drawing**
+### Body Clues Notebook
 
-Draw the journey of one bite of food from your mouth to a cell in your hand. Label every step you can remember. (You can look back at this week's lesson.)
+Starter page:
 
-### Bio-Telemetry Log
-
-> **Meal I Tracked:** _____________
+> **The bite I followed:** _____________
 >
-> **Hunger Before:** _____
-> **Energy Before:** _____
+> **The most interesting stop:** _____________
 >
-> | Time after eating | Hunger | Energy |
-> |---|---|---|
-> | 15 min | | |
-> | 30 min | | |
-> | 1 hr | | |
-> | 2 hr | | |
-> | 3 hr | | |
+> **What the cells might do with it:** _____________
 >
-> **What I Noticed:** _____________
+> **What I still wonder:** _____________
 
-**Sentence starters for younger learners:**
-- "After I ate, I felt ___."
-- "Two hours later, I felt ___."
-
-### Reflection Questions
-
-- How long did it take for your hunger to fully go away?
-- When did your energy peak? When did it start dropping?
-- What do you think the meal would feel different if it was much smaller, much bigger, or very different food? (No need to test — just predict.)
+Fictional examples are fully allowed.
 
 ---
 
 ## Check for Understanding
 
-After this week, check whether the learner can:
-
-1. **Trace the food pipeline:** "Mouth → stomach → intestines → blood → cells." (Or similar — order matters.)
-2. **Define ATP in one sentence:** "The energy currency that cells use." Or similar.
-3. **Explain a calorie:** "A unit of energy in food." Or similar.
-
-If the learner can do at least 2 of these, they're ready for Week 5.
+1. Can the learner name at least three stops in the food journey?
+2. Can the learner explain that food gets broken into tiny usable pieces?
+3. Can the learner say that Calories measure energy, not worth?
 
 ---
 
 ## Pause and Notice
 
 :::note What Matters Here
-> "Right now, while we're talking, your body is digesting whatever you last ate. Even if you can't feel it. The processing plant is running."
+Ask:
 
-> "Most adults don't know how food becomes energy. They just know 'I eat, then I have energy.' You now know the steps."
+> "How does food sound different when we talk about jobs instead of rules?"
 
-The point of this week is to demystify the system. There's no magic, and there is no moral score hidden in the label. There is a chemical processing plant that takes input and makes ATP.
-
-**This week's takeaway:** You eat food. Your body breaks it into tiny pieces. The pieces become energy. That's the whole pipeline.
+The main emotional center stays the same: just notice what the body does.
 :::
 
 ---
@@ -317,28 +284,33 @@ The point of this week is to demystify the system. There's no magic, and there i
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
-**From Week 1:** Digestion is firmware. You don't think "now break down the starch." The system does it automatically.
+From Week 1: body clues are messages.
 
-**From Week 2:** Hunger is a feedback loop. Low fuel → hunger signal → eat → fuel restored → signal off. Now you understand what "fuel restored" actually means — molecules of glucose and amino acids and fatty acids reaching cells.
+From Week 2: loops help the body keep important things in a workable range.
 
-**From Week 3:** Your resting heart rate is partly determined by your basal metabolic rate. Cells need ATP all the time, which means oxygen has to keep arriving, which means the heart keeps pumping.
+Week 4 adds fuel to that story by asking where the body gets the tiny pieces it uses.
 :::
 
 ---
 
-:::tip Simplify (Ages 8–9)
-Just teach the pipeline drawing and the ATP-as-currency analogy. Skip metabolism and calories entirely. The key takeaway is: food gets broken down small enough to be used.
+:::tip Simplify (Ages 8-9)
+Use the six-box comic only and skip labels entirely.
 :::
 
-:::tip Extend (Ages 10–12)
-Have the learner research one digestive enzyme (amylase, pepsin, lipase) and explain what specific bond it breaks. Discuss why the body has different enzymes for different food types — and why some people don't make enough of certain enzymes (lactose intolerance, for example).
+:::tip Extend (Ages 10-12)
+Invite older learners to add the terms digestion, metabolism, and ATP in a small "Technical Name" box next to the comic.
 :::
 
 :::tip Vocabulary This Week
-**Digestion** • **ATP** • **Calorie** • **Metabolism** • **Throughput**
-See the [Glossary](./glossary.md) for definitions.
+**Kid phrase -> Technical phrase**
+
+- food workshop -> digestive system / metabolism
+- tiny food pieces -> nutrients and fuel pieces
+- cell energy ticket -> ATP
+
+See the [Glossary](./glossary.md) for both versions.
 :::
 
 ## Preview of Next Week
 
-Next week, we look at the three big fuel categories — carbohydrates, fats, and proteins. They are not interchangeable. Each one does different things in the system.
+Next week, the learner compares different food jobs: quick fuel, slow fuel, building blocks, and tiny helpers.

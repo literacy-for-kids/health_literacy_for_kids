@@ -2,43 +2,64 @@
 sidebar_position: 93
 sidebar_label: "Facilitator Response Bank"
 title: "Facilitator Response Bank"
-description: "Ready-to-use facilitator language for tricky curriculum moments"
+description: "Ready-to-use facilitator language for translating science words, reducing shame, protecting privacy, and keeping body study safe."
 ---
 
 # Facilitator Response Bank
 
-Use this page when a learner's question is emotionally loaded, morally framed, or heading toward an unsafe experiment. The goal is not to have a perfect script. The goal is to keep the tone curious, safe, and non-shaming.
+Use this page when a learner's question is emotionally loaded, morally framed, or heading toward unsafe territory.
+
+The goal is not to sound perfect. The goal is to keep the conversation curious, safe, warm, and clear.
 
 ---
 
 | If the learner says... | Try saying... | Why this works |
 |---|---|---|
-| So sugar is bad? | Not bad. Fast. The question is what the system does with fast fuel. | Keeps the focus on mechanism instead of moral judgment. |
-| I ate something bad. | Food is not moral in this curriculum. Let's describe what kind of input it was and what the body does with it. | Removes shame and returns to observation language. |
-| I'm unhealthy. | This curriculum does not rank bodies. We are observing signals and patterns. | Stops identity-based self-judgment. |
-| My number is worse than theirs. | Telemetry is personal. Your data is for understanding your system, not comparing it to someone else's. | Protects privacy and blocks competition. |
-| I want to lose weight for my experiment. | That is not a safe experiment for this curriculum. Let's choose a variable you can understand, not a body outcome to chase. | Redirects unsafe capstone goals. |
-| My data didn't change. | That is still a result. You learned what this protocol did or did not show over two weeks. | Normalizes null results as valid science. |
-| I forgot to track, so I failed. | Missing data is data about the protocol. It tells us the system had too much friction. | Reframes adherence problems as design information. |
-| My stress is because of my family. | Thank you for trusting me with that. This lesson cannot fix that, but you deserve support from a trusted adult. Let's pause the curriculum part. | Protects the learner and sets a boundary around the lesson. |
-| Does this mean I shouldn't take fever medicine? | No. This curriculum explains what fever is doing. Treatment decisions belong to your family and a healthcare professional. | Maintains a clear medical boundary. |
-| Should I take probiotics? | That is a family or doctor question. The science is still developing, and different strains do different things. Here we are learning the mechanism, not prescribing a product. | Keeps advanced science from turning into product advice. |
-| I don't want to share my log. | That is allowed. Your Bio-Telemetry Log is private unless you choose to share part of it. | Makes consent explicit. |
-| This makes me nervous about my body. | Then we slow down. The goal is curiosity, not worry. We can use fictional data or skip this activity. | Protects emotional safety and offers an immediate adjustment. |
-| If exercise creates damage, is exercise bad? | No. Controlled load plus recovery is how tissues adapt. Pain or unsafe stress is different. | Preserves the core model without glorifying pain. |
-| I have a medical condition. Does this apply to me? | Some mechanisms still apply, but your body may have specific rules. That is exactly when a healthcare professional's guidance matters. | Acknowledges difference without excluding the learner. |
+| What's the science word for that? | That's the science word. The kid version is ____. We can use either one. | Keeps technical rigor while protecting comprehension. |
+| So my body is doing it wrong? | We don't need to call it wrong. We're just noticing what your body is doing. | Shifts from judgment to observation. |
+| I ate something bad. | Food is not moral in this curriculum. Let's describe what that food might do instead. | Removes shame and returns to food-job language. |
+| So sugar is bad? | Not bad. Just fast. The better question is what kind of pattern it may create. | Keeps the focus on mechanism instead of blame. |
+| I don't want to talk about my breakfast. | That's okay. You can use a pretend example or an adult-provided example. | Protects privacy and reduces pressure. |
+| My number is worse than theirs. | This is not a contest. Your clues are for understanding your own body, not comparing bodies. | Blocks competition and shame. |
+| I forgot to track, so I failed. | Missing data is a clue, not a mistake. It tells us something about the plan or the day. | Reframes missed data as usable information. |
+| My body clue sounds scary. | That body clue sounds important. Let's involve an adult. | Keeps a clear safety boundary. |
+| Does this mean I should ignore a fever? | No. Understanding a fever does not mean ignoring a fever. Adults and doctors help decide what to do. | Protects the medical boundary. |
+| I want to lose weight for my project. | That is not a safe project for this curriculum. Let's pick a question that helps you understand a clue instead. | Redirects away from body-control goals. |
+| I want to sleep less and test what happens. | We do not reduce sleep for science in this curriculum. Let's choose a safer question. | Reinforces a clear safety rule. |
+| My sleep was bad. | We can say your sleep was different, short, interrupted, or not very restful. We do not need moral words. | Replaces shame language with descriptive language. |
+| I hate how weak I am. | Bodies are not ranked here. We can describe what felt hard, what support helped, and what you noticed. | Stops identity-based self-judgment. |
+| This makes me nervous about my body. | Then we slow down. We can switch to a fictional example, make the activity smaller, or stop for now. | Offers immediate emotional safety options. |
+| My mood is bad because of my family. | Thank you for telling me. This lesson cannot fix that situation, but you deserve support from a trusted adult. | Sets care boundaries without dismissing the learner. |
+| I do not want to share my notebook. | That is allowed. Your Body Clues Notebook belongs to you. | Makes consent and privacy explicit. |
+| My project showed no change. | No change is a real finding. You still learned something true about the clues you collected. | Validates null results. |
+| I used the wrong word. | You did not do it wrong. We can say it in kid words first, then add the science word after. | Normalizes learning and scaffolds vocabulary. |
+
+---
+
+## Fast Reset Phrases
+
+Use these when the discussion is getting too intense or too technical.
+
+- We don't need to fix anything. We're just noticing.
+- You can use a pretend example.
+- Let's say it in kid words first.
+- Private is okay.
+- That clue sounds important. Let's involve an adult.
+- Missing a day is not failure.
+- No change is still a finding.
 
 ---
 
 ## Facilitator Principles
 
-- Ask before advising.
-- Use observation language.
-- Normalize variation.
-- Protect privacy.
-- Do not force disclosure.
-- Redirect unsafe experiments.
-- Celebrate null results.
-- Treat skipped data as protocol information, not failure.
+- Translate the science word into kid language first.
+- Use observation language before advice language.
+- Keep privacy warm, short, and repeated.
+- Normalize variation across bodies, families, and routines.
+- Redirect unsafe projects immediately.
+- Treat missed data as information.
+- Celebrate curiosity, not body control.
 
-When in doubt, slow down and say less. Just notice.
+When in doubt, slow down and say less.
+
+Just notice.

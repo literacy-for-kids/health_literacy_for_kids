@@ -42,7 +42,7 @@ This curriculum helps learners understand patterns; it does not diagnose or trea
 - Students should never be required to share food logs, health symptoms, weight, mood data, stress maps, sleep data, or illness histories publicly.
 - Group sharing should use fictionalized, anonymized, or example data unless the learner freely chooses otherwise.
 - A learner can always say, "I'd rather not share that."
-- The Bio-Telemetry Log should be treated like a private science notebook.
+- The Body Clues Notebook should be treated like a private science notebook. Older learners may also hear the technical name Bio-Telemetry Log.
 - Learners may opt for non-food, non-stress, non-illness, non-mood, or observation-only versions of activities without explaining why.
 
 If a learner does choose to share, keep the response neutral and observational. The data is not a grade. Their body is not being judged.

@@ -2,70 +2,127 @@
 sidebar_position: 94
 sidebar_label: "Science Confidence and Metaphors"
 title: "Science Confidence and Metaphor Guide"
-description: "How the curriculum uses engineering metaphors, where they help, and where they stop"
+description: "How the curriculum uses simple body metaphors, where they help, and how to talk honestly about scientific uncertainty with kids"
 ---
 
 # Science Confidence and Metaphor Guide
 
-This curriculum uses engineering language on purpose. It helps learners picture invisible body processes and lowers shame by treating signals as information. It also has limits.
+This curriculum uses metaphors on purpose.
+
+They help kids picture invisible body processes. They also help facilitators translate technical science into language learners can actually use.
+
+Metaphors help, but they are not the whole truth.
 
 ---
 
-## Why We Use Engineering Metaphors
+## Metaphor Reminder
 
-- They help learners understand complex systems.
-- They make invisible processes easier to picture.
-- They remove shame by treating body signals as information.
-- They give adults and kids a shared language for asking better questions.
+**Bodies are not machines. We use machine ideas because they help us picture invisible things.**
 
-Metaphors help us understand, but bodies are living systems, not literal machines.
+That reminder belongs near the start of any lesson that borrows words like loop, detector, action part, wall, memory book, or cleanup crew.
 
 ---
 
-## Where the Metaphor Breaks
+## Why We Use Metaphors
+
+- They give kids a picture before a technical term.
+- They make complex systems easier to hold in mind.
+- They reduce shame by turning body clues into information instead of moral signals.
+- They help facilitators move between kid language and technical language.
+
+---
+
+## Where the Metaphor Stops Working
 
 - Bodies are living systems, not literal machines.
-- Biological systems are noisy, adaptive, variable, and influenced by development, environment, emotions, relationships, genetics, illness, disability, neurodivergence, and social context.
-- A body is not broken because it behaves differently.
-- A protocol is a way to study a pattern, not a command the body must obey.
-- A system signal is not always simple. Many loops interact at the same time.
+- A body can be different without being broken.
+- Many body systems overlap and influence each other at the same time.
+- A model can help without explaining every detail.
+- A metaphor should never be stronger than the evidence.
 
 :::note Where the Metaphor Breaks
-The engineering frame helps us see patterns, but bodies are not literal machines. Living systems are noisy, adaptive, and different from person to person. The goal is not to control the body perfectly. The goal is to understand its signals with curiosity.
+The model is there to make a hidden process easier to picture.
+
+It is not there to flatten the body into a machine that should always behave predictably.
 :::
 
 ---
 
 ## Science Confidence Labels
 
-Use these labels when a page needs a quick note about how strong or settled a claim is.
+Use these labels when you want to tell a facilitator how settled an idea is.
 
-- **Well-established**: Strongly supported by basic biology and clinical evidence.
-- **Strong but simplified**: The underlying science is solid, but the teaching version leaves out complexity.
-- **Emerging / active research**: The mechanism is real, but many details are still being studied.
-- **Metaphor / analogy**: A teaching frame borrowed from engineering or computing.
+- **Well-established**: strongly supported basic biology or physiology.
+- **Strong but simplified**: the core science is solid, but the teaching version leaves out detail.
+- **Emerging / active research**: the connection is real, but many details are still being mapped.
+- **Metaphor / analogy**: a teaching picture borrowed to make a harder idea easier to see.
+
+---
+
+## Say This to Kids
+
+| Situation | Helpful wording |
+|---|---|
+| A metaphor is doing a lot of work | "This is a model, not the whole truth." |
+| The connection is real but still being studied | "Scientists know this connection is real, but they are still learning the details." |
+| The evidence is strong | "Scientists are pretty sure about this big idea." |
+| The learner wants the technical word | "That's the science word. The kid version is..." |
+| A topic is getting too certain too fast | "Let's keep what we know and what we are still guessing in separate boxes." |
+
+---
+
+## Wording Shifts That Help
+
+Prefer these:
+
+- influences
+- may help
+- often
+- one clue
+- pattern
+- model
+- still being studied
+
+Be careful with these:
+
+- controls
+- proves
+- always
+- fixed rule
+- this causes that for everyone
 
 ---
 
 ## Examples in This Curriculum
 
-| Topic | Confidence note |
+| Topic | How to frame it |
 |---|---|
-| Homeostasis and feedback loops | Well-established biology explained with metaphor |
-| Digestive pipeline | Well-established biology with simplified teaching language |
-| Glymphatic system | Real mechanism with active research around details and interpretation |
-| Gut-brain axis | Real connection with many active research questions |
-| Microbiome-mood specifics | Emerging / active research |
-| Stress physiology | Well-established in broad mechanism; individual effects vary |
-| Capstone self-experiment | Educational observation, not medical research |
+| Body autopilot / homeostasis | Well-established biology explained with kid-friendly loop language. |
+| Food workshop and food jobs | Well-established biology taught with simpler system pictures. |
+| Body security team | Strong immune-system science taught with wall, guard, and memory metaphors. |
+| Night cleanup crew | Helpful metaphor for several real sleep-related maintenance processes. |
+| Tiny gut helpers | Real biology plus active research; use influence language and honest uncertainty. |
+| Body Mystery Project | Educational observation, not medical research and not self-optimization. |
 
 ---
 
-## How to Talk About Uncertainty
+## Facilitator Quick Checks
 
-- Say "influences" more often than "controls" when the science is indirect.
-- Separate the big established idea from the still-evolving details.
-- Name when a concept is a metaphor.
-- Do not use uncertainty as a reason to make up stronger claims.
+Before teaching a metaphor-heavy section, ask:
 
-Science confidence is not about making the curriculum colder. It is about helping learners know which ideas are settled, which are simplified, and which are still being mapped.
+1. Does the metaphor make the idea clearer for this learner?
+2. Have I said where the metaphor stops working?
+3. Am I using kid language before technical language?
+4. Am I making certainty sound stronger than it is?
+
+If the answer to the last question is yes, slow down and simplify.
+
+---
+
+## Bottom Line
+
+Metaphors are bridges.
+
+Science confidence labels are guardrails.
+
+Together, they help the curriculum stay accurate, humane, and understandable.

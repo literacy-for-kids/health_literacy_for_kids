@@ -1,39 +1,57 @@
 ---
 sidebar_position: 1
-sidebar_label: "Week 1: The Body as a Control Loop System"
-title: "Week 1: The Body as a Control Loop System"
-description: "Students learn how the body uses negative feedback loops to maintain a stable internal environment."
+sidebar_label: "Week 1: Your Body's Autopilot"
+title: "Week 1: Your Body's Autopilot"
+description: "Students notice what the body does automatically and learn that body clues are part of the body's steadying system."
 ---
 
-# Week 1: The Body as a Control Loop System
-*Unit 1 — The Control Loops*
+# Week 1: Your Body's Autopilot
+*Unit 1 - Body Autopilot and Steadying Loops*
 
-Welcome to Health Systems Literacy. Over the next 18 weeks, you and your learner will study one of the most sophisticated machines in the known universe: the human body.
+This week begins with a simple idea: your body is already doing a huge number of jobs for you.
 
-This week we start with the biggest idea in the entire curriculum:
+It notices. It compares. It responds. It keeps trying to keep things steady inside you.
 
-**The body is constantly running thousands of small self-correcting loops to keep its internal environment stable. Most of what feels like a "feeling" — hunger, thirst, hot, cold, tired — is actually a system alert telling you a variable has drifted out of range.**
+:::tip This Week's Mission
+- Notice things your body does automatically.
+- Learn that body signals are clues.
+- Start a private Body Clues Notebook.
+:::
 
-You are not just a person. You are hardware, firmware, and software, all running together. Once you can see the loops, you can never un-see them.
+:::info Kid Version
+Your body has a built-in autopilot.
 
----
+It helps you stay warm enough, cool enough, watered enough, and fueled enough without asking you to think about every step.
 
-:::note Where the Metaphor Breaks
-The engineering frame helps us see patterns, but bodies are living systems, not literal machines. Different bodies can send different signals. The goal is not perfect control. The goal is to understand the signals with curiosity.
+When you feel hungry, thirsty, hot, cold, sleepy, or like you need the bathroom, that is not your body being "bad." It is your body sending a clue.
+
+This week, you are a body detective. Your job is to just notice.
+:::
+
+:::info Technical Name
+Scientists often call this steady-inside job **homeostasis**.
+
+Older learners may also hear the terms **control loop**, **sensor**, and **actuator**. In this course, we will usually say **body detector** first and **body action part** first, then add the science word in parentheses when helpful.
+:::
+
+:::note Where the Metaphor Helps
+We sometimes borrow machine ideas because they help us picture invisible body jobs.
+
+Bodies are living systems, not literal machines. The goal is not perfect control. The goal is kinder, clearer noticing.
 :::
 
 :::info Facilitator Snapshot
-- This week is about a vocabulary shift. We are introducing the engineering frame that runs through the whole course.
-- The big "aha" is that symptoms are signals, not random feelings. Sweating is not just uncomfortable — it is the body actively cooling itself.
-- Keep it experiential. Make the learner notice their own body, not memorize terms.
-- Introduce the Bio-Telemetry Log at the end of the week. A simple notebook is all you need.
-- Most system alerts are useful information. Some alerts also need adult or medical help right away: severe pain, trouble breathing, fainting, chest pain, severe allergic reaction symptoms, or signs of severe dehydration.
+- Lead with the thermostat model. It is the clearest picture for this week.
+- Use **body parts**, **autopilot programs**, and **learned skills** before **hardware**, **firmware**, and **software**.
+- Keep the learner in observation mode: notice first, label second.
+- Introduce the **Body Clues Notebook** as the student-facing name. Keep **Bio-Telemetry Log** as the technical name if needed.
+- Most body clues are normal. Some clues mean get help right away: severe pain, trouble breathing, fainting, chest pain, severe allergic reaction symptoms, or signs of severe dehydration.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Hardware, Firmware, Software](#guided-session-1)
-- [Guided Session 2: Sensors and Actuators](#guided-session-2)
+- [Guided Session 1: What Your Body Does on Autopilot](#guided-session-1)
+- [Guided Session 2: Body Detectors and Body Action Parts](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -42,246 +60,254 @@ The engineering frame helps us see patterns, but bodies are living systems, not 
 | | |
 |---|---|
 | **Prep time** | ~10 minutes |
-| **Materials** | A notebook for the Bio-Telemetry Log, paper and pencil, a glass of cold water, a warm spot or a blanket |
-| **Key vocabulary** | hardware, firmware, software, control loop, sensor, actuator, homeostasis, system alert |
+| **Materials** | A notebook for the Body Clues Notebook (technical name: Bio-Telemetry Log), paper and pencil, a glass of cold water, a blanket or cool object |
+| **Key vocabulary** | body autopilot, body clue, body detector (sensor), body action part (actuator), homeostasis |
 | **Difficulty** | Introductory |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Set up a notebook or folder for the Bio-Telemetry Log. It will be used all 18 weeks.
-- Treat the Bio-Telemetry Log like a private science notebook. The learner chooses what to share.
-- Have a glass of cold water available for the "step outside on a cold day" demonstration (or actually step outside if the weather cooperates).
-- Read through both guided sessions before starting.
-- Set up a visual timer if helpful.
+- Set up a notebook or folder for the Body Clues Notebook.
+- Tell the learner it is a private science notebook. They choose what to share.
+- Have a cold glass or cool object ready for the temperature demonstration.
+- Plan for drawing, oral answers, or simple one-word notes.
+- Keep the week light and curious. This is a first step, not a vocabulary test.
 :::
 
 :::tip Facilitation Mindset
 This week is about **wonder**, not memorization.
 
-Don't lecture about biology. Let the learner notice their own body in real time and then give them the vocabulary to name what they observed. The order is: experience first, label second.
+Let the learner notice their own body in real time. Give the science word after the experience, not before it.
 :::
 
-:::warning Some Alerts Need Backup
-Most alerts are part of a healthy system doing its job. Some are also reasons to pause the lesson and get adult or medical help right away: severe pain, trouble breathing, fainting, chest pain, severe allergic reaction symptoms, or signs of severe dehydration.
+:::warning Most Body Clues Are Normal. Some Clues Mean Get Help Right Away.
+Most body clues are part of the body doing its job.
+
+Some clues mean pause the lesson and get adult or medical help right away: severe pain, trouble breathing, fainting, chest pain, severe allergic reaction symptoms, or signs of severe dehydration.
 :::
 
-## For Younger Learners (Ages 8–9)
+## For Younger Learners (Ages 8-9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "Your body is always checking on itself — like a thermostat in a house. When something gets too hot or too cold, your body fixes it without you even thinking about it."
+**Simplest version of the concept:** "Your body is always checking on itself, like a thermostat in a house. When something drifts, your body notices and does something helpful."
 
 **What to shorten or skip:**
-- You can skip the "hardware vs. firmware vs. software" vocabulary and just call them "parts," "automatic programs," and "habits you learned."
-- Keep sessions to 20 minutes.
+- Skip **hardware**, **firmware**, and **software** unless the learner asks.
+- Keep the lesson to the thermostat idea, the cold demonstration, and the clue notebook.
+- Skip the full loop diagram if it feels too abstract.
 
-**Adapting the activities:**
-- For the cold-water demonstration, focus only on noticing the goosebumps and shivering. The hypothalamus is too much.
-- For the Bio-Telemetry Log, accept drawings, single words, or spoken sentences that the facilitator writes down.
-
-**What success looks like:** The learner can point to one thing their body did on its own this week (yawned, shivered, sweated, got hungry) and say "that was my body fixing something."
+**What success looks like:**
+The learner can point to one thing their body did automatically and say, "My body noticed something and responded."
 :::
 
-:::info For Ages 10–12
-- Introduce the word **homeostasis** explicitly and use it.
-- Discuss the thermostat analogy in detail. A house thermostat is the simplest control loop most kids have encountered.
-- Have the learner try to list five system alerts (hunger, thirst, fatigue, hot, cold, pain, sleepiness) and guess what variable each one is monitoring.
+## For Older Learners (Ages 10-12)
+
+:::info Deeper Option
+- Add the technical word **homeostasis** and use it more than once.
+- Introduce **sensor** and **actuator** after the learner already understands **body detector** and **body action part**.
+- If the learner enjoys categories, show how **body parts**, **autopilot programs**, and **learned skills** connect to **hardware**, **firmware**, and **software** as an optional comparison.
 :::
 
 ---
 
 ## Guided Session 1
-### Hardware, Firmware, Software
+### What Your Body Does on Autopilot
 #### Learning Goal
-By the end of this session, the student can:
+By the end of this session, the learner can:
 
-- name the three categories used to describe the body (hardware, firmware, software)
-- give one example of each from their own body
-- explain that a lot of the body runs without any conscious thought
+- name several things the body does automatically
+- explain that body clues are part of the body's autopilot
+- use the thermostat example to explain keeping things steady
 
 ---
 
 #### Activities
 
-**1. The Body Is a Machine (A Drawing Activity)**
+**1. Draw a Helpful Control Room**
 
-Get a piece of paper. Draw a rough outline of a person.
+Ask the learner to draw a person, a robot helper, or a simple control room.
 
-Ask the learner:
+Prompt them with questions like:
 
-> "If your body is a machine, what parts are the hardware?"
+> "If your body had a helpful control room, what would it be watching?"
 
-Help them label:
+> "What would it do automatically to help you?"
 
-- Bones (the frame)
-- Muscles (the motors)
-- Heart and lungs (the pumps)
-- Brain (the main processor)
-- Skin (the outer shell)
-- Stomach (the chemical plant)
+Possible labels:
 
-Then ask:
+- too hot / cool down
+- too cold / warm up
+- low water / make a thirst clue
+- low fuel / make a hunger clue
+- tired / send a sleepy clue
+- full bladder / remind me to use the bathroom
 
-> "Now — there are things your body does on its own, without you choosing to. What are some of those?"
+**Drawing prompt:**
 
-Help them list:
+> "Draw your body as a helpful control room. What does it notice? What does it do automatically?"
 
-- Breathing
-- Heart beating
-- Digesting food
-- Healing a cut
-- Getting tired at night
-- Getting hungry
-
-Label these on the drawing as **FIRMWARE** — built-in programs.
-
-Finally:
-
-> "And then there are things you LEARNED how to do. What are those?"
-
-Help them list:
-
-- Walking
-- Talking
-- Riding a bike
-- Brushing teeth
-- Reading
-
-Label these **SOFTWARE** — programs the body installed by learning.
+If drawing is not the learner's preferred format, let them explain it out loud while you sketch or write.
 
 ---
 
-**2. The Big Reveal**
-
-Hold up the drawing and say:
-
-> "Almost everything keeping you alive right now is firmware. You're not breathing because you're choosing to. You're not pumping blood because you're focused on it. Your body is running thousands of programs at once, and you're not even aware of most of them."
-
-Pause and let that sit.
-
-> "This curriculum is about understanding the firmware. Once you understand how the programs work, you'll see your body in a completely new way."
-
----
-
-**3. The Thermostat Analogy**
+**2. The Thermostat Model**
 
 Ask:
 
-> "Do you know how a thermostat works?"
+> "What does a thermostat do in a house?"
 
-Walk through it:
+Walk through it in short steps:
 
-- A thermostat measures the room temperature.
-- It has a target temperature (like 70°F).
-- If the room gets too cold, it turns on the heat.
-- If the room gets too hot, it turns on the AC.
-- When the temperature is back to target, it stops.
+- It checks the temperature.
+- It compares the temperature to the target.
+- If the room is too cold, it turns on heat.
+- If the room is too hot, it helps cool things down.
+- Then it checks again.
 
-That's a **control loop**: measure, compare to target, take action, measure again.
+Then connect it back to the body:
 
-Then:
+> "Your body has lots of loops like that. They help keep important things steady inside you."
 
-> "Your body has thermostats just like that. Hundreds of them. They keep your temperature, your blood sugar, your water levels, your oxygen, your blood pressure, and a lot of other things all in a tight range."
+> "That steady-inside job is called **homeostasis**."
 
-The big word for "keeping things steady" is **homeostasis**. Write it down.
+For a simple object version, use a thermostat, a fan with a switch, or even a cup of cold water and a blanket. Ask, "What is noticing? What is changing? What is helping?"
+
+---
+
+**3. Three Buckets: Parts, Autopilot Programs, Learned Skills**
+
+Draw three boxes:
+
+- **Body parts**
+- **Autopilot programs**
+- **Learned skills**
+
+Ask the learner to help sort examples.
+
+**Body parts:**
+- bones
+- muscles
+- heart
+- lungs
+- skin
+- stomach
+
+**Autopilot programs:**
+- breathing
+- heartbeat
+- digestion
+- healing a cut
+- getting sleepy at night
+- getting hungry or thirsty
+
+**Learned skills:**
+- walking
+- talking
+- reading
+- brushing teeth
+- riding a bike
+
+For older learners, you can add:
+
+- body parts = **hardware**
+- autopilot programs = **firmware**
+- learned skills and habits = **software**
+
+Keep those as second-step vocabulary, not the main lesson.
 
 ---
 
 ## Guided Session 2
-### Sensors and Actuators
+### Body Detectors and Body Action Parts
 #### Learning Goal
-By the end of this session, the student can:
+By the end of this session, the learner can:
 
-- explain that the body has sensors that measure variables and actuators that take action
-- identify what variable is being measured when their body sends a signal
-- name three system alerts and what each one is measuring
+- explain that the body has parts that notice change
+- explain that the body has parts that do the response
+- name one everyday body clue and what it might be noticing
 
 ---
 
 #### Activities
 
-**1. The Cold Water Demonstration**
+**1. Cold Glass Demonstration**
 
-Have the learner roll up their sleeve. Put a glass of cold water (with some ice if possible) on the table.
+Have the learner touch a cold glass or cool object with their forearm or hand for about 20 to 30 seconds.
 
-Say:
+Ask:
 
-> "We're going to test one of your control loops. I want you to put your forearm against the cold glass and hold it there. Tell me what you notice."
+- What do you notice?
+- Did your skin feel different?
+- Did you want to pull away, rub it, or warm up?
 
-Have them hold it for about 30 seconds. Then ask:
+Then explain in kid language:
 
-- Did your skin change? (Goosebumps may appear.)
-- Did anything happen to the hairs on your arm? (They stand up.)
-- Did you feel a shiver?
+> "Your skin has body detectors that notice temperature."
 
-Now explain what just happened:
+> "Your brain compares that information to what your body is aiming for."
 
-> "Your skin has sensors that measure temperature. They are called **thermoreceptors**. When they detected the cold, they sent a signal to a part of your brain called the hypothalamus — your body's main thermostat.
+> "Then body action parts start helping. You might get goosebumps, your blood vessels near the skin may tighten, and your muscles may get ready to shiver."
 
-> The hypothalamus checked: is this temperature outside the safe range? Yes. So it sent out orders to the **actuators**:
-> - The tiny muscles around each hair contracted to stand the hair up (this used to trap warm air in fur — we still have the program, even though we don't have fur anymore).
-> - The blood vessels near the skin started narrowing to keep warm blood deeper inside.
-> - Your muscles got ready to shiver, which generates heat.
+> "That is your body trying to keep things steady."
 
-> All of that happened without you choosing any of it. That's a control loop."
+**For older learners:** the technical names here are **thermoreceptors**, **hypothalamus**, and **actuators**.
 
 ---
 
-**2. The Sensor-Actuator Vocabulary**
+**2. Make a Small Loop Map**
 
-Draw this simple diagram:
+Draw this smaller, simpler diagram:
 
+```text
+[ body detector ] -> [ brain checks ] -> [ body action part ]
+     ^                                          |
+     |__________________________________________|
+            checks again
 ```
-[ SENSOR ] → [ BRAIN COMPARES TO TARGET ] → [ ACTUATOR ] → [ EFFECT ]
-     ↑                                                          |
-     |__________________________________________________________|
-                        (sensor checks again)
-```
 
-Then ask the learner to fill in this loop for SWEATING:
+Fill it in together for one or two examples.
 
-- Sensor: thermoreceptors detect temperature is too high
-- Actuator: sweat glands
-- Effect: sweat evaporates from the skin, cooling it
-- Sensor checks again: is it cooler now?
+**Sweating**
+- body detector: temperature detectors notice "too warm"
+- brain checks: compare to the usual safe range
+- body action part: sweat glands
+- effect: sweat helps cool the skin
 
-And HUNGER:
+**Thirst**
+- body detector: the body notices water is getting low
+- brain checks: compare to the usual range
+- body action part: thirst signals, dry mouth, drinking behavior
+- effect: water comes in, then the signal eases
 
-- Sensor: glucose detectors in the brain detect low blood sugar (and the stomach detects emptiness)
-- Actuator: hormones that produce the "hunger" signal
-- Effect: the person seeks food
-- Sensor checks again: did fuel arrive?
+**Hunger**
+- body detector: the body notices it needs fuel
+- brain checks: compare to what is needed
+- body action part: hunger signals and food-seeking behavior
+- effect: fuel comes in, then the clue changes
 
-And THIRST:
-
-- Sensor: detects low water levels in the blood
-- Actuator: hormones produce a dry-mouth, "I need water" signal
-- Effect: the person drinks
-- Sensor checks again: are water levels back to normal?
+If the learner prefers roleplay, let one person be the body detector, one person be the brain check, and one person be the body action part.
 
 ---
 
-**3. Renaming Symptoms as System Alerts**
+**3. Rename Clues in Kinder Language**
 
-This is the big reframe. Say:
+Make a quick table together:
 
-> "From now on, we're going to stop thinking of these as 'feelings.' We're going to think of them as **system alerts** — the body is telling you something has drifted out of range."
-
-Make a quick table:
-
-| What it feels like | What it actually is |
+| What I feel | What clue my body may be sending |
 |---|---|
-| "I'm hungry" | Low blood sugar alert |
-| "I'm thirsty" | Low water alert |
-| "I'm hot" | Temperature too high alert |
-| "I'm cold" | Temperature too low alert |
-| "I'm tired" | Maintenance cycle needed alert |
-| "Ouch" | Tissue damage alert |
-| "I have to go to the bathroom" | Bladder full alert |
+| "I'm hungry" | "I may need fuel." |
+| "I'm thirsty" | "I may need water." |
+| "I'm hot" | "I may need cooling." |
+| "I'm cold" | "I may need warming." |
+| "I'm tired" | "I may need rest." |
+| "I need the bathroom" | "My body is ready to empty something out." |
+| "Ouch" | "Something needs attention." |
 
-Discussion:
+Say clearly:
 
-> "Notice that these alerts are not random or shameful. They are signals. Most of them mean the system is doing its job. A body that NEVER felt hungry would have a serious problem. And remember: some alerts still mean it's time to get adult or medical help."
+> "Most body clues are normal. Some clues mean get help right away."
+
+> "We are not trying to ignore clues. We are trying to understand them better."
 
 ---
 
@@ -289,52 +315,68 @@ Discussion:
 
 ### Goal
 
-Spend a few days noticing system alerts in real time and recording them in the Bio-Telemetry Log.
+Start a private Body Clues Notebook and spend a few days noticing body clues in real time.
 
 ### Activities
 
-**1. The System Alert Hunt**
+**1. Body Clue Hunt**
 
-For three days, every time you notice a system alert (hunger, thirst, hot, cold, tired, pain, anything), pause for one second and ask:
+For the next two or three days, whenever the learner notices a body clue, pause for a moment and ask:
 
-- What is my body actually measuring right now?
-- What is the system trying to fix?
+- What might my body be noticing?
+- What might it be trying to do?
+- What changed next?
 
-You don't need to do anything different. Just notice.
+Just notice. No fixing is required.
 
-**2. The Loop Tracker**
+If a clue feels private, the learner can keep it private, use a pretend example, or tell only a trusted adult.
 
-Pick one loop you're curious about and watch it run all the way through one time:
+---
 
-- Notice the alert (e.g., hunger).
-- What did you do? (e.g., ate a snack.)
-- How long did the alert take to go away?
-- Did it come back? When?
+**2. Pick One Loop to Watch**
 
-### Bio-Telemetry Log
+Choose one everyday clue to follow one time from start to finish.
 
-> Start your Bio-Telemetry Log with this first entry:
+Examples:
+
+- thirst -> drink -> thirst eases
+- cold -> get a blanket -> body warms up
+- tired -> rest -> body feels different later
+
+The learner can write, draw, use emojis, or explain it out loud.
+
+---
+
+### Body Clues Notebook
+
+You can copy this starter entry:
+
+> **Body clue I noticed:** _____________
 >
-> **System Alert I Noticed Today:** _____________
+> **What my body might have been noticing:** _____________
 >
-> **What Variable Was Being Measured:** (temperature? blood sugar? water? fatigue?) _____________
+> **What happened next:** _____________
 >
-> **What I Did About It:** _____________
->
-> **What Happened Next:** _____________
+> **What I wonder now:** _____________
 
-**Sentence starters for younger learners:**
+**Emoji option:**
+- body clue: 🙂 / 😐 / 😕 / 😴 / 🥶 / 🥵 / 💧 / 🍽️
+
+**Sentence starters:**
 - "Today my body told me ___."
-- "It was checking on ___."
-- "I noticed it stopped after I ___."
+- "I think it was noticing ___."
+- "After a while, I noticed ___."
 
-**Oral option:** Tell the facilitator your answers. They can write them down.
+**Oral option:**
+Tell the story out loud while a facilitator writes it down.
 
-### Reflection Questions
+### Reflection Choices
 
-- Were there any system alerts you noticed this week that you'd never thought about before?
-- Did any of the alerts surprise you? (How fast did thirst go away after you drank? Did hunger come back sooner than expected?)
-- Which loops do you think run more often than the others?
+Choose one:
+
+- "One body clue I noticed more clearly was..."
+- "One clue that surprised me was..."
+- "If I drew this week's idea, I would show..."
 
 ---
 
@@ -342,53 +384,63 @@ Pick one loop you're curious about and watch it run all the way through one time
 
 After this week, check whether the learner can:
 
-1. **Define homeostasis in one sentence:** "Your body keeping its inside steady, even when things outside change." (Or similar.)
-2. **Identify one sensor and one actuator:** "Skin senses temperature. Sweat glands act on it." (Or any working pair.)
-3. **Rename one symptom:** "What is hunger, really?" Looking for: "Low blood sugar alert" / "The body wanting fuel" / "A signal that the system needs energy."
+1. Explain **homeostasis** in kid language: "My body tries to keep things steady inside."
+2. Name one **body detector** and one **body action part**.
+3. Explain one body clue as a helpful message instead of a random problem.
 
-If the learner can do at least 2 of these, they're ready for Week 2.
+If the learner can do two of these, they are ready for Week 2.
 
 ---
 
 ## Pause and Notice
 
 :::note What Matters Here
-After one of this week's activities, ask:
+Ask:
 
-> "When your body sends a system alert — like hunger or being tired — does it feel like the body is broken, or does it feel like the body is working?"
+> "When your body sends a clue, does that make it seem more like your body is against you or helping you?"
 
-> "Some people get mad at their body when it sends alerts. Like being annoyed at hunger or thirst. But every alert means the system is doing its job. What's that like to think about?"
+> "What changes when we think of hunger, thirst, or tiredness as clues instead of failures?"
 
-The point isn't to suppress any feeling — it's to notice that the body is on your team. Every signal is a working sensor reporting a real measurement.
+The important emotional center of this course is simple: **just notice**.
 
-**This week's takeaway:** Your body is not happening *to* you. It's running thousands of small programs *for* you. The alerts are how it talks.
+This week's takeaway: your body is not trying to bother you. It is trying to help you know what is changing.
 :::
 
 ---
 
 ## Spiral Review
 
-:::tip Connecting to Earlier Weeks
-This is Week 1, so there's nothing to spiral back to yet. But here's a teaser:
+:::tip Connecting to Next Week
+Next week, we look at two kinds of loops:
 
-Next week, we'll go deeper into how those loops actually self-correct — and what happens when a loop fails or runs in the wrong direction.
+- loops that help keep things steady
+- loops that build fast for a short time
+
+Both exist in the body, and both can be useful.
 :::
 
 ---
 
-:::tip Simplify (Ages 8–9)
-Skip the sensor-actuator diagram. Focus on the thermostat analogy and the cold-water demonstration. The single key takeaway — "your body fixes things on its own" — is enough for one week.
+:::tip Simplify (Ages 8-9)
+Keep the thermostat model, the cold-glass demonstration, and the drawing prompt. That is enough.
 :::
 
-:::tip Extend (Ages 10–12)
-Challenge ages 10–12 to map out THREE complete loops on their own (hunger, thirst, and one of their choice) and present them on paper. They should identify the sensor, the variable being measured, the target range, the actuator, and how the loop closes.
+:::tip Extend (Ages 10-12)
+Invite older learners to map two complete loops and add the technical names in parentheses.
 :::
 
 :::tip Vocabulary This Week
-**Hardware** • **Firmware** • **Software** • **Control loop** • **Sensor** • **Actuator** • **Homeostasis** • **System alert**
-See the [Glossary](./glossary.md) for definitions.
+**Kid phrase -> Technical phrase**
+
+- body autopilot -> homeostasis / control loops
+- body detector -> sensor
+- body action part -> actuator
+- body clues -> system alerts
+- private Body Clues Notebook -> Bio-Telemetry Log
+
+See the [Glossary](./glossary.md) for both versions.
 :::
 
 ## Preview of Next Week
 
-Next week, we go deeper into feedback loops — including the rare and dangerous "positive feedback" loops that amplify instead of correct, and what happens when a control loop fails.
+Next week, we compare **steadying loops** with **fast-building loops** and sort examples from everyday life and the body.

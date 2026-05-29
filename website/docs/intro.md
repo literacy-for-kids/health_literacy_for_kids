@@ -2,19 +2,19 @@
 sidebar_position: 0
 sidebar_label: "Welcome"
 title: "Health Systems Literacy for Kids"
-description: "A curiosity-driven 18-week curriculum for ages 8–12 that teaches how the human body operates as an integrated system of feedback loops"
+description: "A curiosity-driven 18-week curriculum for ages 8-12 that helps kids notice body clues, understand connected systems, and ask safer, kinder questions about health."
 slug: /intro
 ---
 
 # Health Systems Literacy for Kids
 
-**A curriculum for understanding the operating system you live inside.**
+**A kid-friendly systems curriculum for noticing body clues with curiosity.**
 
-You are a sophisticated biological system. This curriculum often uses engineering language because it helps make invisible processes easier to picture. You have hardware (bones, organs, muscles), firmware (circadian rhythms, immune responses, reflexes), and software (habits, learned behaviors). You run sensor-actuator loops constantly to keep your internal environment stable. You have a built-in cybersecurity system. You even host a symbiotic co-processor — trillions of microbes in your gut that help you digest food and influence other body systems.
+This course helps kids notice body clues, understand what body systems are doing, and ask safer, kinder questions about health.
 
-This 18-week curriculum teaches young learners how that system actually works — not as a set of health rules, but as a system to understand. The goal is not to tell kids what to eat, when to sleep, how much to exercise, or how to optimize themselves. The goal is to give them engineering vocabulary and scientific habits of observation so they can notice patterns without shame or panic.
+It keeps the systems-thinking identity of the project, but it puts kid language first. Technical science words still matter. They simply arrive after the learner has a picture in their head.
 
-By the end of the course, students will keep a **Bio-Telemetry Log** — a running record of measurements, observations, and discoveries about their own physical systems. The Bio-Telemetry Log should be treated like a private science notebook. Learners choose what to share.
+The student-facing notebook in this curriculum is called the **Body Clues Notebook**. Older learners and facilitators may also hear its technical name: **Bio-Telemetry Log**.
 
 ---
 
@@ -23,55 +23,61 @@ By the end of the course, students will keep a **Bio-Telemetry Log** — a runni
 - Read [How to Use This Curriculum](#how-to-use-this-curriculum) for setup and pacing guidance.
 - Review [The Five Core Mental Models](#the-five-core-mental-models) to see the ideas that thread through every lesson.
 - Skim [Course at a Glance](#course-at-a-glance) for the full program structure.
-- Read [What This Is Not](#what-this-is-not) before you begin — this is important.
+- Read [What This Is Not](#what-this-is-not) before you begin.
 - Keep the [Facilitator Safety Guide](./facilitator-safety-guide.md) nearby as your standing reference for privacy, consent, and medical boundaries.
 :::
 
 :::info For Caregivers and Teachers
-- You do not need to read the full site in order. Start here, then move into the current week you are teaching.
-- Each weekly page is designed to be skimmed quickly: review the facilitator snapshot, teach one session at a time, and come back later for the rest.
-- Use this page when you want the big-picture philosophy, not minute-by-minute teaching directions.
-- If you want support materials, also use the [Curriculum Map](./curriculum-map.md), [Printable Templates](./printable-templates.md), [Facilitator Response Bank](./facilitator-response-bank.md), and [Science Confidence and Metaphor Guide](./science-confidence-and-metaphors.md).
+- You do not need a science degree to teach this curriculum.
+- Each weekly page is designed to be skimmable: mission, kid version, facilitator snapshot, then activities.
+- Younger learners can draw, roleplay, use emojis, or answer out loud.
+- Older learners can add the technical language and deeper science notes.
+- The emotional center stays the same every week: just notice.
 :::
 
 ---
 
 ## The Big Idea
 
-Most health education for kids is a list of rules:
+Many health lessons for kids start with rules.
 
-- "Eat your vegetables."
-- "Get 9 hours of sleep."
-- "Wash your hands."
-- "Don't eat too much sugar."
+- Eat this.
+- Sleep more.
+- Move more.
+- Do less of that.
 
-The rules might be sensible, but the *reasoning* is usually missing. Kids are told what to do without ever being shown the system that makes those rules make sense.
+This curriculum starts somewhere else.
 
-This curriculum takes a fundamentally different approach. We teach students that:
+It teaches the body as a set of connected systems that notice, respond, repair, protect, and adapt.
 
-> **The human body is a sophisticated biological system. If you understand how the system works, the "rules" stop being rules. They become informed choices about how to care for and observe your hardware.**
+When kids understand what a body clue might mean, health becomes less mysterious and less shame-heavy. Hunger, thirst, tiredness, pain, sleepiness, or feeling hot are not signs that a child has failed. They are clues in a system story.
 
-When a student understands that sleep is when the brain physically clears metabolic waste, "get enough sleep" stops being a parental nag and becomes a maintenance protocol. When a student understands that the immune system writes new antibody "virus definitions" after each infection, vaccines stop being mysterious shots and become firmware updates.
+This course keeps scientific rigor. It just changes the order:
 
-The engineering frame does something else, too. It removes shame, guilt, and judgment from health conversations. There is no "good food" and "bad food" — only different inputs and different system effects. There is no "lazy" — only signals that the system needs rest. There is no "weak" body — only a living system responding to its context.
+1. Kid picture first.
+2. Technical term second.
+3. Deeper biology third, when the learner wants it.
 
-:::note Where the Metaphor Breaks
-The engineering frame helps us see patterns, but bodies are not literal machines. Living systems are adaptive, variable, and shaped by context. The goal is not perfect control. The goal is understanding. For more on that, see the [Science Confidence and Metaphor Guide](./science-confidence-and-metaphors.md).
+:::note Where the Metaphor Helps
+This curriculum sometimes borrows machine ideas because they help make invisible body jobs easier to picture.
+
+Bodies are not literal machines. They are living systems shaped by growth, relationships, disability, neurodivergence, illness, stress, environment, and variation from person to person.
+
+The goal is not perfect control. The goal is understanding.
 :::
 
 ---
 
 ## What This Is Not
 
-This is important. Please read carefully.
+This is important.
 
-- **This is not diet advice.** We do not tell students what to eat or what not to eat. We show them how the fueling system works.
-- **This is not medical advice.** Nothing in this curriculum diagnoses, treats, or prevents any condition. When a student notices something unusual about their body, the protocol is always: talk to a doctor.
-- **This is not a body-shaming curriculum.** We never use language about weight, body image, or appearance. The engineering frame is the protective layer — bodies are hardware, and all hardware is interesting.
-- **This is not a wellness or self-improvement program.** The capstone project (Weeks 15–18) is an educational observation project. Students choose their own variable to explore. Facilitators do not prescribe sleep times, food choices, exercise routines, or body goals.
-- **This is not a data-sharing requirement.** Personal body data belongs to the learner. Students never have to share their Bio-Telemetry Log, symptoms, food observations, sleep observations, or stress reflections with a group.
-
-If a student has a medical condition, an eating concern, or a complicated relationship with food or exercise, please review the weekly materials with their care team before using them.
+- **This is not diet advice.** We do not tell students what to eat or not eat. We study food jobs, patterns, and body clues without moral labels.
+- **This is not medical advice.** The curriculum does not diagnose, treat, or prescribe. When a body clue feels scary, severe, confusing, or unusual, the next step is adult and medical support.
+- **This is not therapy.** Emotional and stress-related topics stay in observation language and can always use fictional examples.
+- **This is not body-shaming.** The curriculum does not rank bodies by size, appearance, worth, or discipline.
+- **This is not a self-optimization program.** The capstone is a Body Mystery Project, not a body-improvement challenge.
+- **This is not a data-sharing requirement.** Personal body data belongs to the learner. Food, sleep, illness, mood, and body-measurement notes never have to be shared publicly.
 
 For standing safety rules, privacy expectations, and pause-and-refer guidance, use the [Facilitator Safety Guide](./facilitator-safety-guide.md).
 
@@ -79,51 +85,51 @@ For standing safety rules, privacy expectations, and pause-and-refer guidance, u
 
 ## The Five Core Mental Models
 
-Throughout the curriculum, students gradually develop five key ideas about how the body actually works.
+### 1. The Body Uses Autopilot to Keep Things Steady
 
-### 1. Homeostasis Is a Control Loop
-
-The body is constantly running sensor-actuator loops to maintain a stable internal environment. Sweating, shivering, hunger, thirst — these are not feelings. They are system alerts triggered when a variable like temperature or blood sugar drifts outside acceptable tolerances. Once you see the loops, you can never un-see them.
+The body is always noticing change and responding to it. Kid-facing language comes first: **body autopilot**, **body clues**, **body detectors**, and **body action parts**. Older learners can add **homeostasis**, **control loop**, **sensor**, and **actuator**.
 
 ---
 
-### 2. Different Inputs, Different Jobs
+### 2. Different Inputs Do Different Jobs
 
-Diet is not the point here; systems understanding is. Food-label Calories measure energy in food. Macronutrients (carbohydrates, fats, proteins) are major fuel and structure inputs. Micronutrients (vitamins and minerals) act more like helper molecules and cofactors that keep the chemistry running. We strip away "good food" and "bad food" and replace them with "what kind of input is this, and what job might it be doing in the system?"
-
----
-
-### 3. Sleep Is System Defragmentation
-
-Rest is not the absence of activity — it is a biologically active maintenance cycle. During sleep, the brain clears metabolic waste through the glymphatic system, consolidates memories from short-term to long-term storage, and repairs micro-tears in tissue. Skipping sleep is skipping maintenance.
+Food is not a moral test. It is part of a systems story. Learners study food jobs, patterns over time, and the journey from bite to cell without shame or counting pressure.
 
 ---
 
-### 4. The Immune System Is Cybersecurity
+### 3. Protection, Repair, and Timing Are Body Teamwork
 
-The body's defense network operates exactly like a firewall and antivirus suite. Physical barriers (skin, mucus) are the firewall. Innate immune cells are real-time threat detection. Adaptive immunity writes new "virus definitions" (antibodies) after each infection so the system recognizes future attacks faster.
+The body has a security team, a body clock, a night cleanup crew, and repair systems. Learners see that the body protects, remembers, repairs, and adapts across the day and over time.
 
 ---
 
-### 5. The Microbiome Is a Symbiotic Co-Processor
+### 4. Bodies Are Ecosystems, Not Just Individuals
 
-You are not one organism. You are an ecosystem. Trillions of microbes live in your gut and act as a third-party processing plant — they break down some materials you cannot digest alone, and they produce compounds that influence other body systems. The gut-brain connection is real, but many details are still being studied.
+The gut helper community reminds learners that bodies host other living systems and that scientists are still learning how some of those systems connect.
+
+---
+
+### 5. A Safe Question Can Become a Body Mystery Project
+
+The capstone teaches learners to pick one clue, notice it gently, protect privacy, and treat no-change findings as real findings.
 
 ---
 
 ## Course at a Glance
 
-| Unit | Weeks | Focus |
-|------|-------|-------|
-| **The Control Loops** | 1–3 | Homeostasis, feedback loops, and measuring your own baseline telemetry |
-| **The Chemical Plant** | 4–7 | How fuel is processed, macronutrients, the glucose control loop, and the personal fuel audit |
-| **System Security & Threat Response** | 8–10 | The immune system, threat response, and the post-mortem of a common illness |
-| **Preventative Maintenance** | 11–14 | Circadian rhythm, sleep architecture, the microbiome, and the wear-and-repair cycle |
-| **The Optimization Protocol** | 15–18 | Choose one variable, design an educational observation, collect data, and present findings |
+| Unit | Weeks | Kid-facing path | Main idea |
+|---|---|---|---|
+| **Body Autopilot and Steadying Loops** | 1-3 | Your Body's Autopilot -> Steadying Loops -> Heart Calming-Down Check | The body notices change and tries to keep important things steady. |
+| **Food Journey and Body Clues** | 4-7 | The Journey of One Bite -> Food Jobs -> Fuel Patterns -> Body Pattern Detective | Food is part of a system story, not a moral score. |
+| **Body Security Team and Response Stories** | 8-10 | Security Team -> Body Alarm Timeline -> Illness Story Map | Protection and illness can be studied with calm, privacy, and good boundaries. |
+| **Body Clock, Cleanup, and Repair** | 11-14 | Body Clock -> Night Cleanup Crew -> Tiny Gut Helpers -> Movement and Repair | Timing, sleep, gut helpers, and movement all shape the body's ongoing maintenance work. |
+| **The Body Mystery Project** | 15-18 | Pick a Body Question -> Set Up Your Space -> Collect Your Clues -> Share What You Discovered | A safe observation project helps learners practice scientific curiosity without self-judgment. |
 
 ### Optional Extensions
 
-Two optional bonus weeks go deeper on the **gut-brain axis** (the bidirectional connection between gut microbes and the brain) and **stress physiology** (the hardware cost of running in high-alert mode over time). These are extensions, not requirements.
+Two optional weeks go deeper on the gut-brain connection and stress physiology.
+
+These are for older or especially interested learners and should still follow the same privacy, safety, and no-shame rules.
 
 ---
 
@@ -131,90 +137,103 @@ Two optional bonus weeks go deeper on the **gut-brain axis** (the bidirectional 
 
 ### Who It's For
 
-This curriculum is designed for **adults working with kids ages 8–12** — parents, caregivers, classroom teachers, homeschool families, co-ops, or after-school clubs. No background in biology or medicine is required. If you can read a thermometer and time a stopwatch, you can facilitate this curriculum.
+This curriculum is designed for adults working with kids ages 8-12 in homes, classrooms, clubs, co-ops, tutoring spaces, or mixed-age settings.
 
 ### What a Typical Week Looks Like
 
-Each week has **three sessions of roughly 30 minutes each**:
+Each week includes:
 
-1. **Guided Session 1** — You lead. A hands-on demonstration or experiment introduces the week's concept.
-2. **Guided Session 2** — You lead. A deeper activity applies the concept to the student's own body.
-3. **Independent Practice** — Student-driven. Observation, measurement, and a Bio-Telemetry Log entry.
-
-A comfortable pace is two guided sessions plus one independent practice per week. Some families do all three in one weekend; some spread them across the week. Both work.
+1. A short mission.
+2. A kid version of the idea.
+3. Two guided sessions.
+4. A small independent practice.
+5. Safety, privacy, and reflection prompts.
 
 ### How Much Prep Do You Need?
 
-Minimal. Most activities use household items — a clock or stopwatch, paper and pencil, a thermometer if available, normal meals. Each weekly page includes a facilitator snapshot at the top so you can review the key ideas in under five minutes.
+Usually very little.
+
+Most activities use paper, pencils, timers, simple household objects, and optional printable pages.
 
 ### Adapting for Different Ages
 
-This is one curriculum with built-in differentiation, not two separate tracks. Every weekly lesson includes tailored guidance:
-
-- **For Ages 8–9:** Focus on sensory experience, simple analogies, and direct observation. Drawing and oral responses are fully acceptable alternatives to written work.
-- **For Ages 10–12:** Push into deeper systems thinking, more explicit measurement, and richer discussion. These learners can handle more abstraction.
-
-An 8-year-old will engage with the analogies and observations. A 12-year-old will dig into the mechanisms. Both are learning the same core ideas at different depths.
+- **Ages 8-9:** keep ideas concrete, visual, and short. Drawings, oral answers, and roleplay count.
+- **Ages 10-12:** add the technical names, deeper science, and optional data displays when useful.
 
 ### Flexibility Is Expected
 
-This is a guide, not a rigid script. Skip an activity that does not fit your setting. Spend two weeks on a topic that fascinates the learner. The structure is here to support you, not constrain you.
+This is a guide, not a script.
 
-This is health literacy, not health optimization. Just notice.
+Use fictional examples whenever a topic feels private.
+
+Skip a personal observation and use a story character instead.
+
+Slow down when curiosity is high.
+
+Simplify when pressure is rising.
+
+Just notice.
 
 ---
 
-## The Bio-Telemetry Log
+## The Body Clues Notebook (Bio-Telemetry Log)
 
-The **Bio-Telemetry Log** is the backbone of this curriculum. Introduced in Week 1 and maintained throughout all 18 weeks, it is the student's running record of observations about their own body.
+The **Body Clues Notebook** is the learner's private science notebook.
 
-Privacy matters here. The log is for understanding patterns, not performing for a group. Students may keep some or all of it private.
+It can hold:
 
-The log captures:
+- drawings
+- simple measurements
+- emojis
+- story maps
+- reflection sentences
+- fictional examples
 
-- **Measurements** (resting heart rate, recovery time, sleep duration)
-- **Observations** (how energy levels change after different fuels, what time the system gets sleepy)
-- **System alerts** (when hunger fires, when thirst fires, when fatigue shows up)
-- **Predictions and reflections** (what the student expected vs. what they observed)
+The technical name **Bio-Telemetry Log** may still appear for older learners or facilitators, but the student-facing name is **Body Clues Notebook**.
 
-Over 18 weeks, the log becomes a personal data set — the student's first encounter with the idea that their own body is something they can study.
+The notebook belongs to the learner. Sharing is optional.
 
 ---
 
 ## Getting Started
 
 :::tip Start Here
-Begin with **Week 1: The Body as a Control Loop System** and progress through each week sequentially. Each week builds on the previous one.
+Begin with **Week 1: Your Body's Autopilot** and move through the weeks in order.
 :::
 
 ### Materials
 
-Most activities use simple household items:
+Most weeks use:
 
-- A clock or stopwatch (a phone timer is fine)
-- Paper and pencils for the Bio-Telemetry Log
-- Normal meals (no special food required)
-- Occasionally: a thermometer, a tape measure, a flashlight
+- paper and pencils
+- a notebook or folder
+- a timer or clock
+- simple household items
+- optional printable pages from [Printable Templates](./printable-templates.md)
 
-No special equipment is needed.
+### Helpful Companion Pages
 
-If you want ready-to-copy pages, use the [Printable Templates](./printable-templates.md).
+Keep these nearby:
+
+- [Curriculum Map](./curriculum-map.md)
+- [Printable Templates](./printable-templates.md)
+- [Facilitator Response Bank](./facilitator-response-bank.md)
+- [Science Confidence and Metaphor Guide](./science-confidence-and-metaphors.md)
+- [Glossary](./glossary.md)
 
 ---
 
 ## The Goal
 
-By the end of 18 weeks, students will have a fundamentally different relationship with their own bodies. Specifically, they should be able to:
+By the end of 18 weeks, learners should be able to:
 
-- **Name the loops** — explain at least three feedback loops the body uses to maintain stability
-- **Read their own telemetry** — measure resting heart rate and recovery time, and explain what those numbers represent
-- **Reframe symptoms as system alerts** — describe hunger, thirst, fatigue, and pain as signals from a working system
-- **Distinguish fuel types** — explain the difference between simple carbohydrates, complex carbohydrates, fats, and proteins at a systems level
-- **Explain how the immune system writes new "definitions"** — describe in plain language how the body learns to recognize a pathogen
-- **Describe sleep as active maintenance** — explain what the brain is doing during sleep
-- **Understand the microbiome** — describe the gut as an ecosystem and name at least one thing it does for the host
-- **Run a small personal experiment** — choose one variable, define a metric, collect data, and report findings
+- explain a few body loops in kid language and, if ready, in technical language
+- describe body clues as information instead of shame signals
+- talk about food jobs without moral labels
+- explain why sleep, timing, protection, and repair are active body processes
+- understand that privacy matters when body data is involved
+- complete a small observation project about one body clue without turning it into self-optimization
 
-The most important outcome is not any single fact. It is a shift in framing:
+The most important shift is this:
 
-**Students should see their own bodies as something they can understand — not something that happens to them.**
+**Learners begin to see the body as something they can study with curiosity, kindness, and care.**

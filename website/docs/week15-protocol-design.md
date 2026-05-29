@@ -1,37 +1,68 @@
 ---
 sidebar_position: 15
-sidebar_label: "Week 15: Designing a Personal Health Maintenance System"
-title: "Week 15: Designing a Personal Health Maintenance System"
-description: "Students design a small personal observation protocol with clear safety, privacy, and medical-boundary guardrails."
+sidebar_label: "Week 15: Pick a Body Question"
+title: "Week 15: Pick a Body Question"
+description: "Students begin a Body Mystery Project by choosing one safe observation question and planning a simple, privacy-protecting way to notice it."
 ---
 
-# Week 15: Designing a Personal Health Maintenance System
-*Unit 5 — The Optimization Protocol (Capstone)*
+# Week 15: Pick a Body Question
+*Unit 5 - The Body Mystery Project*
 
-Welcome to the capstone. For the next four weeks, you'll run a small personal experiment about your own body.
+This week begins the capstone in a gentler way.
 
-**You've spent 14 weeks learning how the body's systems work. Now you'll apply that knowledge — but on your own terms. You'll choose ONE variable about yourself you want to understand better, define how you'll measure it, set up an experiment, and run it for two weeks. This is YOUR project. Nobody is grading the results. The point is to practice scientific thinking about your own hardware.**
+The learner picks one safe body question and plans a small observation project about one body clue. Observation-only is the default and always enough.
 
-This capstone is completely voluntary and student-driven.
+:::tip This Week's Mission
+- Pick one body question you are curious about.
+- Decide what you will notice and when.
+- Decide what you will **not** change.
+:::
 
----
+:::info Kid Version
+This is not a body-improvement week.
 
-:::warning Safety and Privacy Reminder
-This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. If something feels scary, painful, extreme, or confusing, pause and talk to a trusted adult or healthcare professional.
+This is "pick a body question" week.
+
+The learner chooses one clue they want to understand better and makes a small, safe plan for noticing it.
+:::
+
+:::info Technical Name
+Older learners may hear:
+
+- **variable** for the thing being studied
+- **metric** for how it will be noticed or measured
+- **baseline** for the starting point
+- **hypothesis** for a guess before collecting clues
+
+The kid version can stay with: **my question**, **what I will notice**, **when I will notice it**, and **what I will not change**.
+:::
+
+:::warning Forbidden Variables and Unsafe Changes
+This project does **not** include:
+
+- weight tracking
+- calorie counting
+- food restriction
+- meal skipping
+- medication or supplement changes
+- unsafe exercise
+- sleep reduction
+
+If a caregiver approves one tiny safe change later, that is optional. Observation-only is always valid.
 :::
 
 :::info Facilitator Snapshot
-- This week sets up the entire capstone. The learner picks their variable, defines their metric, and plans the experiment.
-- CRITICAL: The student chooses the variable. Not you. Not their parent. Not their friend. The whole capstone hinges on this being self-directed.
-- Do NOT push toward sleep, exercise, or food choices. If the student picks one of those, fine — but only if it came from them.
-- Acceptable variable choices include things that are easy to measure and safe to observe: morning energy, focus patterns, recovery rate from light exercise, bedtime consistency, hydration cues, reaction time, hunger timing without judgment, or mood pattern observations without diagnosis.
-- Observation-only is always valid. This is an educational observation project, not medical research and not a self-improvement challenge.
+- The learner chooses the question.
+- Keep the project curiosity-driven, not self-improvement-driven.
+- Observation-only is the default.
+- Safer examples: focus timing, energy across the day, heart calming after light movement, room setup and homework focus, thirst cues.
+- Redirect any goal that sounds like body control, punishment, weight change, or restriction.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Choose Your Variable](#guided-session-1)
-- [Guided Session 2: Define the Experiment](#guided-session-2)
+- [Guided Session 1: Choose a Question](#guided-session-1)
+- [Guided Session 2: Make a Safe Plan](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -40,267 +71,147 @@ This lesson helps you notice patterns. It does not diagnose, treat, or prescribe
 | | |
 |---|---|
 | **Prep time** | ~15 minutes |
-| **Materials** | Bio-Telemetry Log (you'll review the past 14 weeks of entries), paper for protocol planning, optional: a timer or simple tracking app |
-| **Key vocabulary** | variable, metric, baseline, intervention, experiment, hypothesis |
+| **Materials** | Body Clues Notebook, paper, pencil, optional timer |
+| **Key vocabulary** | question, clue, safe plan, variable, metric, baseline |
 | **Difficulty** | Intermediate |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Review the curriculum's "no diet advice / no medical advice / no body-shaming" policy. The capstone is the highest-risk zone for slipping. Stay vigilant.
-- Read through the example variables in Guided Session 1 so you can offer them if the student is stuck.
-- Be prepared to push back GENTLY if the student picks a variable that's essentially a self-improvement goal ("I want to lose weight," "I want to be faster at sports"). Redirect to a variable they want to UNDERSTAND, not OPTIMIZE.
-- Treat the protocol and dataset as private unless the learner chooses to share them.
-- If the learner wants to try any intervention beyond simple observation, a caregiver should review it first.
+- Review the safety boundaries before the lesson starts.
+- Prepare a short menu of safe question ideas in case the learner feels stuck.
+- Keep the learner's notes private by default.
+- Be ready to ask, "What do you want to understand better?" instead of suggesting a goal.
 :::
 
 :::tip Facilitation Mindset
-You are a co-investigator, not a coach. The learner is the principal investigator on their own life. Your job is to ask good questions and help them think clearly. Do NOT tell them what to study.
+You are a guide, not a coach.
 
-**Best opening question:** "What's something about your own body that you're curious about?"
+Help the learner ask a clearer question. Do not tell them what their body should do.
 :::
 
-## For Younger Learners (Ages 8–9)
+## For Younger Learners (Ages 8-9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "We're going to pick ONE thing about you that you want to learn about, and watch it for a couple of weeks."
+**Simplest version of the concept:** "Pick one thing about your body you are curious about and watch it for a while."
 
 **What to shorten or skip:**
-- Simplify the experimental design. Don't talk about intervention groups or controls.
-- Use a single, easy metric.
+- Skip hypothesis and baseline unless helpful.
+- Use only four boxes: my question, what I will notice, when I will notice it, what I will not change.
 
-**Adapting the activities:**
-- The variable might be something very simple: "When do I feel most awake?" or "How long does it take me to feel hungry after lunch?" or "Do I sleep better some nights than others?"
-- The facilitator can do more of the documentation, but the learner picks the question.
-
-**What success looks like:** The learner picks a question they're curious about and commits to watching for it over the next couple of weeks.
+**What success looks like:**
+The learner picks a safe question and makes a plan simple enough to actually use.
 :::
 
-:::info For Ages 10–12
-- Use full experimental language: hypothesis, metric, baseline, intervention, control.
-- The student should be able to articulate what they would EXPECT to find before they collect any data.
-- Encourage a falsifiable hypothesis — one that data could prove wrong.
+## For Older Learners (Ages 10-12)
+
+:::info Deeper Option
+- Add variable, metric, baseline, and hypothesis in a small technical note.
+- Emphasize that a good project question is safe, clear, and curious.
+- Keep the medical and privacy guardrails fully in place.
 :::
 
 ---
 
 ## Guided Session 1
-### Choose Your Variable
+### Choose a Question
 #### Learning Goal
-By the end of this session, the student can:
+By the end of this session, the learner can:
 
-- review what they've learned about their own body over 14 weeks
-- choose ONE variable they want to understand better
-- explain why that variable interests them
+- review what they have noticed in earlier weeks
+- choose one safe question to understand better
+- explain why that question matters to them
 
 ---
 
 #### Activities
 
-**1. Look Back at the Bio-Telemetry Log**
+**1. Look Back at Earlier Clues**
 
-Have the learner open their Log and flip through 14 weeks of entries. Don't analyze too much — just notice what's there.
+Flip through the Body Clues Notebook.
 
 Ask:
 
-> "Is there anything you noticed about yourself during this curriculum that surprised you?"
+> "What is one thing about your body that you still wonder about?"
 
-> "Is there anything you observed that you'd like to know MORE about?"
-
-Common surprising observations:
-
-- "My energy crashes after certain breakfasts."
-- "I'm a much better thinker in the morning than in the afternoon."
-- "I noticed I get sick about every six weeks."
-- "I sleep way better on nights when I don't have screens before bed."
-- "My recovery rate after running is really different from my friend's."
+> "What clue would you like to understand better?"
 
 ---
 
-**2. The Variable Menu**
+**2. Safe Question Menu**
 
-Here are some variables that work well for a 2-week experiment. The student should pick ONE — or pick something not on this list.
+Offer examples only if needed:
 
-**Sleep-related:**
-- Sleep consistency (variation in bedtime and wake time)
-- How rested I feel in the morning (1–10)
-- How long it takes me to fall asleep
+- When do I feel most focused?
+- How does my energy change during the day?
+- How long does my heart take to calm after light movement?
+- How does my room setup affect homework focus?
+- When do I notice thirst cues?
 
-**Energy-related:**
-- Energy levels throughout the day (especially the afternoon dip)
-- Morning energy after different bedtimes
-- Recovery rate (HR back to baseline) after a standard exercise
+Say:
 
-**Performance-related:**
-- Focus during morning vs. afternoon study sessions
-- Mood at different times of day (without diagnosis)
-- Reaction time (using simple online reaction-time tests)
-
-**Pattern-related:**
-- How often I notice system alerts (hunger, thirst, fatigue)
-- Hydration patterns (when I'm thirsty)
-- Bedtime and wake-time consistency
-
-**Environment-related:**
-- How the room I'm in affects my homework focus
-- What time of day I notice the best alertness
-
-**Food-related observation only (optional):**
-- How quickly I get hungry after different meals
-- Energy patterns after different breakfasts
-
-> "Important: this is not 'fix something about me.' This is 'understand something about me better.' The variable is the thing you watch. You don't have to change it — you just have to watch it."
-
-**Not allowed for this capstone:**
-
-- weight or body-size tracking
-- calorie counting
-- restricting food, skipping meals, or fasting
-- "how little can I eat" style questions
-- supplement trials
-- medication changes
-- intentionally sleeping less
-- "how little can I sleep" style questions
-- intense new exercise routines
-- pain tolerance experiments
-- anything medically risky
-- anything a caregiver or doctor has not approved when a medical condition is involved
-
-Safer options include morning energy, focus patterns, recovery rate from light activity, bedtime consistency, time to fall asleep, sleep/wake consistency, hydration cues, hunger timing without judgment, environmental factors, mood pattern observations without diagnosis, reaction time, and alertness across the day.
+> "This is not a project about changing your body. It is a project about understanding one clue better."
 
 ---
 
-**3. The "Why This One?" Question**
+**3. Why This One?**
 
-Once the learner picks a variable, ask them to write or say WHY they picked it:
+Ask:
 
-> "What made you pick this one?"
+> "Why did you pick this question?"
 
-> "What do you think you'll find?"
+> "What do you hope to understand by the end?"
 
-> "Is there a guess (a hypothesis) you have about what's going on?"
-
-The point is to lock in their genuine curiosity. They picked this because something about it caught their attention.
+The answer can be spoken, drawn, or written.
 
 ---
 
 ## Guided Session 2
-### Define the Experiment
+### Make a Safe Plan
 #### Learning Goal
-By the end of this session, the student can:
+By the end of this session, the learner can:
 
-- define a clear metric for measuring their variable
-- establish their baseline
-- plan a specific intervention to test
+- state what they will notice
+- choose when they will notice it
+- state what they will not change
 
 ---
 
 #### Activities
 
-**1. The Metric**
+**1. Fill the Four Boxes**
 
-> "How exactly will you measure this variable?"
+Write:
 
-The metric must be:
+- My question
+- What I will notice
+- When I will notice it
+- What I will NOT change
 
-- **Specific.** Not "how I feel" — but "morning energy rated 1 to 10 at 9 AM."
-- **Repeatable.** You can do the same measurement again next week.
-- **Recordable.** It fits in your Bio-Telemetry Log.
-
-Help the learner write out their metric in one sentence:
-
-> "I will measure ___ by ___ at ___ time(s) each day."
-
-Examples:
-
-- "I will measure my morning energy by rating it 1–10 within 30 minutes of waking up."
-- "I will measure how long it takes for my heart rate to return to baseline after 30 jumping jacks, once every morning."
-- "I will measure my hydration cues by noting when I first feel thirsty each day."
-- "I will measure my focus during homework by using a 1–10 self-rating at the start, middle, and end of homework time."
+That fourth box keeps the project safe and observation-focused.
 
 ---
 
-**2. The Baseline**
+**2. Keep It Small**
 
-Before changing anything, you need to know your current state.
+Ask:
 
-> "For the first 3 days, take measurements WITHOUT changing anything. That's your baseline. The number tells you where you're starting."
+> "Can this plan take one minute or less most days?"
 
-Have the learner write down their baseline plan:
-
-> "I will spend the first 3 days (date ___ to date ___) collecting baseline data on [metric]."
-
-After 3 days, they'll have a rough sense of the typical range.
+If not, simplify it.
 
 ---
 
-**3. The Intervention (Optional)**
+**3. Optional Technical Note for Older Learners**
 
-Now the more advanced part. The learner can choose: just OBSERVE (track the variable for the full 2 weeks without changing anything), or INTERVENE (change one thing and see if the metric changes).
+If helpful, translate the plan:
 
-Important: the intervention must be ONE specific change. Not a vague "I'll try to do better." A specific behavioral or environmental change.
+- question -> variable
+- what I will notice -> metric
+- starting point -> baseline
+- my guess -> hypothesis
 
-Examples of good interventions:
-
-- "I will get bright outdoor light within 30 minutes of waking each day."
-- "I will leave my phone in another room while doing homework."
-- "I will keep my bedtime within the same 30-minute window each night."
-- "I will write down 3 things I learned each evening before bed."
-- "I will drink a glass of water first thing when I wake up."
-
-Important guardrails:
-
-- The intervention must be safe (no skipping meals, no dramatic sleep changes, no intense new exercise, no supplements, no medication changes, and no body-size goals).
-- The intervention must be sustainable for 11 days.
-- The intervention is ONE thing. Not five things. Just one.
-- Observation-only is always a valid design.
-- If an intervention affects food, sleep, or physical activity in any real way, a caregiver should review it first.
-
-The learner can also choose NOT to intervene and just observe. That's a valid experimental design called an "observational study."
-
-**Optional safety check:** the facilitator should review the intervention plan before the learner starts. If anything sounds extreme, gently redirect.
-
----
-
-**4. Write the Protocol**
-
-Together, write the full protocol on a single page:
-
-```
-PROTOCOL v1.0
-
-VARIABLE I'M STUDYING:
-_______________________________________
-
-WHY I'M STUDYING IT:
-_______________________________________
-
-METRIC:
-I will measure ___ by ___ at ___.
-
-BASELINE PERIOD:
-Days 1–3 (Dates: ___ to ___)
-Just observing, no changes.
-
-INTERVENTION (or "Observation Only"):
-If intervening, the ONE change is:
-_______________________________________
-Starting Day 4 (Date: ___).
-
-DATA COLLECTION PERIOD:
-Days 4–14 (Dates: ___ to ___)
-
-HYPOTHESIS (my guess about what will happen):
-_______________________________________
-
-HOW I'LL KNOW IF IT WORKED:
-_______________________________________
-
-SAFETY CHECK:
-This plan does not use weight, calories, restriction, supplements, medication changes, intentional sleep loss, or intense new exercise.
-```
-
-The learner signs and dates it. This is their personal scientific protocol.
+The learner does not need those words to do the project well.
 
 ---
 
@@ -308,68 +219,59 @@ The learner signs and dates it. This is their personal scientific protocol.
 
 ### Goal
 
-Begin the baseline data collection. Write the protocol in the Bio-Telemetry Log.
+Finish a small, safe, privacy-protecting Body Mystery Project plan.
 
 ### Activities
 
-**1. Write the Protocol in the Log**
+**1. Project Planner**
 
-Copy the protocol you designed in Session 2 into your Bio-Telemetry Log. This is now the start of your capstone section.
+Complete:
 
-**2. Begin Baseline Tracking**
+- my question
+- what I will notice
+- when I will notice it
+- what I will not change
 
-Starting today, begin recording your metric. For 3 days, just observe — no changes. Use the same measurement method each time.
+**2. Reflection Choice**
 
-Write down:
+Choose one:
 
-- The date and time
-- The measurement
-- Any notes about the day (didn't sleep well, big event, normal day, etc.)
+- "The clue I want to understand better is..."
+- "The safest part of my plan is..."
+- "One thing I will leave alone is..."
 
-### Bio-Telemetry Log
+### Body Clues Notebook
 
-> **Day 1 Baseline:** _____
-> **Day 2 Baseline:** _____
-> **Day 3 Baseline:** _____
+Starter page:
+
+> **My question:** _____________
 >
-> **My baseline average / typical range:** _____
+> **What I will notice:** _____________
 >
-> **What I noticed during baseline:** _____________
+> **When I will notice it:** _____________
+>
+> **What I will NOT change:** _____________
 
-**Sentence starters for younger learners:**
-- "I'm going to watch ___ for two weeks."
-- "I'll measure it by ___."
-
-### Reflection Questions
-
-- Was it harder or easier than you expected to come up with a variable to study?
-- Did writing out the protocol make the experiment feel more real?
-- What do you think will be the hardest part about running this for two weeks?
+All project notes may stay private.
 
 ---
 
 ## Check for Understanding
 
-After this week, check whether the learner can:
-
-1. **State their variable in one sentence:** "I'm studying ___."
-2. **Describe their metric in one sentence:** "I'm measuring it by ___."
-3. **Articulate a hypothesis:** "My guess is that ___ will happen." Or "I don't have a guess yet — I just want to see what happens." (Both are valid scientific stances.)
-
-If the learner can do all 3 of these, they're ready for Week 16.
+1. Can the learner pick a safe body question?
+2. Can the learner explain what they will notice and when?
+3. Can the learner name at least one thing they will not change?
 
 ---
 
 ## Pause and Notice
 
 :::note What Matters Here
-> "You're about to spend two weeks running an experiment ON YOURSELF. What's it like to be both the scientist and the subject?"
+Ask:
 
-> "There's no grade on this. There's no right answer. You picked the question. You designed the experiment. Whatever you find is going to be interesting BECAUSE it's about you."
+> "How does the project feel different when the goal is understanding instead of fixing?"
 
-This is one of the most empowering things in the whole curriculum. You can study yourself. The Bio-Telemetry Log has been preparing you for exactly this.
-
-**This week's takeaway:** Curiosity about your own body is a valid scientific stance. This is information, not a prescription.
+That is the capstone's most important guardrail.
 :::
 
 ---
@@ -377,28 +279,31 @@ This is one of the most empowering things in the whole curriculum. You can study
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
-**From Week 3:** Baseline measurement was introduced in Week 3 when you measured your resting heart rate. You're using the same principle now — measure first, change later, compare.
+Weeks 1 through 14 gave the learner many kinds of clues to notice.
 
-**From Week 7:** The fuel audit was a practice run for this capstone. Same observation method, longer time period.
-
-**From Week 10:** The illness post-mortem was practice in mapping a complex process. Now you're mapping a much more open-ended one.
+Week 15 turns that whole notebook into one careful question.
 :::
 
 ---
 
-:::tip Simplify (Ages 8–9)
-Pick a very simple variable. The metric can be 1–5 instead of 1–10. The intervention can be optional. The whole experiment can run on a single page of the Log with 14 simple entries.
+:::tip Simplify (Ages 8-9)
+Use only the four-box plan and one very small question.
 :::
 
-:::tip Extend (Ages 10–12)
-Add a control condition. Designate certain days as "intervention days" and other days as "control days" — try to alternate them. Compare the averages. Discuss whether your sample size is large enough to draw any conclusions. (Hint: 14 days is small. Real studies use much more.)
+:::tip Extend (Ages 10-12)
+Invite older learners to add variable, metric, baseline, and hypothesis in a small technical note.
 :::
 
 :::tip Vocabulary This Week
-**Variable** • **Metric** • **Baseline** • **Intervention** • **Experiment** • **Hypothesis**
-See the [Glossary](./glossary.md) for definitions.
+**Kid phrase -> Technical phrase**
+
+- Body Mystery Project -> observation protocol
+- what I will notice -> metric
+- starting point -> baseline
+
+See the [Glossary](./glossary.md) for both versions.
 :::
 
 ## Preview of Next Week
 
-Next week, you'll think about your physical and behavioral environment — the inputs and cues that affect your variable. You'll plan small modifications to your environment that might support your experiment.
+Next week, the learner sets up the space and routine around the project and picks the smallest helpful change, if any.

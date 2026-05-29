@@ -1,37 +1,60 @@
 ---
 sidebar_position: 12
-sidebar_label: "Week 12: What Happens During System Defragmentation"
-title: "Week 12: What Happens During System Defragmentation"
-description: "Students learn what the body is actually doing during sleep — clearing metabolic waste, consolidating memory, and repairing hardware."
+sidebar_label: "Week 12: The Night Cleanup Crew"
+title: "Week 12: The Night Cleanup Crew"
+description: "Students learn that sleep is active nighttime work for cleanup, repair, and memory, without turning sleep into a score."
 ---
 
-# Week 12: What Happens During System Defragmentation
-*Unit 4 — Preventative Maintenance*
+# Week 12: The Night Cleanup Crew
+*Unit 4 - Body Clock, Cleanup, and Repair*
 
-Last week, we learned that the body's clock controls when you get sleepy. This week, we go inside sleep itself.
+This week reframes sleep as active nighttime work.
 
-**Sleep is not the absence of activity. It is a biologically active maintenance cycle. While you sleep, your brain clears metabolic waste, consolidates memories, and your body repairs physical damage. Skipping sleep is like turning off the maintenance program on a server. The system can run for a while without it — but the cost accumulates.**
+When a person sleeps, different teams can help with cleanup, repair, and memory work.
 
-After this week, "I need sleep" will stop being something you say and become something you understand.
+:::tip This Week's Mission
+- Meet the cleanup crew, repair crew, and memory librarian.
+- Learn that sleep is active body work.
+- Track sleep in a very simple, private way if desired.
+:::
 
----
+:::info Kid Version
+Sleep is not just "nothing happening."
 
-:::warning Safety and Privacy Reminder
-This lesson helps you notice patterns. It does not diagnose, treat, or prescribe anything. Your body data is private, and you do not have to share it with a group. Do not intentionally reduce sleep for this lesson or for a capstone experiment.
+It is when the night cleanup crew, repair crew, and memory librarian get busy.
+
+The learner studies what sleep helps with, not how to get a perfect score.
+:::
+
+:::info Technical Name
+Older learners may hear:
+
+- **sleep stages**
+- **REM sleep**
+- **glymphatic system**
+- **memory consolidation**
+
+For the main lesson, it is enough to say **different kinds of sleep** and **night cleanup work**.
+:::
+
+:::warning Do Not Reduce Sleep for Science
+No activity in this curriculum should ask a learner to stay up later, get less sleep, or make sleep worse on purpose.
+
+If sleep tracking feels too private, use a fictional character instead.
 :::
 
 :::info Facilitator Snapshot
-- This week is the most "wow" week of Unit 4.
-- The key concepts: sleep is divided into stages (light, deep, REM); each stage does different work; the **glymphatic system** is real and actively clears the brain during sleep.
-- Memory consolidation happens during sleep — what you learned today gets moved to long-term storage tonight.
-- This is NOT a "you should sleep 9 hours" lecture. We're explaining what sleep is FOR. Specific sleep duration belongs with families.
-- Sleep data is private, and the tracking in this lesson is observational only.
+- Use the cleanup crew / repair crew / memory librarian model as the main frame.
+- Avoid making sleep duration feel like a grade.
+- Keep the tracker simple: bedtime-ish, wake time-ish, rested feeling, one note.
+- Fictional or story-character tracking is always allowed.
+- Put stage names and glymphatic details in older-learner notes only.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Inside the Sleep Cycle](#guided-session-1)
-- [Guided Session 2: The Glymphatic System and Memory](#guided-session-2)
+- [Guided Session 1: Meet the Night Crew](#guided-session-1)
+- [Guided Session 2: Build a Gentle Sleep Tracker](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -40,206 +63,149 @@ This lesson helps you notice patterns. It does not diagnose, treat, or prescribe
 | | |
 |---|---|
 | **Prep time** | ~10 minutes |
-| **Materials** | Paper for diagrams, Bio-Telemetry Log |
-| **Key vocabulary** | NREM sleep, REM sleep, deep sleep, glymphatic system, memory consolidation, sleep cycle |
-| **Difficulty** | Intermediate |
+| **Materials** | Paper, pencil, Body Clues Notebook, optional sleepy-face icons |
+| **Key vocabulary** | sleep, night cleanup crew, repair crew, memory librarian, REM sleep |
+| **Difficulty** | Introductory |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Be ready to draw the sleep cycle graph (a hypnogram) — the typical pattern of sleep stages across the night.
-- Review the glymphatic system briefly: during sleep, the space between brain cells expands, allowing cerebrospinal fluid to move more easily through brain tissue and carry away waste products. The mechanism is real, and details are still an active area of research.
-- Be ready to discuss memory consolidation — hippocampus to cortex transfer is the standard model.
+- Decide whether the learner will track their own sleep or use a fictional character.
+- Prepare a very short tracker with only four fields.
+- Keep all wording gentle and non-scored.
+- Be ready to say, "We do not reduce sleep for science."
 :::
 
 :::tip Facilitation Mindset
-Sleep is genuinely fascinating once you know what's happening. Bring that wonder. Avoid framing this week as "lecture about why you should sleep more."
+Sleep is a maintenance story, not a performance contest.
 :::
 
-## For Younger Learners (Ages 8–9)
+## For Younger Learners (Ages 8-9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "When you sleep, your body and your brain do a bunch of important cleanup and repair work. Sleep is when the maintenance team comes through."
+**Simplest version of the concept:** "When you sleep, your body does nighttime jobs."
 
 **What to shorten or skip:**
-- Skip the sleep stage details. Just say "your brain goes through different kinds of sleep during the night."
-- Skip the glymphatic system terminology. Just say "your brain cleans itself."
+- Skip stage names.
+- Use only cleanup crew, repair crew, and memory librarian.
 
-**Adapting the activities:**
-- Use a "maintenance crew at a store after closing" analogy: while everyone's home, the cleaning crew comes in, restocks, fixes things, mops the floor.
-- Drawings of "what happens at night" work well.
-
-**What success looks like:** The learner understands sleep isn't just "stopping" — it's the body doing important repair work.
+**What success looks like:**
+The learner can name one or two jobs the body does during sleep.
 :::
 
-:::info For Ages 10–12
-- Walk through the actual sleep stage progression: N1, N2, N3, REM, repeat.
-- Discuss the difference between slow-wave (deep) sleep and REM sleep — they do different jobs.
-- Discuss why REM sleep produces vivid dreams (the brain is highly active during REM, in some ways more active than when awake).
+## For Older Learners (Ages 10-12)
+
+:::info Deeper Option
+- Introduce **different kinds of sleep** before stage names.
+- Add REM, non-REM, and glymphatic system only if the learner wants more science.
+- Explain memory librarian as a kid-friendly version of memory consolidation.
 :::
 
 ---
 
 ## Guided Session 1
-### Inside the Sleep Cycle
+### Meet the Night Crew
 #### Learning Goal
-By the end of this session, the student can:
+By the end of this session, the learner can:
 
-- name the major sleep stages
-- describe what each stage does
-- explain that sleep is a cycle that repeats through the night
+- describe sleep as active body work
+- name cleanup, repair, and memory jobs
+- explain why sleep matters without turning it into moral language
 
 ---
 
 #### Activities
 
-**1. The Sleep Stages**
+**1. Draw Three Night Jobs**
 
-Draw the four main stages:
+Draw or label:
 
-**N1 — Light Sleep (Entering)**
+- cleanup crew
+- repair crew
+- memory librarian
 
-- Lasts about 5 minutes.
-- The transition from being awake to sleeping.
-- Heart rate slows, muscles relax, eyes may drift slowly.
-- If you've ever felt yourself "fall" into sleep, this is the stage.
+Ask:
 
-**N2 — Light Sleep**
+> "What might each one do while you are asleep?"
 
-- About 50% of total sleep time.
-- Body temperature drops further.
-- Brain produces specific patterns called sleep spindles, which are important for memory consolidation.
+Possible answers:
 
-**N3 — Deep Sleep (Slow-Wave Sleep)**
-
-- The deepest, hardest-to-wake-from sleep.
-- Most of this happens in the first half of the night.
-- The brain produces very slow, large waves called delta waves.
-- Physical repair work happens here: tissue repair, immune cells active, growth hormone released.
-- The **glymphatic system** is most active here — we'll cover this next session.
-- If you wake someone from N3, they'll feel confused and groggy for several minutes.
-
-**REM Sleep (Rapid Eye Movement)**
-
-- Most of this happens in the second half of the night.
-- The brain is highly active — in some ways MORE active than when awake.
-- Most dreams happen here.
-- The body is temporarily paralyzed (except for eyes and breathing) so you don't act out dreams.
-- Memory consolidation, emotional processing, and creative recombination happen here.
+- clean up waste
+- repair wear from the day
+- sort what to remember
 
 ---
 
-**2. The Cycle**
+**2. Act It Out**
 
-Now draw the **hypnogram** — the typical pattern of stages across a night:
+Use stuffed animals, paper signs, or voices.
 
-```
-WAKE  ___                            ___
-N1    ___\___                  ____/   \___
-N2          \    ____    ____/             \___
-N3           \__/    \__/                       \___
-REM                          ___        ___       
-                            /   \      /   \         
-                           /     \____/     \____    
-       1     2     3     4     5     6     7     8  (hours)
-```
+One helper cleans.
 
-(Simplified — the real hypnogram is more variable.)
+One helper repairs.
 
-Key features:
-
-- Sleep happens in **cycles** of about 90 minutes.
-- A typical night has 4–6 full cycles.
-- Deep sleep dominates the first half of the night.
-- REM dominates the second half.
-- You usually wake up briefly between cycles (most people don't remember these).
-
-This is why a full night's sleep matters: cutting sleep short means missing some of those cycles. If you cut sleep on the back end (woke up too early), you missed REM. If you cut it on the front end (went to sleep late), you missed deep sleep.
-
-> "Each stage does a different job. You need them all."
+One helper shelves memories like books.
 
 ---
 
-**3. How Much Sleep**
+**3. Technical Note for Older Learners**
 
-Brief reference (NOT a prescription):
+If helpful, say:
 
-- Adults: typically 7–9 hours
-- Teenagers: typically 8–10 hours
-- Children ages 6–12: typically 9–12 hours
-- Toddlers and younger: even more
+> "Scientists study different kinds of sleep, including REM sleep and non-REM sleep."
 
-These are population averages. Individual needs vary. The amount that's right is the amount that leaves the learner feeling awake during the day.
+> "They also study a brain cleanup system called the glymphatic system."
 
-> "How much sleep your body needs is something you and your family figure out. These ranges are informational, not a prescription. The point of this curriculum is just to explain why sleep is doing so much work."
+Keep these as optional labels, not the main lesson.
 
 ---
 
 ## Guided Session 2
-### The Glymphatic System and Memory
+### Build a Gentle Sleep Tracker
 #### Learning Goal
-By the end of this session, the student can:
+By the end of this session, the learner can:
 
-- explain that the brain clears metabolic waste during sleep
-- describe memory consolidation as the transfer of new information to long-term storage
-- explain why dreams during REM might be useful
+- make a simple tracker with low pressure
+- explain why sleep data stays private
+- use "rested feeling" instead of a perfection score
 
 ---
 
 #### Activities
 
-**1. The Glymphatic System — Brain Cleanup**
+**1. Make the Four-Part Tracker**
 
-Important discovery from the last decade:
+Use these fields:
 
-> "Your brain produces metabolic waste all day, just like every other organ. Most organs use a network called the lymphatic system to clear their waste. For a long time, scientists thought the brain didn't have a clearance system. Recent research (within the past 10–15 years) discovered that it does — and it works mainly during sleep."
+- bedtime-ish
+- wake time-ish
+- rested feeling
+- one note
 
-The mechanism:
-
-- During sleep, the space between brain cells expands, allowing cerebrospinal fluid to move more easily through brain tissue.
-- In the classic research, the interstitial space was observed to expand by roughly 60% during sleep.
-- Cerebrospinal fluid (the fluid your brain floats in) flows through these spaces.
-- The fluid carries waste proteins out of the brain.
-- One of the proteins cleared this way is called **beta-amyloid**. It builds up if not cleared. (Buildup of beta-amyloid is associated with Alzheimer's disease in older adults — emerging research is exploring the connection between sleep and long-term brain health, though this is still active science.)
-
-> "This system is called the **glymphatic system**. The 'g' is for glia, the supporting cells in the brain. It's the brain's wastewater treatment plant. It runs at night."
-
-Why does the brain wait until sleep to do this? Because it's expensive — it would interfere with normal brain function during the day. So the brain schedules maintenance for off-hours.
-
-> "This is one reason 'sleep when you're tired' is real. Your brain has a maintenance job that can only happen during sleep. Skipping sleep skips the maintenance."
+That is enough.
 
 ---
 
-**2. Memory Consolidation**
+**2. Choose a Format**
 
-> "Here's another thing that happens during sleep: your brain takes everything you experienced today and decides what to KEEP."
+The learner can use:
 
-The model:
+- words
+- emojis
+- colors
+- a fictional story character
 
-- During the day, new information is held in the **hippocampus** (the brain's short-term notepad).
-- The hippocampus has limited capacity.
-- During sleep — especially N2 and REM — the brain replays the day's important events and TRANSFERS them to the cortex (the brain's long-term storage).
-- After the transfer, the hippocampus can clear that information and have space for tomorrow.
+Say clearly:
 
-> "Without sleep, you can't move new information into long-term memory efficiently. This is why studying right before sleep often works well — you learn it, then sleep on it, and the brain files it overnight."
-
-Sleep also helps with:
-
-- **Pattern recognition.** The brain spots patterns across the day's events while you sleep.
-- **Creative problem solving.** Sometimes you wake up with an idea about a problem you couldn't solve the day before. The brain is working on it during sleep.
-- **Emotional processing.** REM sleep helps process emotional experiences — strong emotions feel less intense the next morning, partly because REM has helped process them.
+> "If this feels private, use a pretend character."
 
 ---
 
-**3. Why Dreams?**
+**3. No Grade Language**
 
-Brief discussion:
+Repeat:
 
-> "Dreams happen mostly during REM. The brain is highly active — running through experiences, recombining memories, sometimes making weird associations between unrelated events. Scientists still debate the exact purpose of dreams, but most agree REM activity is involved in memory and emotional processing."
-
-> "Lucid dreams, weird dreams, recurring dreams — they're all part of REM activity. The brain doing its night work."
-
-(Don't get bogged down here. Dreams are a great topic but science still has open questions about them. Acknowledge that and move on.)
+> "This tracker is not a report card. It is just a clue page."
 
 ---
 
@@ -247,86 +213,61 @@ Brief discussion:
 
 ### Goal
 
-Observe your own sleep patterns and what you notice about how you feel after different nights of sleep.
-
-This is observation only. Do not intentionally sleep less in order to create a bigger effect.
+Notice one sleep-related clue in a way that feels private and low pressure.
 
 ### Activities
 
-**1. The Sleep Tracker**
+**1. One or Two Nights Only**
 
-For 5 nights, record:
+The learner can fill in:
 
-| Day | Time fell asleep | Time woke up | Approximate hours | Felt the next day (1–10) |
-|---|---|---|---|---|
-| Mon | | | | |
-| Tue | | | | |
-| Wed | | | | |
-| Thu | | | | |
-| Fri | | | | |
+- bedtime-ish
+- wake time-ish
+- rested feeling
+- one note
 
-If you have a parent's help — or if you wake during the night — note that too.
+Or do the same for a fictional character.
 
-**2. The Sleep Effect**
+**2. Reflection Choice**
 
-After 5 days, look at the data. Then in your Bio-Telemetry Log:
+Choose one:
 
-- On the day you slept the LONGEST, how did you feel?
-- On the day you slept the SHORTEST, how did you feel?
-- Did you notice any difference in focus, energy, or mood?
+- "One nighttime job I remember is..."
+- "One clue I noticed the next day was..."
+- "If I drew the memory librarian, it would look like..."
 
-**3. The Memory Test (Optional, Fun)**
+### Body Clues Notebook
 
-Try this: right before bed one night, learn 5 new things — could be 5 vocabulary words, 5 facts from this curriculum, 5 places on a map. The next morning, try to recall them.
+Starter page:
 
-Then do the same on a different day, but right after waking up (no sleep between learning and testing). Compare.
-
-You'll probably find the sleep version is easier. That's memory consolidation in action.
-
-### Bio-Telemetry Log
-
-> **My average sleep this week:** _____ hours
+> **Bedtime-ish:** _____________
 >
-> **Best day after good sleep:** _____________
+> **Wake time-ish:** _____________
 >
-> **Worst day after short sleep:** _____________
+> **Rested feeling:** _____________
 >
-> **One thing I noticed about how sleep affected me:** _____________
+> **One note:** _____________
 
-**Sentence starters for younger learners:**
-- "I slept ___ hours on ___ and I felt ___."
-- "When I sleep less, my body feels ___."
-
-### Reflection Questions
-
-- Did the sleep tracking change how you think about going to bed?
-- Did you notice anything during sleep itself — dreams, waking up, anything?
-- If sleep is so important, why do you think humans (and especially kids and teens) often resist going to bed?
+Private or fictional tracking are both acceptable.
 
 ---
 
 ## Check for Understanding
 
-After this week, check whether the learner can:
-
-1. **Name two things the body does during sleep:** Possibilities — clears waste from the brain, consolidates memory, repairs tissue, releases growth hormone, processes emotions.
-2. **Distinguish deep sleep from REM:** "Deep sleep is for physical repair and brain cleanup. REM is for dreaming and memory and emotional processing." Or similar.
-3. **Explain what the glymphatic system does:** "Cleans waste out of the brain during sleep." Or similar.
-
-If the learner can do at least 2 of these, they're ready for Week 13.
+1. Can the learner explain that sleep is active body work?
+2. Can the learner name one cleanup, repair, or memory job?
+3. Can the learner say that sleep data is private and not a grade?
 
 ---
 
 ## Pause and Notice
 
 :::note What Matters Here
-> "Now that you know sleep is when your brain does its cleanup and memory work, does the idea of 'pulling an all-nighter' look different?"
+Ask:
 
-> "There's a culture, especially in school, where being tired is sometimes treated like a badge of honor. 'I only slept 4 hours.' 'I stayed up till 2 AM.' Now you know what that actually costs — skipped maintenance."
+> "How does sleep sound different when we talk about night crews instead of rules?"
 
-We're not telling you what time to go to bed. That's still up to your family. But the cost of skipping sleep isn't moral — it's mechanical. The maintenance cycle just doesn't happen.
-
-**This week's takeaway:** Sleep is when the most important work happens. The brain cleans itself, files what you learned, and processes what happened. It's not lost time. It's required time.
+That shift matters more than any single tracker entry.
 :::
 
 ---
@@ -334,28 +275,31 @@ We're not telling you what time to go to bed. That's still up to your family. Bu
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
-**From Week 11:** Last week, you learned what controls WHEN you sleep (the circadian clock). This week, you learned what happens WHILE you sleep. Together: the clock schedules the maintenance window, and during that window, the maintenance runs.
+From Week 11: the body clock helps shape when sleepiness and wakefulness show up.
 
-**From Week 4:** Sleep is when ATP demand drops (your muscles aren't moving, your brain isn't running active conscious tasks) but ATP for cellular repair stays high. The energy is being used differently.
-
-**From Week 8:** The immune system is more active during sleep. New T cells and B cells get produced. Vaccines work better if you sleep well after getting them — your immune system has more capacity to write the antibody design.
+Week 12 explains what the body may be doing during the sleep part of that rhythm.
 :::
 
 ---
 
-:::tip Simplify (Ages 8–9)
-Skip the sleep stage names. Just say sleep has two main parts: a deep cleaning part and a dreaming part. Both are important. Drop the glymphatic terminology and just say "the brain cleans itself."
+:::tip Simplify (Ages 8-9)
+Use only the three night jobs and a fictional character tracker if needed.
 :::
 
-:::tip Extend (Ages 10–12)
-Research the difference between adolescent and adult sleep patterns. Teenagers naturally have a delayed circadian rhythm — they get sleepy later and wake up later. This is biology, not laziness. Discuss why school start times are sometimes mismatched with adolescent biology.
+:::tip Extend (Ages 10-12)
+Invite older learners to add REM, non-REM, or glymphatic system in a small technical note.
 :::
 
 :::tip Vocabulary This Week
-**NREM sleep** • **REM sleep** • **Deep sleep** • **Glymphatic system** • **Memory consolidation** • **Sleep cycle**
-See the [Glossary](./glossary.md) for definitions.
+**Kid phrase -> Technical phrase**
+
+- night cleanup crew -> glymphatic cleanup and maintenance processes
+- memory librarian -> memory consolidation
+- different kinds of sleep -> sleep stages
+
+See the [Glossary](./glossary.md) for both versions.
 :::
 
 ## Preview of Next Week
 
-Next week is one of the most surprising topics in the whole curriculum. You're going to discover that you are not one organism — you are an ecosystem. Trillions of microbes live in your gut, and they're not just along for the ride.
+Next week, the learner meets the tiny helper community in the gut and draws a helper city.

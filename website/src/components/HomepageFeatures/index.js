@@ -5,57 +5,57 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Homeostasis is a Control Loop',
+    title: 'Body Clues Are Information',
     description:
-      'Students learn that sweating, shivering, and hunger are system alerts — triggered when variables drift outside acceptable tolerances.',
+      'Kids learn that hunger, thirst, shivering, sleepiness, and other clues are part of the body autopilot story, not proof that a body is bad or failing.',
   },
   {
-    title: 'Different Inputs, Different Jobs',
+    title: 'Different Foods Do Different Jobs',
     description:
-      'Food-label Calories measure energy in food, and carbohydrates, fats, proteins, vitamins, and minerals all play different system roles.',
+      'Food is taught through jobs and patterns instead of good-food or bad-food labels, so learners can study energy and repair without shame.',
   },
   {
-    title: 'Sleep is System Defragmentation',
+    title: 'Sleep Is Night Cleanup and Repair',
     description:
-      'Sleep is a biologically active maintenance cycle — when the body clears metabolic waste, consolidates memory, and repairs hardware.',
+      'The cleanup crew, repair crew, and memory librarian help kids picture sleep as active body work instead of empty downtime.',
   },
   {
-    title: 'The Immune System as Cybersecurity',
+    title: 'Your Body Has a Security Team',
     description:
-      'The body detects foreign hardware, neutralizes threats, and writes new antibodies — just like a firewall and antivirus.',
+      'Walls, sticky traps, guards, messengers, and memory keepers make immune-system science easier to picture without the heavy jargon.',
   },
   {
-    title: 'The Microbiome as a Co-Processor',
+    title: 'The Capstone Is a Body Mystery Project',
     description:
-      'Trillions of gut microbes act as a third-party processing plant. Students learn to feed the system that feeds them.',
+      'Students pick one safe body question, collect clues, and can share privately, partially, or with fictional examples. No change is a real finding.',
   },
 ];
 
 const roadmapSections = [
   {
-    title: 'The Control Loops',
+    title: 'Body Autopilot and Steadying Loops',
     weeks: 'Weeks 1–3',
-    description: 'Baseline telemetry and homeostasis',
+    description: 'Body clues, steadying loops, and heart calming-down checks',
   },
   {
-    title: 'The Chemical Plant',
+    title: 'Food Journey and Body Clues',
     weeks: 'Weeks 4–7',
-    description: 'Fuel processing, energy spikes, and structural nutrients',
+    description: 'The journey of one bite, food jobs, and gentle pattern detective work',
   },
   {
-    title: 'System Security & Threat Response',
+    title: 'Body Security Team and Response Stories',
     weeks: 'Weeks 8–10',
-    description: 'Virology, immunology, and the physical hull',
+    description: 'Protection, symptoms, and illness story maps',
   },
   {
-    title: 'Preventative Maintenance',
+    title: 'Body Clock, Cleanup, and Repair',
     weeks: 'Weeks 11–14',
-    description: 'Circadian rhythms, sleep architecture, and wear',
+    description: 'Daily rhythm, night cleanup, gut helpers, and movement',
   },
   {
-    title: 'The Optimization Protocol',
+    title: 'The Body Mystery Project',
     weeks: 'Weeks 15–18',
-    description: 'Design, test, and iterate a personal observation protocol',
+    description: 'Pick a safe question, collect clues, and share what you discovered',
   },
 ];
 
@@ -99,14 +99,21 @@ export default function HomepageFeatures() {
     <div className={styles.pageSections}>
       <section className={styles.section}>
         <div className="container">
-          <Heading as="h2">Introduction</Heading>
+          <Heading as="h2">Why This Feels Different</Heading>
           <p className={styles.sectionLead}>
             Health Systems Literacy for Kids is an 18-week curriculum for ages 8–12, built for
             classroom teachers, homeschool families, caregivers, and after-school leaders.
-            Students move from blindly following health rules to understanding how their
-            body systems work — noticing patterns, building vocabulary, and learning the
-            mechanisms behind sleep, energy, immunity, and repair.
+            Kids learn to notice body clues, ask what systems may be happening underneath them,
+            and build science vocabulary without shame, panic, or pressure to optimize themselves.
+            Drawing, roleplay, oral answers, emoji scales, and fictional examples all count.
           </p>
+          <div className={styles.versionNote}>
+            <p className={styles.versionLabel}>Warm privacy reminder</p>
+            <p>
+              Food, sleep, illness, mood, and body data never have to be shared publicly.
+              Private and pretend examples are built into the curriculum from the start.
+            </p>
+          </div>
         </div>
       </section>
 
@@ -136,10 +143,10 @@ export default function HomepageFeatures() {
 
       <section className={styles.sectionAlt}>
         <div className="container">
-          <Heading as="h2">Core Concepts</Heading>
+          <Heading as="h2">Big Ideas Kids Learn</Heading>
           <p className={styles.sectionLead}>
-            The curriculum is organized around mental models that help students transition
-            from blindly following health rules to understanding their own biological systems.
+            The curriculum is organized around big ideas kids can picture first, then connect
+            to technical language when they are ready.
           </p>
           <div className={styles.cardGrid}>
             {features.map((feature) => (
@@ -151,11 +158,10 @@ export default function HomepageFeatures() {
 
       <section className={styles.section}>
         <div className="container">
-          <Heading as="h2">Curriculum Roadmap</Heading>
+          <Heading as="h2">18-Week Roadmap</Heading>
           <p className={styles.sectionLead}>
-            The learning progression moves from baseline telemetry and fuel chemistry through
-            immune systems and sleep science, culminating in a personal observation
-            protocol that students design, test, and present.
+            The sequence moves from body autopilot and food jobs through the body's security
+            team, body clock, night cleanup, and a curiosity-driven Body Mystery Project.
           </p>
           <div className={styles.roadmapGrid}>
             {roadmapSections.map((section) => (
@@ -167,14 +173,14 @@ export default function HomepageFeatures() {
 
       <section className={styles.finalCta}>
         <div className="container">
-          <Heading as="h2">Start Teaching Health Systems Literacy</Heading>
+          <Heading as="h2">Start Exploring the Curriculum</Heading>
           <p className={styles.sectionLead}>
-            Begin with the Welcome page for an overview, then jump into Week 1.
-            Each session is about 20 minutes — designed for ages 8–12.
+            Begin with the Welcome page, then move into Week 1.
+            Private, fictional, drawing-based, and oral-response options are built in from the start.
           </p>
           <div className={styles.ctaButtons}>
             <Link className="button button--primary button--lg" to="/docs/intro">
-              Get Started
+              Open the Welcome Page
             </Link>
           </div>
           <p className={styles.feedbackPrompt}>

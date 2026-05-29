@@ -2,306 +2,296 @@
 sidebar_position: 92
 sidebar_label: "Printable Templates"
 title: "Printable Templates"
-description: "Copy-and-print templates for logs, trackers, protocol planning, and showcase materials"
+description: "Kid-friendly printable pages for body clues, drawings, trackers, mystery boards, and capstone reflections"
 ---
 
 # Printable Templates
 
-These templates are plain Markdown on purpose. Copy them into a notebook, print them, or rewrite them by hand. Simple tools are enough.
+These templates are intentionally simple.
+
+Print them, copy them into a notebook, rewrite them by hand, or turn them into oral-response prompts.
+
+Warm privacy rule for every page: **body clues can stay private, and pretend examples are allowed.**
 
 ---
 
-## 1. Bio-Telemetry Log Cover Page
+## 1. Body Clues Notebook Cover
 
-Short instructions: Put this at the front of the notebook or folder.
+Short instructions: Use at the front of a notebook or folder.
+
+Drawing option: decorate the cover with body clues, helper characters, or a body detective badge.
+
+Emoji option: add emoji clues around the page.
+
+Oral option: answer the prompts out loud while an adult writes.
 
 ```text
-BIO-TELEMETRY LOG
+BODY CLUES NOTEBOOK
 
 Name or nickname: ____________________
 Start date: ____________________
+
 What I want this notebook to help me notice:
 _______________________________________
 _______________________________________
 
-Privacy reminder:
-This log belongs to me. I can choose what to share and what to keep private.
+Private reminder:
+This notebook belongs to me.
+I can choose what to share.
 ```
 
-Younger learner adaptation: Draw a body, a notebook, and three system alerts you want to notice.
+## 2. Body Signal Log
 
-## 2. System Alert Log
+Short instructions: Use for Week 1 or anytime a learner wants to notice a clue.
 
-Short instructions: Use this when learning to rename sensations as system alerts.
+Drawing option: sketch the clue instead of writing.
+
+Emoji option: use symbols for hot, cold, thirsty, sleepy, hungry, or calm.
+
+Oral option: tell the story of the clue out loud.
 
 ```text
-SYSTEM ALERT LOG
+BODY SIGNAL LOG
 
-| What I noticed | What variable might be changing? | What do I think my body was trying to do? |
+| Body clue I noticed | What my body might have been noticing | What happened next? |
 |---|---|---|
 | | | |
 | | | |
 | | | |
 ```
 
-## 3. Feedback Loop Diagram
+## 3. Steadying Loop Drawing
 
-Short instructions: Fill in one body loop at a time.
+Short instructions: Use for Week 2 to draw one loop that keeps things steady or builds fast.
+
+Drawing option: the page already invites drawing.
+
+Emoji option: add arrows, faces, or color coding.
+
+Oral option: point to each part while explaining it.
 
 ```text
-FEEDBACK LOOP DIAGRAM
+STEADYING LOOP DRAWING
 
-Variable: ____________________
-Sensor: ____________________
-Target or safe range: ____________________
-Actuator: ____________________
-Effect: ____________________
-What tells the system to stop?: ____________________
+My example: ____________________
+
+What notices the change? ____________________
+What happens next? ____________________
+What body action part helps? ____________________
+How does the loop calm down or stop? ____________________
 ```
 
-## 4. Resting Heart Rate / Recovery Test
+## 4. Heart Calming-Down Check
 
-Short instructions: Use for Week 3 light activity measurements.
+Short instructions: Use for Week 3 with gentle movement or observation only.
 
-Privacy and safety reminder: Stop if there is pain, dizziness, chest pain, breathing difficulty, or feeling unsafe.
+Drawing option: draw bars, dots, or a line going faster then calmer.
 
-```text
-RECOVERY TEST
+Emoji option: add how the body felt next to each time point.
 
-Baseline resting heart rate: __________ bpm
-Resting breathing rate: __________ breaths/min
-
-| Time point | Heart rate |
-|---|---|
-| Baseline | |
-| Immediately after light activity | |
-| 2 minutes | |
-| 5 minutes | |
-| 10 minutes | |
-
-What I noticed about the recovery pattern:
-_______________________________________
-```
-
-## 5. Food-Free Energy Audit Alternative
-
-Short instructions: Use this if you want a non-food option for Week 7.
+Oral option: speak the pattern aloud while someone else writes.
 
 ```text
-FOOD-FREE ENERGY AUDIT
+HEART CALMING-DOWN CHECK
 
-| Day | Sleep length or bedtime consistency | Energy level | Focus level | Hydration cue noticed? | Environment note |
-|---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-```
+My starting number: _____________
 
-## 6. Fuel / Output Audit
-
-Short instructions: Track patterns if the learner freely chooses a food-related observation.
-
-Privacy reminder: Food logs are private. Sharing is optional.
-
-```text
-FUEL / OUTPUT AUDIT
-
-| Day | Input description | Time | Energy or focus later | Hunger timing later | Notes |
-|---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-```
-
-## 7. Illness Timeline / Post-Mortem
-
-Short instructions: Reconstruct a real or fictional illness episode.
-
-```text
-ILLNESS TIMELINE
-
-Exposure or first clue: ____________________
-
-| Day or time | What happened | What my body might have been doing |
+| Time point | Heart rate or body clue | Emoji / feeling |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| Before movement or rest | | |
+| Right after | | |
+| 1 minute later | | |
+| 3 minutes later | | |
 
-What I still do not know for sure:
+What I noticed about calming down:
 _______________________________________
 ```
 
-## 8. Circadian Rhythm Tracker
+## 5. Body Pattern Detective Sheet
 
-Short instructions: Notice timing signals across the day.
+Short instructions: Use for Week 7 or any small clue-pattern investigation.
 
-```text
-CIRCADIAN RHYTHM TRACKER
+Drawing option: turn the boxes into a mystery board.
 
-| Day | Wake time | First bright light | Most alert time | Sleepy time | Notes |
-|---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-```
+Emoji option: use stickers or faces for clue strength.
 
-## 9. Sleep Tracker
-
-Short instructions: Use for Week 12 or capstone observation-only tracking.
-
-Privacy reminder: Sleep data is private.
+Oral option: talk through one clue at a time.
 
 ```text
-SLEEP TRACKER
+BODY PATTERN DETECTIVE SHEET
 
-| Day | Bedtime | Time trying to sleep | Wake time | How rested I felt | Notes |
-|---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| Clue | When it happened | What else was happening | What I wonder |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
 ```
 
-## 10. Activity / Recovery Reflection
+## 6. Illness Story Map
 
-Short instructions: Reflect on movement, load, soreness, and recovery without judgment.
+Short instructions: Use a fictional, anonymized, or family-approved example.
+
+Drawing option: turn the story into a comic strip.
+
+Emoji option: use simple symbols for first clue, body response, recovery.
+
+Oral option: tell the story aloud and label what is known or guessed.
 
 ```text
-ACTIVITY / RECOVERY REFLECTION
+ILLNESS STORY MAP
 
-Activity: ____________________
-How long or how much: ____________________
-How my body felt during it: ____________________
-How my body felt later: ____________________
-Did I notice soreness, sharp pain, joint pain, or no pain?: ____________________
-What I think was load vs. what I think was recovery: ____________________
+Beginning of the story: ____________________
+
+| Part of the story | What happened | Known / guessed / unsure |
+|---|---|---|
+| Something got in or first clue | | |
+| My body responded | | |
+| Recovery | | |
+
+Some parts of the story are guesses. That's okay.
 ```
 
-## 11. Capstone Protocol v1.0
+## 7. Body Clock Sun/Moon Chart
 
-Short instructions: Use this for the first capstone draft.
+Short instructions: Use for Week 11 to notice daily rhythm clues.
 
-Safety reminder: Observation-only is always allowed.
+Drawing option: color the sun and moon sections.
+
+Emoji option: add awake, sleepy, hungry, calm, or focused emojis.
+
+Oral option: point to each part of the day and describe it aloud.
 
 ```text
-PROTOCOL v1.0
+BODY CLOCK SUN / MOON CHART
 
-Variable I want to understand: ____________________
-Why I picked it: ____________________
-Metric: I will measure ____________________ by ____________________ at ____________________.
-Baseline plan: ____________________
-Observation-only or one safe change?: ____________________
-Hypothesis: ____________________
-What is not allowed in this protocol?: ____________________
+| Part of the day | Body clue I noticed | Emoji / color | One note |
+|---|---|---|---|
+| Morning | | | |
+| Afternoon | | | |
+| Evening | | | |
+| Night | | | |
 ```
 
-## 12. Environment Audit
+## 8. Night Cleanup Tracker
 
-Short instructions: Map support and friction around the target variable.
+Short instructions: Use for Week 12 with private or fictional sleep notes.
+
+Drawing option: draw the cleanup crew, repair crew, and memory librarian.
+
+Emoji option: use sleepy, rested, foggy, or calm faces.
+
+Oral option: talk through bedtime-ish and wake time-ish without writing every detail.
 
 ```text
-ENVIRONMENT AUDIT
+NIGHT CLEANUP TRACKER
 
-Variable: ____________________
-
-| What supports it now | What makes it harder now |
-|---|---|
-| | |
-| | |
-| | |
-
-What is under my control?: ____________________
-What is outside my control?: ____________________
-Low-cost change I could test: ____________________
+| Bedtime-ish | Wake time-ish | Rested feeling | One note |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
 ```
 
-## 13. Daily Tracking Sheet
+## 9. Tiny Gut Helpers Drawing
 
-Short instructions: Use the same metric each day. Do not backfill from memory.
+Short instructions: Use for Week 13 to imagine a helper city, garden, or neighborhood.
+
+Drawing option: the whole page is a drawing prompt.
+
+Emoji option: use faces or symbols for different helper jobs.
+
+Oral option: explain each helper job while pointing to the picture.
 
 ```text
-DAILY TRACKING SHEET
+TINY GUT HELPERS DRAWING
 
-| Date | Time | Metric | Did the planned change happen? | Confounding factor? | Notes |
-|---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+My helper community model: ____________________
+
+Helper job #1: ____________________
+Helper job #2: ____________________
+Helper job #3: ____________________
+
+What scientists still wonder about:
+_______________________________________
 ```
 
-## 14. Midpoint Review
+## 10. Body Mystery Project Planner
 
-Short instructions: Pause halfway through a protocol and review friction.
+Short instructions: Use for Week 15 to build a small safe observation plan.
+
+Drawing option: use icons for each box.
+
+Emoji option: add a simple feeling symbol next to the question.
+
+Oral option: answer the four boxes out loud.
 
 ```text
-MIDPOINT REVIEW
+BODY MYSTERY PROJECT PLANNER
 
-What is going smoothly?: ____________________
-What is hard about this protocol?: ____________________
-Did I miss any data? Why?: ____________________
-Do I need to simplify, pause, or continue as planned?: ____________________
+My question: ____________________
+What I will notice: ____________________
+When I will notice it: ____________________
+What I will NOT change: ____________________
+
+Private reminder:
+This project can stay private.
 ```
 
-## 15. Protocol v2.0 Patch Notes
+## 11. Clue Calendar
 
-Short instructions: Use after Week 17 to revise the protocol.
+Short instructions: Use for Week 17 to keep clue collection tiny.
+
+Drawing option: color in boxes or add tiny symbols.
+
+Emoji option: one emoji or sticker per day is enough.
+
+Oral option: review the day out loud and let an adult mark the calendar.
 
 ```text
-PROTOCOL v2.0 PATCH NOTES
+CLUE CALENDAR
 
-What I kept: ____________________
-What I changed: ____________________
-What I removed: ____________________
-What got in the way: ____________________
-What I would test next time: ____________________
+| Day | Clue I noticed | Emoji / sticker | Did the plan happen? |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 ```
 
-## 16. Showcase Planning Sheet
+## 12. What I'd Try Next Time
 
-Short instructions: Plan what to present and what to keep private.
+Short instructions: Use for Week 18 only if the learner wants a next-step reflection.
+
+Drawing option: make a comic of "version 2 me" noticing a clue.
+
+Emoji option: add a feeling next to each reflection line.
+
+Oral option: use it as a one-on-one closing conversation.
 
 ```text
-SHOWCASE PLANNING SHEET
+WHAT I'D TRY NEXT TIME
 
-What question did I study?: ____________________
-What data will I share?: ____________________
-What data will stay private?: ____________________
-Will I anonymize or fictionalize anything?: ____________________
-What is my main finding?: ____________________
-What is one limit of my experiment?: ____________________
+What I discovered: ____________________
+What I want to keep private: ____________________
+What I might try next time: ____________________
+What I still wonder: ____________________
+
+Reminder:
+No change is a real finding.
 ```
 
-## 17. Final Reflection / Letter to Week 1 Self
+---
 
-Short instructions: Reflect on what changed in your understanding.
+## Template Use Tips
 
-```text
-LETTER TO WEEK 1 SELF
+- Short is fine.
+- Drawings count.
+- Oral answers count.
+- Emoji scales count.
+- Private pages count.
+- Pretend examples count.
 
-At the start, I thought bodies were ____________________.
-Now I think bodies are ____________________.
-One system I understand better is ____________________.
-One thing I learned about observation is ____________________.
-One thing I want to keep noticing is ____________________.
-```
-
-## 18. Optional Stress Load Map
-
-Short instructions: Use fictional examples, a book or movie character, a generic school week, small stressors only, or your own life if that feels safe.
-
-Privacy and emotional safety reminder: You do not have to disclose personal stressors.
-
-```text
-STRESS LOAD MAP
-
-Whose example am I mapping?: ____________________
-
-| Day | Stress activation | How long it lasted | Recovery that happened | What was outside the person's control? |
-|---|---|---|---|---|
-| | | | | |
-| | | | | |
-| | | | | |
-```
-
-Younger learner adaptation: Use a story character and draw colored arrows for alert mode and calm mode.
+The templates are there to support curiosity, not to create pressure.
