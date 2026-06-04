@@ -57,6 +57,7 @@ If a caregiver approves one tiny safe change later, that is optional. Observatio
 - Observation-only is the default.
 - Safer examples: focus timing, energy across the day, heart calming after light movement, room setup and homework focus, thirst cues.
 - Redirect any goal that sounds like body control, punishment, weight change, or restriction.
+- Use the [Health Checkpoint](./health-checkpoint.md), [Health Literacy Project Rubric](./capstone-rubric.md), and [Learner Self-Assessment](./self-assessment.md) when the project uses outside sources or may be shared later.
 :::
 
 :::tip Quick Navigation
@@ -110,6 +111,39 @@ The learner picks a safe question and makes a plan simple enough to actually use
 - Emphasize that a good project question is safe, clear, and curious.
 - Keep the medical and privacy guardrails fully in place.
 :::
+
+## Different Bodies, Different Needs
+
+Bodies are different, and safe project topics can come from many places: a personal clue kept private, a fictional character, a school routine, a library display, a public health poster, a community flyer, or an online health message.
+
+- Choose a question that does not ask learners to rank bodies, change weight, diagnose symptoms, or share private health information.
+- Different families and communities may have different schedules, spaces, tools, supports, and healthcare access.
+- A public or fictional example is often the safest choice.
+
+## Health Checkpoint
+
+If a project topic comes from a message, label, ad, video, post, product, app, or AI summary, learners can ask:
+
+- Who made this?
+- What does it want people to think, feel, do, buy, try, or believe?
+- What evidence, source, or expert is shown?
+- What might be missing or left out?
+- Who should I check with before I trust, share, try, or act on it?
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone.
+
+- Is this project question private, serious, confusing, painful, scary, or urgent?
+- Does it ask me to diagnose, treat, prescribe, change medicine, skip meals, or push through pain?
+- Who is a trusted adult or qualified helper for this question?
+- What should I avoid doing until I get help?
+
+Examples for this week: a video says to try a supplement, a learner sees a scary symptom post online, or a project idea starts to sound like body control instead of observation.
+
+## Ages 11-13 Optional Extension
+
+Older or especially interested learners can compare source quality, audience, accessibility, attribution, and AI-use transparency more explicitly. Detailed topics such as puberty, diagnosis, treatment, medication decisions, eating disorders, trauma, sexual health, or substance use stay adult-guided, optional, or out of scope.
 
 ---
 
@@ -220,6 +254,8 @@ The learner does not need those words to do the project well.
 ### Goal
 
 Finish a small, safe, privacy-protecting Body Mystery Project plan.
+
+Use the [Health Literacy Project Rubric](./capstone-rubric.md) as a planning companion for privacy, evidence, help-seeking, attribution, and accessibility.
 
 ### Activities
 

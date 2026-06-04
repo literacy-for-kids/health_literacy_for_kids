@@ -99,6 +99,33 @@ The learner can sort at least one example into each group and explain why.
 - Ask older learners to describe how a loop can be helpful and still need backup from an adult or doctor.
 :::
 
+## Different Bodies, Different Needs
+
+Bodies are different, and body loops do not look identical in every person or every situation. Health literacy means learning how to notice a pattern without acting like there is one perfect body response.
+
+- Use story, playground, or fictional examples when a real body example feels too personal.
+- Keep fever, clotting, and other bigger examples descriptive rather than dramatic.
+- Needing help does not mean a body failed.
+
+## Health Activity Safety
+
+- Use calm story examples before real or personal examples.
+- Do not roleplay real emergencies or painful events.
+- Offer drawing, sorting, oral explanation, or partner-based responses.
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone. A trusted adult or qualified helper can support safe decisions.
+
+- Is this loop example about something painful, scary, or urgent?
+- Do I need help now?
+- Who is a trusted adult I can talk to?
+- What should I avoid doing until I get help?
+
+Examples for this week: trouble breathing, severe pain, scary fever symptoms, or anything that is getting worse quickly.
+
+For emergencies, learners should follow local emergency rules and get an adult immediately. This curriculum does not teach emergency medicine.
+
 ---
 
 ## Guided Session 1

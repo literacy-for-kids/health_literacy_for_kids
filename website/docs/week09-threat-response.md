@@ -96,6 +96,44 @@ The learner can say that fever and swelling are clues you can feel and part of t
 - If useful, discuss that fever changes body conditions on purpose for a time.
 :::
 
+## Different Bodies, Different Needs
+
+Bodies can show illness clues in different ways. Some people may have allergies, asthma, chronic illness, disability, or medical devices that change how a response story looks. No learner needs to share a personal illness history.
+
+- Recovery can look different across different bodies and communities.
+- Families may have different access to healthcare, transportation, or time to rest.
+- Use fictional examples whenever privacy matters.
+
+## Health Checkpoint
+
+When a learner sees a symptom post, rumor, product claim, or scary health message, they can ask:
+
+- Who made this?
+- What health claim is being made?
+- What evidence, source, or expert is shown?
+- Could fear, shame, popularity, sponsorship, or AI be shaping the message?
+- Who should I check with before I trust, share, or act on it?
+
+## Medicine and Product Safety
+
+- Never take medicine, cough syrup, allergy medicine, supplements, or unknown products without a trusted adult.
+- Never share medicine or take someone else's medicine.
+- Tell an adult if a product causes pain, rash, dizziness, trouble breathing, or another scary reaction.
+- Ask an adult before trusting online advice about symptoms or treatment.
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone.
+
+- Is this private, serious, confusing, painful, scary, or urgent?
+- Do I need help now?
+- Who is a trusted adult I can talk to?
+- What should I avoid doing until I get help?
+
+Examples for this week: a learner sees a scary symptom post online, someone is having trouble breathing, or a fever feels worrying instead of ordinary.
+
+For emergencies, learners should follow local emergency rules and get an adult immediately. This curriculum does not teach emergency medicine.
+
 ---
 
 ## Guided Session 1

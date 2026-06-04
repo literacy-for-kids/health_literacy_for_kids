@@ -104,6 +104,36 @@ The learner can name two or three members of the security team and what they do.
 - Compare the security-team model to cybersecurity only as a side comparison, not the main path.
 :::
 
+## Different Bodies, Different Needs
+
+Bodies are different. Some learners may know about allergies, asthma, medical devices, chronic illness, masks, medicine routines, or more frequent doctor visits. No one needs to share private health information to do this lesson well.
+
+- Access to healthcare, supplies, and prevention tools can vary.
+- Use fictional germ stories or community examples when privacy matters.
+- Protection is not a contest, and needing support is not failure.
+
+## Medicine and Product Safety
+
+Medicine can help when used the right way by the right person at the right time. Medicine and products can be unsafe if they are shared, guessed, mixed up, taken without permission, or used because an online post said to try them.
+
+- Never share medicine.
+- Never take someone else's medicine.
+- Ask a trusted adult before using vitamins, supplements, powders, "immune boosters," or online remedies.
+- Tell an adult right away if someone finds medicine on the floor or has a scary reaction.
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone.
+
+- Is this private, serious, confusing, painful, scary, or urgent?
+- Do I need help now?
+- Who is a trusted adult I can talk to?
+- Is this a question for a caregiver, teacher, school nurse, doctor, pharmacist, or emergency helper?
+
+Examples for this week: someone finds medicine on the floor, a person has trouble breathing, a rash is spreading, or someone is pressured to keep a health concern secret.
+
+For emergencies, learners should follow local emergency rules and get an adult immediately. This curriculum does not teach emergency medicine.
+
 ---
 
 ## Guided Session 1

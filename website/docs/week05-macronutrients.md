@@ -92,6 +92,31 @@ The learner can sort a few examples into quick fuel, slow fuel, building blocks,
 - Use technical names in parentheses only after the learner has the four simpler buckets.
 :::
 
+## Different Bodies, Different Needs
+
+Bodies are different. People need different foods, movement, rest, medicine, tools, supports, and routines. Foods can give bodies energy, nutrients, comfort, culture, and connection.
+
+- Do not assume every family has the same budget, access, schedule, kitchen tools, or food traditions.
+- Avoid ranking bodies, food choices, lunch boxes, or family routines.
+- Keep goals focused on noticing food jobs, not appearance or weight.
+
+## Health Activity Safety
+
+- Use cards, drawings, or fictional meals instead of tasting tasks.
+- Do not ask learners to count calories, track meals, or compare food choices.
+- Make space for allergy, sensory, and cultural differences without singling anyone out.
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone. A trusted adult or qualified helper can support safe decisions.
+
+- Is this about an allergy, choking, pain, or a scary reaction?
+- Is this a question about what someone personally should eat or avoid?
+- Who is a trusted adult I can talk to?
+- What should I avoid doing until I get help?
+
+For serious food, allergy, medicine, or body questions, ask a trusted adult or qualified health professional.
+
 ---
 
 ## Guided Session 1

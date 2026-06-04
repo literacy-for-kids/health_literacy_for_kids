@@ -33,6 +33,14 @@ The goal is not to sound perfect. The goal is to keep the conversation curious, 
 | I do not want to share my notebook. | That is allowed. Your Body Clues Notebook belongs to you. | Makes consent and privacy explicit. |
 | My project showed no change. | No change is a real finding. You still learned something true about the clues you collected. | Validates null results. |
 | I used the wrong word. | You did not do it wrong. We can say it in kid words first, then add the science word after. | Normalizes learning and scaffolds vocabulary. |
+| This video says I should try a supplement. | We do not try medicine, vitamins, supplements, powders, or wellness products because a post said to. Let's use the Health Checkpoint and ask a trusted adult. | Reinforces medicine and product safety. |
+| Do I have to tell my own health story? | No. You can use a made-up example, a story character, or a public example. | Protects privacy without stopping participation. |
+| My family cannot do that routine. | Different families have different schedules, budgets, spaces, cultures, and support. We can still learn the skill without blaming anyone. | Keeps the lesson access-aware and nonjudgmental. |
+| This photo makes me feel bad about my body. | Thank you for noticing that feeling. Pictures can be edited, filtered, staged, or AI-made. Let's slow down and ask what message it is trying to send. | Adds gentle body-image and media-awareness support. |
+| This ad says it will fix everything. | Big promises are a clue to slow down. Who made it, what evidence does it show, and what should we check first? | Brings in calm source-checking. |
+| I saw a scary symptom post online. | You do not have to figure that out alone. Let's avoid guessing, get a trusted adult, and use another reliable source. | Strengthens help-seeking and privacy. |
+| Do I have to present in front of everyone? | No. A drawing, partner talk, private explanation, typed note, AAC-supported share, or one-on-one conversation also count. | Protects communication access and lowers pressure. |
+| Can I use AI to help my project? | You can use tools carefully, but you still need to check facts, say how the tool helped, and give credit. | Introduces AI-use transparency and verification. |
 
 ---
 
@@ -42,11 +50,25 @@ Use these when the discussion is getting too intense or too technical.
 
 - We don't need to fix anything. We're just noticing.
 - You can use a pretend example.
+- We can use the Health Checkpoint.
 - Let's say it in kid words first.
 - Private is okay.
 - That clue sounds important. Let's involve an adult.
 - Missing a day is not failure.
 - No change is still a finding.
+
+---
+
+## Health Checkpoint Prompts
+
+Use these when a learner sees a health post, ad, product, label, or video.
+
+- Who made this?
+- What is it trying to get me to think, feel, do, buy, try, or believe?
+- Is this information, advice, advertising, entertainment, or something else?
+- What evidence or source is shown?
+- Could money, sponsorship, fear, shame, filters, or AI be shaping it?
+- What is one safe next step?
 
 ---
 
@@ -56,6 +78,7 @@ Use these when the discussion is getting too intense or too technical.
 - Use observation language before advice language.
 - Keep privacy warm, short, and repeated.
 - Normalize variation across bodies, families, and routines.
+- Normalize variation across communities, cultures, access levels, abilities, and communication styles.
 - Redirect unsafe projects immediately.
 - Treat missed data as information.
 - Celebrate curiosity, not body control.

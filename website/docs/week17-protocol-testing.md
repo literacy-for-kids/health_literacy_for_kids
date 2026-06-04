@@ -46,6 +46,7 @@ Missing days can show that the plan was too hard, the schedule changed, or the s
 - Midpoint review should ask what is easy, what is annoying, and whether the plan should get simpler.
 - Do not use discipline or compliance language.
 - Observation-only is still fully valid.
+- Use the [Health Literacy Project Rubric](./capstone-rubric.md) and [Learner Self-Assessment](./self-assessment.md) if the project will become a share-out, poster, comic, or talk.
 :::
 
 :::tip Quick Navigation
@@ -97,6 +98,38 @@ The learner can use the tracker a few times and explain that missing a day is ok
 - Let older learners compare missing data to project design issues.
 - Keep the wording supportive, not performance-based.
 :::
+
+## Different Bodies, Different Needs
+
+Different learners collect clues in different ways. One person may use stickers, another may use numbers, another may talk it through, and another may need a partner, AAC, larger print, or a translated prompt.
+
+- One metric is enough.
+- Missed days, shared spaces, and busy schedules are part of real life.
+- The plan should fit the learner's body, access, time, and support needs.
+
+## Health Activity Safety
+
+- Do not push through pain, exhaustion, scary symptoms, or privacy concerns just to fill the tracker.
+- Do not add extra tracking, food rules, or movement pressure because a page looks too empty.
+- Ask a trusted adult before changing medicine, supplements, or other health routines.
+
+## Health Checkpoint
+
+If a learner uses an app, label, post, or outside source while collecting clues, they can ask:
+
+- Who made this?
+- What evidence, source, or expert is shown?
+- Could money, popularity, filters, algorithms, or AI be shaping it?
+- What is one safe next step?
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone.
+
+- Is this clue private, serious, confusing, painful, scary, or urgent?
+- Do I need help now?
+- Who is a trusted adult or qualified helper for this question?
+- What should I avoid doing until I get help?
 
 ---
 

@@ -92,6 +92,43 @@ The learner can notice one clue and one thing that happened around it.
 - Keep causation talk as an optional side note, not the main path.
 :::
 
+## Different Bodies, Different Needs
+
+Bodies are different. People may notice different patterns, use different trackers, or need different supports to keep the work gentle and private.
+
+- Tracking can happen with words, colors, stickers, drawings, AAC, partner talk, or brief notes.
+- Do not assign calorie counting, step counting, weight tracking, or body measurements.
+- Keep goals focused on noticing clues and context, not fixing appearance or proving discipline.
+
+## Health Activity Safety
+
+- Keep the tracker tiny, private by default, and easy to skip or simplify.
+- Stop using a clue if it starts to feel too personal, stressful, or shame-heavy.
+- Use fictional or general examples whenever that is safer.
+
+## Health Checkpoint
+
+When a learner sees a health post, app, label, ad, or product connected to a pattern, they can ask:
+
+- Who made this?
+- What does it want me to think, feel, do, buy, try, or believe?
+- What evidence or source is shown?
+- What might be missing?
+- What is one safe next step?
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone. A trusted adult or qualified helper can support safe decisions.
+
+- Is this pattern private, serious, confusing, painful, scary, or urgent?
+- Do I need help now?
+- Who is a trusted adult I can talk to?
+- What should I avoid doing until I get help?
+
+Examples for this week: a pattern seems scary, a post says to try a supplement, or a learner feels overwhelmed by tracking.
+
+For emergencies, learners should follow local emergency rules and get an adult immediately. This curriculum does not teach emergency medicine.
+
 ---
 
 ## Guided Session 1

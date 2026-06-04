@@ -12,6 +12,8 @@ This glossary puts child-friendly language first and technical language second.
 
 Use the kid phrase when introducing a new idea. Add the technical phrase when the learner is ready.
 
+Some terms have more technical meanings in medicine, media studies, or education. These are simplified learning definitions for ages 8-12.
+
 ---
 
 | Kid phrase | Technical phrase | Kid-friendly definition | Technical definition | Introduced |
@@ -58,6 +60,59 @@ Use the kid phrase when introducing a new idea. Add the technical phrase when th
 | what changes to stay okay in a changing situation | allostasis | The body's ability to adjust to meet new demands. | The process of achieving stability through change across shifting conditions. | Week 18 |
 | what thing am I studying? | variable | The one clue or condition chosen for a project. | The factor being observed or measured in a study or project. | Week 15 |
 | wall | barrier defense | A first protective layer that keeps many threats from getting in. | Physical and chemical barriers such as skin and mucus that block entry. | Week 8 |
+| health | health | Taking care of body, mind, relationships, safety, and environment. | A broad state of physical, mental, social, and environmental well-being. | Coursewide |
+| wellness | wellness / well-being | The everyday habits, supports, and conditions that can help someone feel and function as well as they can. | A broad term for ongoing well-being shaped by routines, environment, support, and context. | Coursewide |
+| health literacy | health literacy | Knowing how to ask health questions, find help, and check whether a health message makes sense. | The ability to find, understand, evaluate, and use health information with support when needed. | Coursewide |
+| body signal | body cue / body clue | A sign the body gives, like tired, thirsty, sick, hurt, or needing a break. | A body sensation or clue that can provide information about what the body may need. | Coursewide |
+| trusted adult | trusted adult | A grown-up who listens, takes safety seriously, and helps with important questions. | A reliable adult support person a learner can go to for guidance, safety, or help-seeking. | Coursewide |
+| qualified helper | qualified helper | A person with training or a clear helping role for a certain kind of question. | A trained or responsible support person, such as a nurse, counselor, pharmacist, coach, or emergency helper. | Coursewide |
+| qualified health professional | qualified health professional | A trained health worker such as a doctor, nurse, dentist, pharmacist, therapist, or other licensed professional. | A professional with recognized healthcare training, credentials, or scope of practice. | Coursewide |
+| source | source | Where information came from. | The person, organization, document, site, or media item that provides information. | Coursewide |
+| reliable source | reliable source | A source that gives careful, checkable information and is not just guessing or selling. | A source that shows evidence, expertise, transparency, and trustworthy methods. | Coursewide |
+| health information | health information | Facts, questions, messages, labels, advice, or stories about health. | Information related to health, health systems, safety, prevention, or care. | Coursewide |
+| claim | claim | Something a message says is true or says a product, routine, or idea can do. | A statement that can be checked against evidence or other sources. | Coursewide |
+| evidence | evidence | The facts, examples, research, observations, or expert support that help back up a claim. | The information used to support or test whether a claim is accurate or reasonable. | Coursewide |
+| fact | fact | Something that can be checked and supported by good evidence. | A statement that can be verified with reliable information. | Coursewide |
+| opinion | opinion | What someone thinks or prefers. | A belief, judgment, or viewpoint that may not be provable as fact. | Coursewide |
+| advice | advice | A suggestion about what someone could do. | Guidance or recommendation offered to help with a choice or action. | Coursewide |
+| advertisement | advertisement / ad | A message that tries to sell, promote, or persuade. | Paid or promotional communication meant to influence attention, belief, or buying decisions. | Coursewide |
+| sponsorship | sponsorship | When a brand, company, or group helps pay for something and may shape the message around it. | Financial or promotional support that can influence content, events, or recommendations. | Coursewide |
+| affiliate link | affiliate link | A special link that can earn money or rewards for the person sharing it. | A tracked link that gives a creator or seller a commission when someone buys through it. | Coursewide |
+| creator code | creator code | A code that supports a creator when someone buys a product or signs up. | A promotional code connected to sales tracking or sponsorship rewards. | Coursewide |
+| misinformation | misinformation | Wrong or misleading information shared by mistake. | False or inaccurate information spread without a clear goal to deceive. | Coursewide |
+| disinformation | disinformation | Wrong information shared on purpose to trick people. | False information deliberately created or spread to mislead. | Coursewide |
+| AI-generated | AI-generated | Made by a computer tool that creates words, pictures, sounds, or video from patterns it learned. | Content produced by an artificial intelligence system rather than directly created by a person alone. | Coursewide |
+| AI-edited | AI-edited | Changed with a computer tool that can rewrite, retouch, or remix what was there before. | Existing content modified with artificial intelligence assistance. | Coursewide |
+| deepfake | deepfake | A very realistic fake picture, voice, or video that makes it look like someone said or did something they did not. | Synthetic media designed to imitate real people or events convincingly. | Coursewide |
+| filter | filter | An effect that changes how a picture or video looks. | A digital editing layer that alters image or video appearance. | Coursewide |
+| digital wellness | digital wellness | Paying attention to how screens, apps, feeds, and messages affect feelings, focus, sleep, body image, and choices. | Mindful, healthy use of digital tools and media in ways that support well-being and safety. | Coursewide |
+| body image | body image | How someone thinks or feels about their body. | A person's thoughts, feelings, and beliefs about their body and appearance. | Coursewide |
+| privacy | privacy | The right to keep personal information from being shared when it does not need to be shared. | Protection of personal information and control over who can access it. | Coursewide |
+| personal health information | personal health information | Private information about a person's body, health, medicine, diagnosis, or care. | Identifying health-related information that should be handled carefully and shared only when needed. | Coursewide |
+| emergency | emergency | A dangerous or urgent situation that needs adult help right away. | A serious situation requiring immediate action, emergency help, or urgent medical care. | Coursewide |
+| first aid | first aid | The first safe help given after someone is hurt or suddenly sick, usually by a trained adult. | Immediate basic care given before professional medical treatment is available. | Coursewide |
+| medicine | medicine | A product used to help prevent, manage, or treat health problems when used the right way. | A drug or therapeutic product used under appropriate instructions or professional guidance. | Coursewide |
+| medicine safety | medicine safety | The rules that help people use medicine carefully and avoid mix-ups or harm. | Safe handling, dosing, storage, and use of medicines to reduce risk. | Coursewide |
+| dose | dose | How much medicine is taken at one time. | A measured amount of medicine to be taken or given. | Coursewide |
+| label | label | The words and pictures on a package that tell what something is and how it should be used. | Packaging information that can include ingredients, directions, warnings, and claims. | Coursewide |
+| allergy | allergy | When a body reacts strongly to something that is usually harmless to most people. | An immune response to a substance called an allergen. | Coursewide |
+| hygiene | hygiene | Everyday care that helps with comfort, health, and respect for shared spaces. | Health-related cleaning and care practices such as handwashing, tooth brushing, and bathing. | Coursewide |
+| nutrient | nutrient | A useful part of food that the body can use. | A substance in food that supports energy, growth, repair, or body regulation. | Coursewide |
+| movement | movement | Ways a body can move, stretch, play, work, practice, or rest in motion. | Physical activity ranging from gentle daily movement to more structured exercise. | Coursewide |
+| rest | rest | Time when the body or mind slows down, recovers, or takes a break. | A period of reduced demand that supports recovery and regulation. | Coursewide |
+| sleep routine | sleep routine | The usual pattern around getting ready to sleep and resting at night. | Repeated habits and conditions around sleep timing and bedtime. | Coursewide |
+| stress | stress | What the body and mind may feel when something feels hard, demanding, unsafe, or overwhelming. | The physical and mental response to challenge, change, pressure, or threat. | Coursewide |
+| coping strategy | coping strategy | A safe way to handle a hard feeling or stressful moment. | A strategy used to manage stress, emotions, or challenge. | Coursewide |
+| mental health | mental health | How people think, feel, cope, connect, and get support. | Emotional, psychological, and social well-being. | Coursewide |
+| public health | public health | The work communities do to help many people stay safer and healthier. | Organized efforts to protect and improve the health of groups and communities. | Coursewide |
+| food access | food access | Whether people can get food that works for their needs, culture, budget, and situation. | The availability and affordability of food within a person's environment and circumstances. | Coursewide |
+| accessibility | accessibility | Making information, spaces, and activities easier for different people to use. | Designing materials and environments so people with different needs can participate. | Coursewide |
+| attribution | attribution | Giving credit for facts, images, ideas, quotes, data, or help you used. | Acknowledging the source of information, media, ideas, or assistance. | Coursewide |
+| reflection | reflection | Looking back at what you noticed, learned, or might do differently. | Thoughtful review of learning, actions, or outcomes. | Coursewide |
+| revision | revision | Changing work after feedback or new learning to make it clearer or stronger. | Improving work by rethinking, editing, or updating it. | Coursewide |
+| Health Checkpoint | Health Checkpoint | A short set of questions to help you slow down before trusting or acting on a health message. | A repeatable inquiry routine for evaluating health messages, claims, sources, and next steps. | Coursewide |
+| health literacy project | health literacy project | A project that explains a health question, message, routine, or safety idea honestly and carefully. | A learner-created product that uses evidence, audience awareness, safety, and attribution to communicate health information. | Weeks 15-18 |
+| capstone project | capstone project | The final project that brings together the course's noticing, source-checking, and communication skills. | A culminating project showing integrated understanding across the curriculum. | Weeks 15-18 |
 
 ---
 

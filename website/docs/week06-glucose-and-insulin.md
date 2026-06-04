@@ -102,6 +102,42 @@ The learner can point to the roller coaster and gentle hill and explain the diff
 - Keep any blood-sugar numbers or advanced range talk in an optional side conversation only.
 :::
 
+## Different Bodies, Different Needs
+
+Bodies are different, and fuel patterns can be shaped by timing, food access, sleep, stress, movement, medicine, and many other factors. One graph or one meal is never a verdict about a body or a family.
+
+- Keep examples fictional, adult-provided, or private.
+- Do not turn a pattern shape into a moral score.
+- Health literacy means asking what else may be part of the pattern.
+
+## Health Activity Safety
+
+- Do not ask learners to test meals, skip meals, or change routines for this lesson.
+- Use fictional graphs, adult-provided examples, or optional private notes only.
+- Avoid competitions, rankings, or pressure about food or energy.
+
+## Medicine and Product Safety
+
+Medicine can help when used the right way by the right person at the right time. Medicine and products can also be unsafe if they are shared, guessed, mixed up, taken without permission, or used because an online post said to try them.
+
+- Never take medicine, vitamins, supplements, powders, energy drinks, or unknown products without a trusted adult.
+- Never share medicine or take someone else's medicine.
+- Ask before trusting health product claims, powders, drinks, or online remedies.
+- Tell an adult right away if something causes pain, rash, dizziness, trouble breathing, or another scary reaction.
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone. A trusted adult or qualified helper can support safe decisions.
+
+- Is this private, serious, confusing, painful, scary, or urgent?
+- Should I ask a trusted adult before trying, buying, or acting on this advice?
+- Who is a trusted adult I can talk to?
+- What should I avoid doing until I get help?
+
+## Ages 11-13 Optional Extension
+
+Older or especially interested learners can compare more detailed label examples, hormone vocabulary, or more than one pattern shape. Keep this adult-guided, optional, and out of the core expectations for younger learners.
+
 ---
 
 ## Guided Session 1

@@ -100,6 +100,36 @@ The learner can point to one part of the day when they usually feel more awake o
 - Ask how school and family schedules can match or mismatch body timing.
 :::
 
+## Different Bodies, Different Needs
+
+Sleepy and awake patterns are shaped by many things, not just effort. Some learners share rooms, use public transit, live in noisy housing, help with caregiving, use medical devices, or follow schedules they did not choose.
+
+- Not controlling a schedule is not failure.
+- Charts can use colors, emojis, drawings, gestures, AAC, or partner talk.
+- This lesson is about noticing patterns without blaming the learner or family.
+
+## Digital Wellness Check
+
+Digital spaces can affect sleep, focus, body image, feelings, and choices.
+
+- How does this app, game, post, or video make me feel?
+- Is it asking me to compare my body, routine, sleep, or life to someone else?
+- Is it trying to keep my attention, sell something, or make me act quickly?
+- Is it edited, filtered, staged, sponsored, or AI-generated?
+- Do I need a break, another source, or a trusted adult?
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone.
+
+- Is this about scary tiredness, pressure, overwhelming feelings, or a schedule problem I cannot solve alone?
+- Who is a trusted adult I can talk to?
+- What should I avoid doing until I get help?
+
+## Ages 11-13 Optional Extension
+
+Older or especially interested learners can compare light cues, screen timing, sleep science vocabulary, and digital wellness patterns. Keep this optional, adult-guided, and free from perfection goals.
+
 ---
 
 ## Guided Session 1

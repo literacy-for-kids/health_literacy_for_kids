@@ -108,6 +108,35 @@ The learner can point to one thing their body did automatically and say, "My bod
 - If the learner enjoys categories, show how **body parts**, **autopilot programs**, and **learned skills** connect to **hardware**, **firmware**, and **software** as an optional comparison.
 :::
 
+## Different Bodies, Different Needs
+
+Bodies are different. People need different foods, movement, rest, medicine, tools, supports, and routines. A body clue such as tired, thirsty, hot, worried, or needing a break can look different from person to person.
+
+- Use fictional or general examples if a real body clue feels private.
+- Some learners may explain what they notice through AAC, drawing, gestures, movement, writing, or partner talk.
+- Health literacy means noticing clues with kindness and getting support when needed.
+
+## Health Activity Safety
+
+- Use ordinary safe objects for demonstrations. Do not use extreme heat or cold.
+- Observation-only, seated, low-movement, or partner-based versions are all valid.
+- Stop the activity if anything feels painful, scary, or unsafe.
+
+> When we learn about health, we stay safe, respect privacy, and ask trusted adults for serious questions.
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone. A trusted adult or qualified helper can support safe decisions.
+
+- Is this private, serious, confusing, painful, scary, or urgent?
+- Do I need help now?
+- Who is a trusted adult I can talk to?
+- What should I avoid doing until I get help?
+
+Examples for this week: a friend feels dizzy during recess, a body clue feels scary instead of ordinary, or someone has trouble breathing.
+
+For emergencies, learners should follow local emergency rules and get an adult immediately. This curriculum does not teach emergency medicine.
+
 ---
 
 ## Guided Session 1

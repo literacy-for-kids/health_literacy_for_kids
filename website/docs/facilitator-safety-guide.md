@@ -9,6 +9,8 @@ description: "Curriculum-wide safety, privacy, consent, and medical-boundary gui
 
 This curriculum is designed to build health literacy, not fear, shame, or pressure. Use this page as the standing guardrail for every week.
 
+For fuller caregiver-facing language, sensitive topic handling, and activity safety reminders, also use [Caregiver and Facilitator Guidance](./caregiver-and-facilitator-guidance.md). For the recurring source-checking routine, use [Health Checkpoint](./health-checkpoint.md).
+
 ---
 
 ## What This Curriculum Is
@@ -135,5 +137,7 @@ This lesson helps you notice patterns. It does not diagnose, treat, or prescribe
 - Redirect unsafe experiments immediately.
 - Treat skipped data as useful information, not failure.
 - Treat null results as valid results.
+
+Communication can be spoken, written, drawn, signed, gestured, partner-supported, or AAC-based.
 
 Just notice. That is the tone of this curriculum.

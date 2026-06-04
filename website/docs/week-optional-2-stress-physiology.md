@@ -105,6 +105,34 @@ The learner can say that alert mode is useful and recovery matters too.
 - Keep the examples bounded, optional, and non-therapeutic.
 :::
 
+## Ages 11-13 Optional Extension
+
+This extension is designed for ages 11-13 or for especially interested learners using close adult guidance. It is not part of the core expectations for younger learners.
+
+- Keep the lesson science-focused, not therapy-focused.
+- Personal stress stories stay optional and can always be replaced with fictional examples.
+- Detailed mental illness, trauma, self-harm, abuse, diagnosis, or treatment content stays outside the core lesson.
+
+## Digital Wellness Check
+
+Stress and recovery messages online can mix helpful ideas with pressure, fear, shame, or product goals. Learners can ask:
+
+- How does this content make me feel?
+- Is it trying to keep my attention, sell something, or make me compare myself to someone else?
+- Is it edited, staged, sponsored, or AI-generated?
+- Do I need a break, a trusted adult, or another source?
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone.
+
+- Is this private, serious, confusing, painful, scary, or urgent?
+- Do I need help now?
+- Who is a trusted adult I can talk to?
+- What should I avoid doing until I get help?
+
+If a learner discloses harm, danger, abuse, neglect, self-harm, or a serious safety concern, follow local safeguarding and reporting procedures right away.
+
 ---
 
 ## Guided Session 1

@@ -104,6 +104,31 @@ The learner can say that gut and brain communication goes both ways.
 - Emphasize that strong curiosity and honest uncertainty can exist together.
 :::
 
+## Ages 11-13 Optional Extension
+
+This extension is designed for ages 11-13 or for especially interested learners using close adult guidance. It is not part of the baseline expectations for every 8-year-old.
+
+- Keep the focus on science understanding, not on trying products.
+- Skip or shorten the lesson if it starts to feel like wellness advice.
+- Detailed diagnosis, treatment, or supplement decisions stay out of scope.
+
+## Health Influence Behind the Message
+
+Some gut-brain messages may include sponsored posts, probiotic ads, edited images, AI-written summaries, or "miracle gut fix" claims. That does not automatically make them false, but it does mean learners should slow down and check carefully.
+
+- Who made or paid for this?
+- Is it connected to a product, influencer, affiliate link, or creator code?
+- Does another trusted source say the same thing?
+- What evidence is shown, and what might be missing?
+- Who should I ask before acting?
+
+## Medicine and Product Safety
+
+- Never take probiotics, supplements, powders, or remedies without a trusted adult.
+- Never share medicine or products.
+- Ask before trusting gut-health products, apps, powders, or drinks.
+- Serious digestive or mental health questions belong with trusted adults and qualified professionals.
+
 ---
 
 ## Guided Session 1

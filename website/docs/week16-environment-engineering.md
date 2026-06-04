@@ -44,6 +44,7 @@ Some parts of a learner's space or schedule belong to family routines, school ru
 - Keep one tiny change as the default, not a big redesign.
 - Under my control / not under my control should be a core activity.
 - If nothing should change, that is a valid outcome.
+- Use the [Health Literacy Project Rubric](./capstone-rubric.md) if the learner is planning a public share-out, source use, or accessibility choice.
 :::
 
 :::tip Quick Navigation
@@ -95,6 +96,37 @@ The learner can name one thing that helps and one thing that makes the project h
 - Ask how outside factors can shape what the learner notices.
 - Keep the change small enough to be realistic.
 :::
+
+## Different Bodies, Different Needs
+
+Project spaces are different. Some learners work in quiet rooms, shared housing, busy classrooms, public libraries, after-school spaces, or on shared devices. A good plan fits the learner's real context.
+
+- Different learners may need visual supports, timers, headphones, partner help, AAC, translation, larger print, or mobility supports.
+- Some helpful changes cost money or need adult approval, and that is okay to name.
+- No learner has to redesign family routines to do this project well.
+
+## Health Activity Safety
+
+- Keep changes tiny, realistic, and safe.
+- Do not change medicine, supplements, food access, sleep length, or family rules for the project unless a caregiver clearly approves, and even then it is optional.
+- Low-movement, seated, visual, verbal, and observation-only plans all count.
+
+## Digital Wellness Check
+
+If the project uses apps, timers, shared devices, or online examples, learners can ask:
+
+- Is this tool helping me notice, or just taking my attention?
+- Does it protect privacy, or does it share more than I want?
+- Is the message around it trying to sell, rush, compare, or pressure me?
+- Do I need another tool, a break, or a trusted adult?
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone.
+
+- Is this change bigger than I can decide on my own?
+- Do I need caregiver approval or another helper?
+- What should I avoid changing until I get help?
 
 ---
 

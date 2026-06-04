@@ -101,6 +101,42 @@ The learner can name one or two jobs the body does during sleep.
 - Explain memory librarian as a kid-friendly version of memory consolidation.
 :::
 
+## Different Bodies, Different Needs
+
+Bodies are different, and sleep is shaped by housing, noise, caregiving, stress, disability, health needs, shared rooms, work schedules, culture, and community routines. Health is not about having one perfect bedtime or one perfect sleep pattern.
+
+- Private or fictional tracking are both valid.
+- Some learners may use sensory tools, routines, devices, visual supports, or flexible sleep spaces.
+- This lesson studies support and maintenance, not sleep performance.
+
+## Health Activity Safety
+
+- Do not stay up later, wake up early, or reduce sleep for science.
+- Keep the tracker low-pressure, private, and easy to skip.
+- Drawing, oral answers, AAC, partner talk, or fictional characters all count.
+
+## Digital Wellness Check
+
+Digital spaces can affect sleep, focus, feelings, and choices. Learners can ask:
+
+- How does this content or screen habit make me feel?
+- Is it trying to keep my attention or make me act quickly?
+- Is it edited, filtered, staged, sponsored, or AI-generated?
+- Do I need a break, another source, or a trusted adult?
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone.
+
+- Is this about scary sleep trouble, pain, breathing concerns, overwhelming feelings, or something that feels urgent?
+- Do I need help now?
+- Who is a trusted adult I can talk to?
+- What should I avoid doing until I get help?
+
+## Ages 11-13 Optional Extension
+
+Older or especially interested learners can compare sleep science vocabulary, app claims, digital routines, and media messages about sleep. Keep this optional, adult-guided, and out of the core expectations for younger learners.
+
 ---
 
 ## Guided Session 1

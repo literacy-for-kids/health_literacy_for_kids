@@ -98,6 +98,39 @@ The learner can take one resting measurement and say whether it got faster or sl
 - If useful, graph the calming-down pattern after movement.
 :::
 
+## Different Bodies, Different Needs
+
+Bodies are different. Starting numbers, calming-down patterns, and movement choices vary from person to person. Higher or lower numbers do not mean better or worse bodies.
+
+- Offer seated, observer, partner, AAC, drawing, or oral-response options.
+- Keep all data private unless the learner chooses to share.
+- The goal is noticing a clue, not proving fitness or toughness.
+
+## Health Activity Safety
+
+- Choose gentle movement or skip the movement part completely.
+- Do not compare numbers between learners.
+- Stop and get an adult if there is chest pain, trouble breathing, dizziness, fainting, or pain.
+
+> When we learn about health, we stay safe, respect privacy, and ask trusted adults for serious questions.
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone. A trusted adult or qualified helper can support safe decisions.
+
+- Is this private, serious, confusing, painful, scary, or urgent?
+- Do I need help now?
+- Who is a trusted adult I can talk to?
+- What should I avoid doing until I get help?
+
+Examples for this week: a friend feels dizzy during recess, a learner has trouble breathing after movement, or a body clue feels scary instead of ordinary.
+
+For emergencies, learners should follow local emergency rules and get an adult immediately. This curriculum does not teach emergency medicine.
+
+## Ages 11-13 Optional Extension
+
+Older or especially interested learners can compare a simple heart-rate graph with a breathing pattern or recovery drawing. Keep this observation-only and adult-guided. Detailed medical interpretation stays out of scope.
+
 ---
 
 ## Guided Session 1

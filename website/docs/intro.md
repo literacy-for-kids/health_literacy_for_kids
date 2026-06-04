@@ -21,6 +21,10 @@ The student-facing notebook in this curriculum is called the **Body Clues Notebo
 :::tip Use This Page
 - Start with [The Big Idea](#the-big-idea) for the course philosophy.
 - Read [How to Use This Curriculum](#how-to-use-this-curriculum) for setup and pacing guidance.
+- Use [Learning Outcomes](./outcomes.md) for age-banded goals, checkpoints, and final project expectations.
+- Use [Standards and Framework Connections](./standards-framework-connections.md) for framework-level planning links.
+- Use [Health Checkpoint](./health-checkpoint.md) for the repeatable source-checking and help-seeking routine.
+- Use [Caregiver and Facilitator Guidance](./caregiver-and-facilitator-guidance.md) for privacy-safe and medically safe teaching moves.
 - Review [The Five Core Mental Models](#the-five-core-mental-models) to see the ideas that thread through every lesson.
 - Skim [Course at a Glance](#course-at-a-glance) for the full program structure.
 - Read [What This Is Not](#what-this-is-not) before you begin.
@@ -80,6 +84,8 @@ This is important.
 - **This is not a data-sharing requirement.** Personal body data belongs to the learner. Food, sleep, illness, mood, and body-measurement notes never have to be shared publicly.
 
 For standing safety rules, privacy expectations, and pause-and-refer guidance, use the [Facilitator Safety Guide](./facilitator-safety-guide.md).
+
+Advanced topics such as puberty, eating disorders, substance use, sexual health, self-harm, trauma, diagnosis, treatment, weight loss, medication decisions, mental illness, and detailed emergency response are not baseline expectations for the ages 8-12 core path. If they come up, keep them adult-guided, optional, privacy-safe, and brief.
 
 ---
 
@@ -160,6 +166,45 @@ Most activities use paper, pencils, timers, simple household objects, and option
 - **Ages 8-9:** keep ideas concrete, visual, and short. Drawings, oral answers, and roleplay count.
 - **Ages 10-12:** add the technical names, deeper science, and optional data displays when useful.
 
+## Age-Banded Health Literacy Learning Goals
+
+### Ages 8-9: Guided foundation
+
+Learners should be able to:
+
+- describe health as taking care of the body, mind, relationships, and environment with adult support
+- name simple body signals such as tired, hungry, thirsty, sick, worried, hurt, overwhelmed, or needing a break
+- identify trusted adults who can help with health and safety questions
+- describe common routines such as sleep, handwashing, drinking water, movement, rest, and asking for help
+- notice when a health message, ad, video, or product is trying to get attention
+- ask simple questions such as "Who made this?", "What is it telling me to do?", and "Should I ask a trusted adult?"
+- use fictional or general examples instead of private health information
+
+### Ages 10-12: Core path
+
+Learners should be able to:
+
+- explain that health includes physical, mental, social, and environmental factors
+- compare health information from different sources and identify which sources are more trustworthy
+- separate health facts, claims, opinions, feelings, ads, and advice
+- recognize health advertising, influencer claims, before or after images, product promises, and sponsorships
+- explain why different bodies, families, cultures, abilities, and communities may need different health routines
+- identify when a situation needs a trusted adult, school nurse, doctor, emergency service, or other qualified helper
+- set a realistic health or wellness goal focused on habits, support, or environment rather than body size or appearance
+- create an honest health message or project using evidence, attribution, and accessibility
+
+### Ages 11-13: Optional extension
+
+Learners may also:
+
+- analyze more complex health information involving nutrition labels, sleep science, mental health, fitness claims, medications, public health, digital wellness, body image, or healthcare systems
+- evaluate health messages, ads, influencer content, product reviews, supplement claims, symptom-checker results, or AI-generated health advice
+- compare health choices using evidence, personal needs, access, culture, safety, and trusted adult or professional guidance
+- discuss how stress, sleep, relationships, movement, food access, disability, environment, and digital spaces can affect health
+- build a more detailed final project with audience, evidence, source quality, accessibility, attribution, AI-use transparency, and revision
+
+For a fuller version of these outcomes, use [Learning Outcomes](./outcomes.md).
+
 ### Flexibility Is Expected
 
 This is a guide, not a script.
@@ -173,6 +218,64 @@ Slow down when curiosity is high.
 Simplify when pressure is rising.
 
 Just notice.
+
+---
+
+## Choosing Health Examples
+
+Rotate examples across home, school, library, community, online, and public health settings. Health literacy is not only about doctors, food, exercise, or illness. It also applies to sleep, stress, friendship, safety, movement, hygiene, media, advertising, labels, trusted adults, public information, and everyday routines.
+
+Useful examples include:
+
+- fictional character health questions
+- school nurse notes
+- handwashing posters
+- water fountains and refill stations
+- playground safety signs
+- weather and heat alerts
+- air quality alerts
+- sunscreen or hydration reminders
+- lunch menus
+- fictional food labels
+- sleep routine cards
+- movement choice cards
+- medication safety reminders
+- public library health displays
+- community health flyers
+- dental care posters
+- allergy notices
+- asthma action plan examples without personal details
+- public health posters
+- emergency alert examples
+- online health videos
+- fitness influencer posts
+- supplement or product ads
+- fake before or after images
+- app store wellness app descriptions
+- age-appropriate digital wellness scenarios
+
+Facilitator reminder:
+
+When possible, choose examples that reflect different kinds of learners and communities: rural, suburban, urban, multilingual, multigenerational, disabled, neurodivergent, chronically ill, athletic, non-athletic, homeschooled, school-based, guardian-led, foster, blended, single-parent, low-access, high-access, and culturally diverse families.
+
+---
+
+## Health Activity Safety
+
+- Do not taste, eat, drink, smell, apply, or handle unfamiliar substances during lessons.
+- Do not share personal medications, supplements, medical devices, diagnoses, or private health routines.
+- Do not practice first aid procedures beyond age-appropriate discussion unless supervised by trained adults.
+- Do not use real medical emergencies as role-play unless approved by the facilitator and handled sensitively.
+- Do not require physical activities that exclude or shame learners.
+- Offer seated, low-movement, visual, verbal, drawing, or partner-based alternatives.
+- Avoid competitions based on speed, strength, flexibility, body size, food choices, or stamina.
+- Account for allergies, sensory needs, mobility needs, asthma, fatigue, anxiety, and disability.
+- Use fictional labels or packaging examples when possible.
+- Remind learners to ask a trusted adult before taking medicine, changing health routines, trying supplements, following online health advice, or responding to symptoms.
+
+Child-facing reminder:
+
+> When we learn about health, we stay safe, respect privacy, and ask trusted adults for serious questions.
 
 ---
 
@@ -216,6 +319,12 @@ Most weeks use:
 Keep these nearby:
 
 - [Curriculum Map](./curriculum-map.md)
+- [Learning Outcomes](./outcomes.md)
+- [Standards and Framework Connections](./standards-framework-connections.md)
+- [Health Checkpoint](./health-checkpoint.md)
+- [Assessment Checkpoints](./assessment-checkpoints.md)
+- [Learner Self-Assessment](./self-assessment.md)
+- [Caregiver and Facilitator Guidance](./caregiver-and-facilitator-guidance.md)
 - [Printable Templates](./printable-templates.md)
 - [Facilitator Response Bank](./facilitator-response-bank.md)
 - [Science Confidence and Metaphor Guide](./science-confidence-and-metaphors.md)

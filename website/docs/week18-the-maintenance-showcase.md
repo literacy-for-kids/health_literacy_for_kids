@@ -52,6 +52,7 @@ All of those are real choices.
 - Use kid-friendly formats first: 3-minute talk, drawing, poster, comic strip, private letter, one-on-one conversation.
 - Repeat that no change is a real finding.
 - Keep "What I'd Try Next Time" optional and gentle.
+- Use the [Health Literacy Project Rubric](./capstone-rubric.md), [Learner Self-Assessment](./self-assessment.md), and [Printable Templates](./printable-templates.md) to support the final share-out.
 :::
 
 :::tip Quick Navigation
@@ -105,6 +106,66 @@ The learner can name one thing they understand better now.
 - Use Version 2 Plan only if it feels helpful, not competitive.
 - Keep privacy and optional sharing fully intact.
 :::
+
+## Different Bodies, Different Needs
+
+Final projects can honor different bodies, families, cultures, abilities, schedules, and access situations. A strong share-out does not need to sound the same for every learner.
+
+- Drawing, posters, private letters, partner talk, AAC-supported presentations, one-on-one conversations, captions, larger print, and multilingual supports all count.
+- Learners do not have to share private body data, diagnoses, medication details, or family routines.
+- A public, fictional, classroom, library, or community example can be safer than a personal story.
+
+## Digital Wellness Check
+
+If a learner shares a project digitally or uses online examples, they can ask:
+
+- How does this content make me feel?
+- Is it asking me to compare my body, routine, food, sleep, skin, or life to someone else?
+- Is it edited, filtered, staged, sponsored, or AI-generated?
+- Is it trying to keep attention, sell something, or rush a decision?
+- What would be a kind and safe response to myself and others?
+
+## Health Checkpoint
+
+Before sharing or presenting, learners can return to the [Health Checkpoint](./health-checkpoint.md):
+
+- Who made this information, and where did it come from?
+- What facts, claims, opinions, feelings, ads, or advice are included?
+- What evidence or source is shown?
+- What might be missing?
+- Who should I ask before someone trusts, shares, or acts on this?
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone.
+
+- Is this question private, serious, confusing, painful, scary, or urgent?
+- Do I need help now?
+- Who is a trusted adult or qualified helper for this question?
+- What should I avoid doing until I get help?
+
+Examples for this week: an audience question starts sounding like diagnosis, a learner feels overwhelmed about sharing, or someone wants to pressure a classmate to reveal private health details.
+
+## Honest Health Literacy Project Checklist
+
+Before presenting or sharing, check:
+
+- I clearly described the health topic, question, routine, safety issue, message, or community need.
+- I explained who my audience is.
+- I stated what I want my audience to understand, consider, or do.
+- I separated facts, opinions, feelings, claims, advice, ads, and questions.
+- I used reliable evidence, examples, observations, or sources to support my claims.
+- I explained when someone should ask a trusted adult or qualified helper.
+- I avoided diagnosing, treating, prescribing, shaming, scaring, exaggerating, or hiding important context.
+- I used body-neutral and access-aware language.
+- I considered more than one perspective, body, family, culture, ability, or access situation.
+- I gave credit for outside facts, images, quotes, ideas, data, sources, or AI help.
+- I made my presentation readable and accessible for my audience.
+- I can answer questions respectfully and revise my idea if needed.
+
+## Ages 11-13 Optional Extension
+
+Older or especially interested learners can add a more detailed audience plan, stronger source comparison, accessibility choices, attribution notes, AI-use transparency, and revision reflection. Keep this optional and supportive rather than performance-based.
 
 ---
 
@@ -221,6 +282,8 @@ The learner can make:
 - a private letter
 - a one-on-one explanation
 - a mostly private notebook page
+
+If the learner used outside facts, images, data, quotes, ideas, or AI help, add a credit line using [Printable Templates](./printable-templates.md) or [Health Literacy Project Rubric](./capstone-rubric.md).
 
 **2. Reflection Choice**
 

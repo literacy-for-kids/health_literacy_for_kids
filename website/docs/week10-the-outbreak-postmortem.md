@@ -90,6 +90,37 @@ The learner can tell the story in order: something got in, the body responded, t
 - Explain that good science can include uncertainty instead of pretending to know more than we do.
 :::
 
+## Different Bodies, Different Needs
+
+Illness stories can differ because bodies, supports, disability, housing, schedules, chronic illness, and healthcare access differ. Learners do not need to share private health information to practice sequencing and uncertainty.
+
+- Fictional, anonymized, and family-approved stories all count.
+- The goal is careful thinking, not proving whose story is most dramatic.
+- Respect that some learners may not want to discuss illness at all.
+
+## Health Checkpoint
+
+When learners hear a symptom story, AI summary, rumor, or product claim, they can ask:
+
+- Who made this?
+- What is known, guessed, or still uncertain?
+- Is this information, advice, advertising, opinion, or medical care?
+- What might be missing?
+- Who should I check with before I trust, share, or act on it?
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone.
+
+- Is this story turning into a real private health question?
+- Is the situation serious, confusing, painful, scary, or urgent?
+- Who is a trusted adult or qualified helper for this question?
+- What is one safe next step?
+
+Examples for this week: a learner is unsure what is real in a symptom story, someone wants to diagnose a classmate, or a message online sounds frightening and urgent.
+
+For emergencies, learners should follow local emergency rules and get an adult immediately. This curriculum does not teach emergency medicine.
+
 ---
 
 ## Guided Session 1

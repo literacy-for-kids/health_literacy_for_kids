@@ -283,6 +283,109 @@ Reminder:
 No change is a real finding.
 ```
 
+## 13. Quick Health Check Card
+
+Short instructions: Use with any poster, label, app, ad, video, or health message.
+
+Drawing option: add icons for who made it, what it wants, and who to ask.
+
+Emoji option: use emoji clues for help, sell, entertain, or scare.
+
+Oral option: ask the questions out loud and circle the answers together.
+
+```text
+QUICK HEALTH CHECK
+
+Who made this? ____________________
+What is it telling me to do or believe? ____________________
+Is it trying to help, sell, entertain, or scare? ____________________
+Should I ask a trusted adult? ____________________
+What is one safe next step? ____________________
+```
+
+## 14. Ask for Help Map
+
+Short instructions: Use when a health or safety question feels private, serious, confusing, or urgent.
+
+Drawing option: draw a helper web or support circle.
+
+Emoji option: use symbols for home, school, clinic, library, or emergency help.
+
+Oral option: point to helpers and explain what each one helps with.
+
+```text
+ASK FOR HELP MAP
+
+My question feels:
+private / serious / confusing / painful / scary / urgent
+
+Who is a trusted adult I can talk to?
+_______________________________________
+
+Which helper fits this question best?
+caregiver / teacher / school nurse / doctor / dentist / counselor / pharmacist / coach / emergency helper
+
+What should I avoid doing until I get help?
+_______________________________________
+
+What is one safe next step?
+_______________________________________
+```
+
+## 15. Honest Health Literacy Project Checklist
+
+Short instructions: Use during Weeks 15-18 before presenting or sharing.
+
+Drawing option: turn each checkpoint into a small icon.
+
+Emoji option: use a check, question mark, or star next to each line.
+
+Oral option: review the list with a partner or facilitator.
+
+```text
+HONEST HEALTH LITERACY PROJECT CHECKLIST
+
+[ ] I clearly described the health topic, question, routine, safety issue, message, or community need.
+[ ] I explained who my audience is.
+[ ] I said what I want my audience to understand, consider, or do.
+[ ] I separated facts, opinions, feelings, claims, advice, ads, and questions.
+[ ] I used reliable evidence, examples, observations, or sources.
+[ ] I explained when to ask a trusted adult or qualified helper.
+[ ] I used body-neutral and access-aware language.
+[ ] I gave credit for outside facts, images, quotes, ideas, data, sources, or AI help.
+[ ] I made my project readable and accessible for my audience.
+[ ] I am ready to revise if I learn something new.
+```
+
+## 16. Credits and AI Help Box
+
+Short instructions: Use with posters, slides, comics, or share-outs.
+
+Drawing option: add small source icons or speech bubbles.
+
+Emoji option: use a book, picture, computer, or helper symbol.
+
+Oral option: say the credits out loud and let a facilitator write them down.
+
+```text
+CREDITS AND AI HELP BOX
+
+Facts or ideas I used from somewhere else:
+_______________________________________
+
+Images, charts, or quotes I used:
+_______________________________________
+
+Did AI help me brainstorm, draft, edit, or organize?
+yes / no
+
+If yes, how did it help?
+_______________________________________
+
+What did I check after using it?
+_______________________________________
+```
+
 ---
 
 ## Template Use Tips
@@ -293,5 +396,6 @@ No change is a real finding.
 - Emoji scales count.
 - Private pages count.
 - Pretend examples count.
+- AAC, gestures, partner talk, translation, and assistive tools count.
 
 The templates are there to support curiosity, not to create pressure.

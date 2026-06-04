@@ -102,6 +102,43 @@ The learner can name at least three stops on the journey.
 - If using a food label, say clearly: "Calories measure energy, not worth."
 :::
 
+## Different Bodies, Different Needs
+
+Bodies are different. Foods can give bodies energy, nutrients, comfort, culture, and connection. Different families, communities, budgets, schedules, allergies, and food access situations shape what examples make sense.
+
+- Use drawn, fictional, or adult-provided foods when that makes the lesson easier or safer.
+- Digestion can vary, and learners do not need to defend or explain family food routines.
+- This lesson studies food jobs, not whether a meal is morally good or bad.
+
+## Health Activity Safety
+
+- Do not taste, eat, drink, smell, apply, or handle unfamiliar substances during the lesson.
+- Use fictional labels or drawings when possible.
+- Do not compare lunches or ask learners to share private meal details.
+
+> When we learn about health, we stay safe, respect privacy, and ask trusted adults for serious questions.
+
+## Quick Health Check
+
+If a learner sees a food label, product page, ad, or video, ask:
+
+- Who made this?
+- What is it trying to tell me to do or believe?
+- Is it helping, selling, entertaining, or trying to scare me?
+- Should I ask a trusted adult?
+- What is one safe next step?
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone. A trusted adult or qualified helper can support safe decisions.
+
+- Is this about choking, an allergy, pain, or a scary reaction?
+- Is this private, serious, confusing, or urgent?
+- Who should I ask before I trust or try advice about food or health?
+- What should I avoid doing until I get help?
+
+For emergencies, learners should follow local emergency rules and get an adult immediately. This curriculum does not teach emergency medicine.
+
 ---
 
 ## Guided Session 1

@@ -96,6 +96,37 @@ The learner can describe one or two jobs the helpers might do.
 - Mention serotonin or short-chain fatty acids only if the learner wants a technical add-on.
 :::
 
+## Different Bodies, Different Needs
+
+Bodies are different, and helper communities differ too. Food access, medicine use, disability, illness, culture, environment, age, and many other factors can shape what examples make sense.
+
+- Learners do not need to share digestive issues, diagnoses, or private routines.
+- Fictional and general examples are enough.
+- Keep the lesson on systems thinking, not on fixing a body.
+
+## Medicine and Product Safety
+
+Medicine and products can help in some situations, but learners should not guess, share, or experiment because a post or product ad says to.
+
+- Never take probiotics, supplements, powders, drinks, or remedies without a trusted adult.
+- Never share medicine or take someone else's medicine.
+- Ask before trusting product claims about the gut, mood, immunity, energy, or focus.
+- Tell an adult if a product causes pain, rash, dizziness, trouble breathing, or another scary reaction.
+
+## Health Influence Behind the Message
+
+A gut-health message can be interesting and still be shaped by money, sponsorship, popularity, fear, or a product goal. The better question is: what might shape this message, and what should I check before I trust it?
+
+- Who made or paid for this?
+- Is it connected to a probiotic, supplement, app, influencer, sponsor, affiliate link, or creator code?
+- What evidence would help me judge it fairly?
+- What might be missing?
+- Who should I ask before acting?
+
+## Ages 11-13 Optional Extension
+
+Older or especially interested learners can examine more complex gut-brain claims, product reviews, and research summaries. Keep this optional, adult-guided, and separate from any pressure to buy, take, or change something.
+
 ---
 
 ## Guided Session 1

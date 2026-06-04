@@ -100,6 +100,32 @@ The learner can notice one change before and after a small movement.
 - Keep the explanation connected to rest and support, not only effort.
 :::
 
+## Different Bodies, Different Needs
+
+Bodies are different. Movement can include walking, stretching, wheelchair sports, therapy exercises, chores, dancing, play, standing, writing, lifting, or rest when needed. Health is not about one perfect fitness level or one perfect type of movement.
+
+- Do not rank bodies, strength, speed, stamina, or appearance.
+- Rest, recovery, braces, mobility devices, assistive supports, and therapy exercises all count.
+- Goals should stay small, realistic, and body-neutral.
+
+## Health Activity Safety
+
+- Offer seated, standing, low-movement, partner, drawing, or observation-only choices.
+- Avoid competitions based on speed, strength, flexibility, body size, or stamina.
+- Stop for sharp pain, joint pain, dizziness, or anything that feels unsafe.
+- Persistent pain means stop and tell an adult.
+
+## Ask for Help
+
+Health questions can be important. Learners do not have to figure everything out alone.
+
+- Is this movement clue painful, scary, or confusing?
+- Do I need help now?
+- Who is a trusted adult I can talk to?
+- What should I avoid doing until I get help?
+
+Examples for this week: a friend gets hurt, movement causes pain, or a learner is pressured to push through a body clue.
+
 ---
 
 ## Guided Session 1
