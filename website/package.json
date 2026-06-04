@@ -7,12 +7,11 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
-    "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "dev": "docusaurus start",
+    "validate:build": "node scripts/validate-build.mjs",
+    "check": "npm run build && npm run validate:build"
   },
   "dependencies": {
     "@docusaurus/core": "^3.9.2",
@@ -43,5 +42,26 @@
   },
   "engines": {
     "node": ">=20.0"
+  },
+  "description": "Health systems literacy curriculum for ages 8–12 — the body, homeostasis, sleep, immunity, and microbiome",
+  "homepage": "https://literacy-for-kids.github.io/health_literacy_for_kids/",
+  "keywords": [
+    "education",
+    "k-12",
+    "curriculum",
+    "open-source-education",
+    "homeschool",
+    "health-literacy",
+    "biology",
+    "physiology",
+    "wellness",
+    "docusaurus"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/literacy-for-kids/health_literacy_for_kids.git"
+  },
+  "bugs": {
+    "url": "https://github.com/literacy-for-kids/health_literacy_for_kids/issues"
   }
 }

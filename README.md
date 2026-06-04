@@ -1,3 +1,5 @@
+# Health Systems Literacy for Kids
+
 ![Content License](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-green)
 ![Code License](https://img.shields.io/badge/code-MIT-blue)
 ![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
@@ -6,7 +8,8 @@
 🌐 **View the curriculum website:**  
 https://literacy-for-kids.github.io/health_literacy_for_kids/
 
-# health_literacy_for_kids
+## Core Concepts
+
 These mental models transition students from blindly following health rules to actively managing their physiological operating system.
 
 - **Homeostasis is a Control Loop:** The body is constantly running sensor-actuator loops to maintain a stable internal environment. Sweating, shivering, and hunger are not just feelings; they are system alerts triggered when variables like temperature or blood sugar drift outside acceptable tolerances.
