@@ -10,6 +10,7 @@ const currentSiteHref = 'https://literacy-for-kids.github.io/health_literacy_for
 const sidebars = {
   curriculumSidebar: [
     'intro',
+    'coping-skills',
     {
       type: 'category',
       label: 'The Control Loops',

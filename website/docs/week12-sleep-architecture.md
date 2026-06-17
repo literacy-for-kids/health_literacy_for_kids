@@ -18,6 +18,10 @@ When a person sleeps, different teams can help with cleanup, repair, and memory 
 - Track sleep in a very simple, private way if desired.
 :::
 
+:::tip Coping Skill Moment
+When you are short on sleep, every feeling gets bigger and thinking gets harder — that is the body, not a flaw in you. If a hard moment lands on a tired day, be extra gentle with yourself, use a quiet reset, and remember that rest is part of coping. (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
+:::
+
 :::info Kid Version
 Sleep is not just "nothing happening."
 

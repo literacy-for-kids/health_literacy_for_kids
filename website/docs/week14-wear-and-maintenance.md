@@ -18,6 +18,10 @@ Bodies pay attention to what gets used, what gets practiced, what gets supported
 - Remember that movement looks different for different bodies.
 :::
 
+:::tip Coping Skill Moment
+Movement is a reset tool, not just exercise. When you feel stuck, frustrated, or wound up, a short walk, a stretch, or shaking out your hands gives your body new information and can make thinking easier. (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
+:::
+
 :::info Kid Version
 Your body pays attention to what you practice and what you use.
 

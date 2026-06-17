@@ -18,6 +18,10 @@ It notices. It compares. It responds. It keeps trying to keep things steady insi
 - Start a private Body Clues Notebook.
 :::
 
+:::tip Coping Skill Moment
+Stress and big feelings are body clues too. Before deciding what is "wrong," check the simple variables: *Am I tired, hungry, thirsty, too hot, too cold, or needing to move?* Sometimes the first useful step is body maintenance. (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
+:::
+
 :::info Kid Version
 Your body has a built-in autopilot.
 

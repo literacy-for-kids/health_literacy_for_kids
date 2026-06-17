@@ -18,6 +18,10 @@ The learner does not need to count, judge, or improve food. The learner studies 
 - Build a comic strip of the food journey.
 :::
 
+:::tip Coping Skill Moment
+A lot of "bad moods" are really hunger. When a feeling seems bigger than the situation, try a snack or some water first, then check again. Fueling the body is one of the most reliable coping tools there is. (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
+:::
+
 :::info Kid Version
 Think of the body as a busy **food workshop**.
 

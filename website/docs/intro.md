@@ -24,6 +24,7 @@ The student-facing notebook in this curriculum is called the **Body Clues Notebo
 - Use [Learning Outcomes](./outcomes.md) for age-banded goals, checkpoints, and final project expectations.
 - Use [Standards and Framework Connections](./standards-framework-connections.md) for framework-level planning links.
 - Use [Health Checkpoint](./health-checkpoint.md) for the repeatable source-checking and help-seeking routine.
+- See [Coping Skills and Body Clues](./coping-skills.md) for how stress shows up in the body and simple reset tools that make thinking easier.
 - Use [Caregiver and Facilitator Guidance](./caregiver-and-facilitator-guidance.md) for privacy-safe and medically safe teaching moves.
 - Review [The Five Core Mental Models](#the-five-core-mental-models) to see the ideas that thread through every lesson.
 - Skim [Course at a Glance](#course-at-a-glance) for the full program structure.

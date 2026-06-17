@@ -18,6 +18,10 @@ The acute stress response is a real protective feature. The problem is not that 
 - Keep personal stress stories optional or fictional.
 :::
 
+:::tip Coping Skill Moment
+Alert mode is a real protective feature — the goal is not to never feel it, but to help the body recover afterward. A slow exhale, grounding through your senses, or a quiet rest are ways to signal "we can settle now." (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
+:::
+
 :::info Kid Version
 The body has an alert mode.
 
