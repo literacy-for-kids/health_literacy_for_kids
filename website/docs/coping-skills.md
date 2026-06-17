@@ -20,7 +20,17 @@ When you feel worried, frustrated, or overwhelmed, your body often sends clues f
 
 Here's a quietly powerful idea: a lot of "bad moods" are really **maintenance problems.** Sleep, hunger, movement, hydration, breathing, and rest all change how easy it is to think clearly. When your system is low on fuel or sleep, everything feels bigger and harder — and that is not a sign that something is wrong with *you.* It's a sign your body needs a little maintenance.
 
-Taking care of those basics is one of the most reliable coping skills there is.
+Not every hard feeling is caused by hunger, sleep, thirst, or movement — but checking the basics is often a useful first step. Taking care of those basics is one of the most reliable coping skills there is.
+
+## When this shows up
+
+These tools come in handy in everyday body-and-mood moments:
+
+- When your body feels off but you do not know why
+- When tiredness makes everything feel bigger
+- When hunger, thirst, noise, or stillness is changing your mood
+- When you need a body reset before you can think
+- When tracking body clues feels too private
 
 ## A few low-risk reset tools
 
