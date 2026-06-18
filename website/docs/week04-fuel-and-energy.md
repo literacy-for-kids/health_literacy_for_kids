@@ -26,6 +26,10 @@ A lot of "bad moods" are really hunger. When a feeling seems bigger than the sit
 If your body needs fuel, rest, or water, asking for it clearly is a health skill: "Can I get a snack?" or "I need a water break." A clear request is easier to say — and easier to grant — than hoping someone notices you're running low. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+If your energy dips, look for a pattern instead of guessing: when does it happen, and what came before it? A pattern turns a vague "I feel tired" into a useful question you can actually test. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 :::info Kid Version
 Think of the body as a busy **food workshop**.
 

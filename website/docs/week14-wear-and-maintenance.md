@@ -26,6 +26,10 @@ Movement is a reset tool, not just exercise. When you feel stuck, frustrated, or
 Maintenance means noticing what changed and saying so. Describe it clearly: "My knee started hurting after recess" or "This has felt different for a few days." A clear "what changed, and when" report helps a trusted adult know how to help. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+To improve a habit, run one safe test: change a single thing for a few days and notice the result. Small tests teach you more than big resolutions you can't keep. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 :::info Kid Version
 Your body pays attention to what you practice and what you use.
 

@@ -26,6 +26,10 @@ Stress and big feelings are body clues too. Before deciding what is "wrong," che
 Homeostasis is your body sending signals. Putting a signal into words helps an adult help you: "I notice ___" (dizzy, too hot, shaky). Naming the signal clearly is the first step from "something's off" to getting what your body needs. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+A body clue is an observation, not a label. Try: "I notice ___, it started ___, and it changes when ___." Good observations help trusted adults help you. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 :::info Kid Version
 Your body has a built-in autopilot.
 

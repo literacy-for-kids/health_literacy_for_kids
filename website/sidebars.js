@@ -12,6 +12,7 @@ const sidebars = {
     'intro',
     'coping-skills',
     'communication-skills',
+    'problem-solving-skills',
     {
       type: 'category',
       label: 'The Control Loops',
