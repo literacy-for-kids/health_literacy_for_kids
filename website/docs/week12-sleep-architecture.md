@@ -22,6 +22,10 @@ When a person sleeps, different teams can help with cleanup, repair, and memory 
 When you are short on sleep, every feeling gets bigger and thinking gets harder — that is the body, not a flaw in you. If a hard moment lands on a tired day, be extra gentle with yourself, use a quiet reset, and remember that rest is part of coping. (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Being tired is a body state, not something to be ashamed of. You can explain it plainly: "I didn't sleep well, so I'm running slow today." Naming tiredness without shame helps people understand what you need — and is much clearer than just seeming grumpy. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 :::info Kid Version
 Sleep is not just "nothing happening."
 

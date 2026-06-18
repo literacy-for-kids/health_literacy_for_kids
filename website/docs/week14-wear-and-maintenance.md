@@ -22,6 +22,10 @@ Bodies pay attention to what gets used, what gets practiced, what gets supported
 Movement is a reset tool, not just exercise. When you feel stuck, frustrated, or wound up, a short walk, a stretch, or shaking out your hands gives your body new information and can make thinking easier. (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Maintenance means noticing what changed and saying so. Describe it clearly: "My knee started hurting after recess" or "This has felt different for a few days." A clear "what changed, and when" report helps a trusted adult know how to help. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 :::info Kid Version
 Your body pays attention to what you practice and what you use.
 

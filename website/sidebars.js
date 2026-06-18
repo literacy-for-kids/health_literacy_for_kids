@@ -11,6 +11,7 @@ const sidebars = {
   curriculumSidebar: [
     'intro',
     'coping-skills',
+    'communication-skills',
     {
       type: 'category',
       label: 'The Control Loops',

@@ -22,6 +22,10 @@ It notices. It compares. It responds. It keeps trying to keep things steady insi
 Stress and big feelings are body clues too. Before deciding what is "wrong," check the simple variables: *Am I tired, hungry, thirsty, too hot, too cold, or needing to move?* Sometimes the first useful step is body maintenance. (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Homeostasis is your body sending signals. Putting a signal into words helps an adult help you: "I notice ___" (dizzy, too hot, shaky). Naming the signal clearly is the first step from "something's off" to getting what your body needs. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 :::info Kid Version
 Your body has a built-in autopilot.
 
