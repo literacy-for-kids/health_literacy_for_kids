@@ -26,10 +26,6 @@ When you are short on sleep, every feeling gets bigger and thinking gets harder 
 Being tired is a body state, not something to be ashamed of. You can explain it plainly: "I didn't sleep well, so I'm running slow today." Naming tiredness without shame helps people understand what you need — and is much clearer than just seeming grumpy. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Treat a sleep change like a test: try one small adjustment, observe what happened, and adjust. One change at a time tells you what actually helped — and what didn't. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 :::info Kid Version
 Sleep is not just "nothing happening."
 
@@ -309,6 +305,10 @@ Private or fictional tracking are both acceptable.
 ---
 
 ## Pause and Notice
+
+:::tip Problem Solving Moment
+Treat a sleep change like a test: try one small adjustment, observe what happened, and adjust. One change at a time tells you what actually helped — and what didn't. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 :::note What Matters Here
 Ask:

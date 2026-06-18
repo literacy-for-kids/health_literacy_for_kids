@@ -26,10 +26,6 @@ Alert mode is a real protective feature — the goal is not to never feel it, bu
 When you're overwhelmed, asking for help is a health skill. You don't need perfect words — "I need help, but I can't explain it yet" or "I need a minute and a quiet spot" both work. A short, clear ask gets you support faster than trying to push through alone. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Some stress is bigger than an everyday habit fix. If a problem feels too big or unsafe to handle alone, the right next step is to involve a trusted adult — asking for help is part of problem solving, not a failure. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 :::info Kid Version
 The body has an alert mode.
 
@@ -135,6 +131,10 @@ Stress and recovery messages online can mix helpful ideas with pressure, fear, s
 - Do I need a break, a trusted adult, or another source?
 
 ## Ask for Help
+
+:::tip Problem Solving Moment
+Some stress is bigger than an everyday habit fix. If a problem feels too big or unsafe to handle alone, the right next step is to involve a trusted adult — asking for help is part of problem solving, not a failure. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 Health questions can be important. Learners do not have to figure everything out alone.
 
