@@ -10,7 +10,7 @@ slug: /problem-solving-skills
 
 Health systems literacy includes noticing patterns in the body. Problem solving helps kids describe body clues clearly, track simple patterns, test safe habit changes, and ask for help when something is bigger than an everyday habit.
 
-This page is the local doorway into the Literacy for Kids [Problem Solving Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving), connected to the health skills this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Problem Solving Toolkit](https://www.literacy-for-kids.com/docs/toolkits/problem-solving), connected to the health skills this curriculum builds.
 
 ## A few core ideas
 
@@ -46,6 +46,6 @@ These are everyday problem-solving tools, not medical advice. For real health co
 
 The full toolkit has short lessons on naming the problem, sorting facts from guesses, breaking problems into parts, brainstorming options, trying one safe step, observing results, and adjusting:
 
-- [Problem Solving Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving)
+- [Problem Solving Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/problem-solving)
 
-For quick-reference cards, see the hub [Printable Problem Solving Cards](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving/problem-solving-printables).
+For quick-reference cards, see the hub [Printable Problem Solving Cards](https://www.literacy-for-kids.com/docs/toolkits/problem-solving/problem-solving-printables).

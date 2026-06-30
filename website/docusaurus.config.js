@@ -12,8 +12,8 @@ const config = {
   tagline: 'A free, open 18-week curriculum that teaches ages 8–12 how the human body operates as an integrated system of feedback loops',
   favicon: 'img/favicon.ico',
 
-  url: 'https://literacy-for-kids.github.io',
-  baseUrl: '/health_literacy_for_kids/',
+  url: 'https://health.literacy-for-kids.com',
+  baseUrl: '/',
 
   organizationName: 'literacy-for-kids',
   projectName: 'health_literacy_for_kids',

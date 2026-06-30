@@ -10,7 +10,7 @@ slug: /communication-skills
 
 This curriculum is about understanding your body as a system — signals, fuel, sleep, and maintenance. A big part of staying healthy is being able to *describe* what your body is doing, and to ask for help when something feels off. That takes communication.
 
-This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication), connected to the body-systems thinking this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://www.literacy-for-kids.com/docs/toolkits/communication), connected to the body-systems thinking this curriculum builds.
 
 :::note Not medical advice
 This page and this curriculum teach how the body works in a general way — they are **not medical advice**. For a real health concern, talk to a trusted adult or a qualified professional.
@@ -50,4 +50,4 @@ These are everyday communication and self-management tools — not therapy, lega
 
 The full toolkit has short lessons on active listening, clarifying questions, explaining your thinking, disagreeing without attacking, asking for help, using feedback, and repairing misunderstandings:
 
-- [Communication Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication)
+- [Communication Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/communication)

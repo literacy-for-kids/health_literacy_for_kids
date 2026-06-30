@@ -60,7 +60,7 @@ const roadmapSections = [
   },
 ];
 
-const currentSiteHref = 'https://literacy-for-kids.github.io/health_literacy_for_kids/';
+const currentSiteHref = 'https://health.literacy-for-kids.com/';
 
 function FeatureCard({title, description}) {
   return (

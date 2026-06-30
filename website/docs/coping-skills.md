@@ -10,7 +10,7 @@ slug: /coping-skills
 
 This whole curriculum is about reading your body as a system: it notices, compares, and responds to keep you steady. **Stress and big feelings are part of that same system** — and they show up in the body just like hunger, thirst, or tiredness do.
 
-This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills), connected to what you already study here: the body's signals and how to maintain them.
+This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://www.literacy-for-kids.com/docs/toolkits/coping-skills), connected to what you already study here: the body's signals and how to maintain them.
 
 ## Stress is a body signal too
 
@@ -56,4 +56,4 @@ These are everyday coping and self-management tools, not medical advice or a dia
 
 The full toolkit has short lessons on noticing signals, pausing, grounding, breathing, body resets, checking your thoughts, asking for help, and building a personal coping menu:
 
-- [Coping Skills Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills)
+- [Coping Skills Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/coping-skills)

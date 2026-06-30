@@ -6,7 +6,7 @@
 ![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
 
 🌐 **View the curriculum website:**  
-https://literacy-for-kids.github.io/health_literacy_for_kids/
+https://health.literacy-for-kids.com/
 
 ## Core Concepts
 
