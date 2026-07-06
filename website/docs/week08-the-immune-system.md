@@ -288,6 +288,12 @@ Fictional examples are welcome.
 
 ## Check for Understanding
 
+:::tip Learning Moment
+A system with many parts is easier to learn if you draw it from memory, then check what was missing. The missing part is your next practice — or teach one part back to find the fuzzy spot.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
+
 1. Can the learner name at least three parts of the body's security team?
 2. Can the learner explain what antibodies or memory keepers do in kid language?
 3. Can the learner say that body security is not only about attack?

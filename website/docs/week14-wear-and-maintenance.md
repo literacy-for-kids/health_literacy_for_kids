@@ -22,10 +22,6 @@ Bodies pay attention to what gets used, what gets practiced, what gets supported
 Movement is a reset tool, not just exercise. When you feel stuck, frustrated, or wound up, a short walk, a stretch, or shaking out your hands gives your body new information and can make thinking easier. (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Maintenance means noticing what changed and saying so. Describe it clearly: "My knee started hurting after recess" or "This has felt different for a few days." A clear "what changed, and when" report helps a trusted adult know how to help. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 :::info Kid Version
 Your body pays attention to what you practice and what you use.
 
@@ -191,6 +187,10 @@ Label what the body might be noticing.
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Maintenance means noticing what changed and saying so. Describe it clearly: "My knee started hurting after recess" or "This has felt different for a few days." A clear "what changed, and when" report helps a trusted adult know how to help. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Low-Risk Movement Check
 #### Learning Goal
 By the end of this session, the learner can:
@@ -279,6 +279,12 @@ No intense exercise routine is needed.
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+A practice plan works better than "try harder." Pick one tiny maintenance habit, decide when you will do it, and how you will check — a small plan that happens beats a big one that doesn't.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 1. Can the learner explain that the body pays attention to what it practices and uses?
 2. Can the learner describe one before-and-after clue?

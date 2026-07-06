@@ -131,6 +131,12 @@ Health questions can be important. Learners do not have to figure everything out
 ---
 
 ## Guided Session 1
+
+:::tip Collaboration Moment
+Redesigning a shared space is shared work. Name the shared goal, then split visible roles: one person maps the space, one lists changes, one checks the goal, one asks who else is affected.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Map the Space Around the Clue
 #### Learning Goal
 By the end of this session, the learner can:

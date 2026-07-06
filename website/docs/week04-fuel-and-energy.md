@@ -22,10 +22,6 @@ The learner does not need to count, judge, or improve food. The learner studies 
 A lot of "bad moods" are really hunger. When a feeling seems bigger than the situation, try a snack or some water first, then check again. Fueling the body is one of the most reliable coping tools there is. (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-If your body needs fuel, rest, or water, asking for it clearly is a health skill: "Can I get a snack?" or "I need a water break." A clear request is easier to say — and easier to grant — than hoping someone notices you're running low. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 :::info Kid Version
 Think of the body as a busy **food workshop**.
 
@@ -214,6 +210,10 @@ This helps make the invisible sorting step easier to picture.
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+If your body needs fuel, rest, or water, asking for it clearly is a health skill: "Can I get a snack?" or "I need a water break." A clear request is easier to say — and easier to grant — than hoping someone notices you're running low. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### What the Cells Do With It
 #### Learning Goal
 By the end of this session, the learner can:
@@ -307,6 +307,12 @@ Fictional examples are fully allowed.
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Health vocabulary sticks better through remembering practice than rereading. Cover the words, say what each means from memory, then check — and practice the fuzzy ones again.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 1. Can the learner name at least three stops in the food journey?
 2. Can the learner explain that food gets broken into tiny usable pieces?

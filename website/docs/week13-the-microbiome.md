@@ -181,6 +181,12 @@ For younger learners, that sentence alone can be the big idea.
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+The microbiome is a huge crowd, and crowds need categories. Sorting microbes by where they live or what job they do turns "trillions of tiny things" into groups a brain can hold.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### What Jobs Might the Helpers Do?
 #### Learning Goal
 By the end of this session, the learner can:

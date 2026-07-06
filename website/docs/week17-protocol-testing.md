@@ -270,6 +270,12 @@ Missing days are allowed.
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+When testing a routine, use a done-enough check instead of chasing perfect: did I do the tiny step, and what will I adjust next time? Small, repeated tries build the habit.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 1. Can the learner collect clues in a one-minute format?
 2. Can the learner explain that missing data is a clue, not a mistake?
 3. Can the learner name one way to simplify the plan?

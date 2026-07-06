@@ -22,10 +22,6 @@ The acute stress response is a real protective feature. The problem is not that 
 Alert mode is a real protective feature — the goal is not to never feel it, but to help the body recover afterward. A slow exhale, grounding through your senses, or a quiet rest are ways to signal "we can settle now." (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-When you're overwhelmed, asking for help is a health skill. You don't need perfect words — "I need help, but I can't explain it yet" or "I need a minute and a quiet spot" both work. A short, clear ask gets you support faster than trying to push through alone. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 :::info Kid Version
 The body has an alert mode.
 
@@ -199,6 +195,10 @@ Say:
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+When you're overwhelmed, asking for help is a health skill. You don't need perfect words — "I need help, but I can't explain it yet" or "I need a minute and a quiet spot" both work. A short, clear ask gets you support faster than trying to push through alone. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Recovery and the Cost of Staying On
 #### Learning Goal
 By the end of this session, the learner can:

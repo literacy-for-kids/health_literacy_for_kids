@@ -282,6 +282,12 @@ Food examples are optional, private, and never required.
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+An audit is easier with a checklist. List what to look for in order and check each item — that way the audit is organized instead of held in your head.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 1. Can the learner collect one or two clues without pressure?
 2. Can the learner name something that showed up around the clue?
 3. Can the learner explain that patterns are clues, not proof?

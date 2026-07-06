@@ -169,6 +169,12 @@ This week works very well with art.
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+A postmortem is a finish-together move: the group asks what happened and what to change — without hunting for someone to blame. "What did the system miss?" teaches more than "whose fault was it?"
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### What We Know and What We Guess
 #### Learning Goal
 By the end of this session, the learner can:

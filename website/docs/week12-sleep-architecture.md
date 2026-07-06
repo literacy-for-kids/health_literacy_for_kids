@@ -22,10 +22,6 @@ When a person sleeps, different teams can help with cleanup, repair, and memory 
 When you are short on sleep, every feeling gets bigger and thinking gets harder — that is the body, not a flaw in you. If a hard moment lands on a tired day, be extra gentle with yourself, use a quiet reset, and remember that rest is part of coping. (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Being tired is a body state, not something to be ashamed of. You can explain it plainly: "I didn't sleep well, so I'm running slow today." Naming tiredness without shame helps people understand what you need — and is much clearer than just seeming grumpy. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 :::info Kid Version
 Sleep is not just "nothing happening."
 
@@ -205,6 +201,10 @@ Keep these as optional labels, not the main lesson.
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Being tired is a body state, not something to be ashamed of. You can explain it plainly: "I didn't sleep well, so I'm running slow today." Naming tiredness without shame helps people understand what you need — and is much clearer than just seeming grumpy. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Build a Gentle Sleep Tracker
 #### Learning Goal
 By the end of this session, the learner can:
@@ -297,6 +297,12 @@ Private or fictional tracking are both acceptable.
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Habits are learned through repeat practice, not one perfect night. Ask: "What tiny sleep habit am I practicing, and when will I try again?" Small repeats make a habit easier over time.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 1. Can the learner explain that sleep is active body work?
 2. Can the learner name one cleanup, repair, or memory job?

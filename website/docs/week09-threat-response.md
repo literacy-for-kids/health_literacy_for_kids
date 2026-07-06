@@ -192,6 +192,12 @@ Then immediately add:
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+The threat response is a cause-and-effect system. Map it: trigger → alarm → body changes → recovery. Organizing the steps with arrows makes a fast, invisible process slow enough to understand.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### When to Get Adult Help
 #### Learning Goal
 By the end of this session, the learner can:

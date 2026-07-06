@@ -10,9 +10,20 @@ const currentSiteHref = 'https://health.literacy-for-kids.com/';
 const sidebars = {
   curriculumSidebar: [
     'intro',
-    'coping-skills',
-    'communication-skills',
-    'problem-solving-skills',
+    {
+      type: 'category',
+      label: 'Shared Skills',
+      collapsed: true,
+      items: [
+        'coping-skills',
+        'communication-skills',
+        'problem-solving-skills',
+        'learning-how-to-learn',
+        'executive-function',
+        'collaboration-skills',
+        'information-organization',
+      ],
+    },
     {
       type: 'category',
       label: 'The Control Loops',

@@ -176,6 +176,12 @@ Keep the kid words on the page too.
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Food routines are often shared work — planning, preparing, and cleaning up happen with other people. When a group or family plans a meal, visible jobs help: who chooses, who preps, who sets up, who cleans. Shared work beats silent assumptions.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Sort the Cards
 #### Learning Goal
 By the end of this session, the learner can:

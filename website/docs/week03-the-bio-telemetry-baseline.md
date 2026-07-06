@@ -295,6 +295,12 @@ Private data stays private.
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Observations are easier to keep with a simple, private checklist you repeat. Deciding what to note ahead of time means you are not inventing the steps each day.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 1. Can the learner explain what a **starting number / baseline** is?
 2. Can the learner describe how the heart changed after movement?
 3. Can the learner say that the number is a clue, not a score?

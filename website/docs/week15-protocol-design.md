@@ -294,6 +294,12 @@ All project notes may stay private.
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Before designing a health routine, clear the job: what habit am I building, and what does done look like for one day? A clear, small target is easier to start.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 1. Can the learner pick a safe body question?
 2. Can the learner explain what they will notice and when?
 3. Can the learner name at least one thing they will not change?

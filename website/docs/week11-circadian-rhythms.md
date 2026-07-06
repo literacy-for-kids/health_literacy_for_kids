@@ -133,6 +133,12 @@ Older or especially interested learners can compare light cues, screen timing, s
 ---
 
 ## Guided Session 1
+
+:::tip Information Organization Moment
+A daily rhythm is time information, so organize it on a timeline: wake, light, meals, activity, wind-down, sleep. Laying the day out in order makes the rhythm visible — and shows where a change would fit.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Build a Sun and Moon Chart
 #### Learning Goal
 By the end of this session, the learner can:
@@ -278,6 +284,12 @@ Private data stays private.
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+A sleep habit gets easier with a cue and a tiny step. Instead of sleep better, try dim the lights after dinner. A cue helps a routine start without holding it in mind all day.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 1. Can the learner explain what a body clock is in kid language?
 2. Can the learner point to a time of day when they feel more awake or sleepy?

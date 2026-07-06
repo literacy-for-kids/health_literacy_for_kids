@@ -215,6 +215,12 @@ If helpful, ask:
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+A showcase is a chance to finish together. Credit every contribution — including the quiet ones like tracking, checking, and encouraging — and name one thing the group would do differently next time.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Choose How to Share
 #### Learning Goal
 By the end of this session, the learner can:

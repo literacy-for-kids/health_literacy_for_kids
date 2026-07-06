@@ -198,6 +198,12 @@ Stop there unless deeper detail is requested.
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+Glucose and insulin form a chain of causes and effects. Draw it with arrows: eat → glucose rises → insulin responds → cells get fuel. When a body process has steps, an arrow chain shows what a paragraph hides.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Choose an Approved Version
 #### Learning Goal
 By the end of this session, the learner can:

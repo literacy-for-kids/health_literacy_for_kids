@@ -22,10 +22,6 @@ It notices. It compares. It responds. It keeps trying to keep things steady insi
 Stress and big feelings are body clues too. Before deciding what is "wrong," check the simple variables: *Am I tired, hungry, thirsty, too hot, too cold, or needing to move?* Sometimes the first useful step is body maintenance. (More on the [Coping Skills & Body Clues](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Homeostasis is your body sending signals. Putting a signal into words helps an adult help you: "I notice ___" (dizzy, too hot, shaky). Naming the signal clearly is the first step from "something's off" to getting what your body needs. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 :::info Kid Version
 Your body has a built-in autopilot.
 
@@ -255,6 +251,10 @@ Keep those as second-step vocabulary, not the main lesson.
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Homeostasis is your body sending signals. Putting a signal into words helps an adult help you: "I notice ___" (dizzy, too hot, shaky). Naming the signal clearly is the first step from "something's off" to getting what your body needs. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Body Detectors and Body Action Parts
 #### Learning Goal
 By the end of this session, the learner can:
@@ -418,6 +418,12 @@ Choose one:
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Body-system ideas often take more than one visit to stick. Feeling fuzzy after the first pass is normal — come back to the idea briefly later, and the path gets easier to find.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 
