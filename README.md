@@ -5,8 +5,18 @@
 ![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
 ![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
 
-🌐 **View the curriculum website:**  
+An 18-week curriculum for ages 8–12 that teaches how the human body operates as an integrated system of feedback loops — and how to maintain it intentionally.
+
+🌐 **Use the curriculum here:**
 https://health.literacy-for-kids.com/
+
+---
+
+## About the Curriculum
+
+This curriculum treats the body as a system worth understanding rather than a set of rules to obey. Instead of "eat your vegetables because I said so," students learn *why* the system responds the way it does — and how to read its signals.
+
+This is an educational curriculum, **not medical advice** — real health concerns need a trusted adult or qualified professional, and health information can be private.
 
 ## Core Concepts
 
@@ -20,9 +30,9 @@ These mental models transition students from blindly following health rules to a
 
 ---
 
-### The Curriculum Roadmap
+## The Curriculum Roadmap
 
-This 14-week progression moves from baseline operational mechanics to long-term preventative maintenance.
+This 18-week progression moves from baseline operational mechanics to long-term preventative maintenance and a personal-system capstone.
 
 ### Weeks 1–3: The Control Loops
 
@@ -50,15 +60,50 @@ How does the body handle a breach? We look at the primary physical barriers (ski
 **Focus:** Circadian Rhythms, Wear and Tear, and Sleep Architecture
 We pull the concepts together by focusing on long-term hardware survival. We study the mechanics of the circadian rhythm, the role of light exposure in setting the body's internal clock, and the difference between running a system to failure versus executing daily preventative maintenance.
 
-- **Key Activity: The Maintenance Protocol (Sleep Optimization)** — Students design a protocol to optimize their own "downtime." This involves engineering their sleep environment (manipulating ambient temperature, establishing a hard cutoff for blue-light inputs, and standardizing their boot-up sequence in the morning) and measuring the impact on their daily cognitive load.
+- **Key Activity: The Maintenance Protocol (Sleep Optimization)** — Students design a protocol to optimize their own "downtime," engineering their sleep environment and measuring the impact on their daily cognitive load.
 
 ### Weeks 15–18: The Optimization Protocol
 
 **Focus:** Design, Test, and Iterate a Personal Health System
 Students take everything they have learned and design a personal health maintenance system — a protocol covering sleep, fuel, and physical load. They implement it, collect data, and present their findings.
 
+---
+
+## How to Use It
+
+You do not need to run all 18 weeks. Every lesson stands alone as a 10–20 minute discussion or activity — use one lesson, one arc, or the full sequence.
+
+- **New to Literacy for Kids?** The hub's [Start Here guide](https://www.literacy-for-kids.com/docs/start-here/) has dedicated pages [for parents](https://www.literacy-for-kids.com/docs/start-here/parents/) and [for teachers and facilitators](https://www.literacy-for-kids.com/docs/start-here/facilitators/).
+- **Only have 20 minutes?** Pick any week on the [curriculum site](https://health.literacy-for-kids.com/), read the big idea, run one activity, and ask one discussion question.
+- **Want grab-and-go materials?** The [Shared Toolkit Printables](https://www.literacy-for-kids.com/docs/toolkits/printables/) are one-page cards kids can keep nearby.
+
+---
+
+## Shared Skills
+
+This curriculum connects to the seven cross-curriculum [Shared Toolkits](https://www.literacy-for-kids.com/docs/toolkits/) — short life-skill modules that support every literacy: **Coping Skills, Communication, Problem Solving, Learning How to Learn, Executive Function, Collaboration, and Information Organization.**
+
+The curriculum site includes a local doorway page for each toolkit (connecting the skill to body systems and habits specifically), and weekly lessons contain "Moment" callouts that surface the right skill at the right time — like putting a daily rhythm on a timeline, or asking a trusted adult a clear health question.
+
+---
+
+## Part of Literacy for Kids
+
+This is one of **nine domain literacies** in the [Literacy for Kids](https://www.literacy-for-kids.com/) ecosystem — free, open-source curricula covering decisions, computers, media, money, civic life, law, emotions and relationships, the environment, and health. Browse them all from the [hub site](https://www.literacy-for-kids.com/) or the [GitHub organization](https://github.com/literacy-for-kids).
+
+---
+
+## Contributing
+
+Contributions that improve the curriculum are welcome — fixing typos, sharpening explanations, adding examples or activities, or suggesting teaching improvements. Lesson content is plain Markdown under `website/docs/`; fork, edit, and open a pull request. Every page on the live site also has an "Edit this page" link that takes you straight to the file.
+
+---
+
 ## License
 
 This project uses dual licensing:
+
 - Code (JavaScript, CSS, configuration): [MIT License](./LICENSE-CODE)
-- Curriculum content (Markdown under website/docs/): [CC BY-NC-SA 4.0](./LICENSE-CONTENT)
+- Curriculum content (Markdown under `website/docs/`): [CC BY-NC-SA 4.0](./LICENSE-CONTENT)
+
+You are free to use, adapt, and share the curriculum content for non-commercial purposes, with attribution, and under the same license. The site code can be reused under MIT.
