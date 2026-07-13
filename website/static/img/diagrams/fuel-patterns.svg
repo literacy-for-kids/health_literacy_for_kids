@@ -1,0 +1,38 @@
+<svg viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fpaTitle">
+  <title id="fpaTitle">Two fictional fuel patterns after eating: a roller-coaster shape that rises fast and drops fast, and a gentle-hill shape that rises and settles slowly — bodies vary, and one graph is never a verdict</title>
+  <rect x="1" y="1" width="858" height="458" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Two Fuel Patterns (fictional examples)</text>
+
+  <!-- roller coaster -->
+  <g>
+    <rect x="45" y="70" width="380" height="300" rx="12" fill="#fff7ed" stroke="#ea580c" stroke-width="2.5"/>
+    <text x="235" y="104" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="800" fill="#c2410c">THE ROLLER COASTER</text>
+    <text x="235" y="126" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">fast up &#8230; fast down</text>
+    <g stroke="#94a3b8" stroke-width="2">
+      <line x1="85" y1="320" x2="390" y2="320"/>
+      <line x1="85" y1="320" x2="85" y2="150"/>
+    </g>
+    <path d="M85,300 C120,300 130,170 165,168 C200,166 215,290 250,310 C285,326 330,318 388,315" fill="none" stroke="#ea580c" stroke-width="4.5"/>
+    <text x="168" y="155" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#c2410c" font-weight="700">quick spike of energy</text>
+    <text x="290" y="345" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#c2410c" font-weight="700">then a dip &#8212; tired and hungry again soon</text>
+  </g>
+
+  <!-- gentle hill -->
+  <g>
+    <rect x="445" y="70" width="380" height="300" rx="12" fill="#ecfeff" stroke="#0e7490" stroke-width="2.5"/>
+    <text x="635" y="104" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="800" fill="#0e7490">THE GENTLE HILL</text>
+    <text x="635" y="126" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">rises and settles slowly</text>
+    <g stroke="#94a3b8" stroke-width="2">
+      <line x1="485" y1="320" x2="790" y2="320"/>
+      <line x1="485" y1="320" x2="485" y2="150"/>
+    </g>
+    <path d="M485,300 C540,295 570,225 635,220 C700,216 740,270 788,282" fill="none" stroke="#0e7490" stroke-width="4.5"/>
+    <text x="640" y="200" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#0e7490" font-weight="700">steadier energy&#8230;</text>
+    <text x="705" y="345" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#0e7490" font-weight="700">&#8230;that lasts longer</text>
+  </g>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <text x="430" y="404" font-size="13.5" fill="#1e293b">Both graphs are made up for practice &#8212; the axes show &#8220;energy feeling&#8221; over a morning.</text>
+    <text x="430" y="430" font-size="13" fill="#64748b">Bodies vary. Timing, sleep, movement, and lots more shape the pattern. One graph or one meal is never a verdict.</text>
+  </g>
+</svg>

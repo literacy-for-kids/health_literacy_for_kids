@@ -293,14 +293,9 @@ Then explain in kid language:
 
 **2. Make a Small Loop Map**
 
-Draw this smaller, simpler diagram:
+Draw this smaller, simpler diagram together, using this one as the model:
 
-```text
-[ body detector ] -> [ brain checks ] -> [ body action part ]
-     ^                                          |
-     |__________________________________________|
-            checks again
-```
+![The body's check-and-fix loop: a body detector notices something is off, the brain checks it against the usual range, a body action part responds, and the loop checks again](/img/diagrams/feedback-loop.svg)
 
 Fill it in together for one or two examples.
 

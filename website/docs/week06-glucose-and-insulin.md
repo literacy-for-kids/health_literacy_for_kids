@@ -160,6 +160,8 @@ Draw:
 - a roller coaster
 - a gentle hill
 
+![Two fictional fuel patterns: a roller-coaster shape that rises fast and drops fast, and a gentle-hill shape that rises and settles slowly — bodies vary, and one graph is never a verdict](/img/diagrams/fuel-patterns.svg)
+
 Ask:
 
 > "Which one feels like fast up / fast down?"

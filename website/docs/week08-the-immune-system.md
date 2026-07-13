@@ -26,6 +26,8 @@ Skin works like a wall. Mucus can act like a sticky trap. White blood cells can 
 The team is not trying to attack everything. It is trying to notice what belongs, what does not, and what needs attention.
 :::
 
+![The body's defense layers shown as a castle: the wall is skin, the sticky moat is mucus, the guards are white blood cells, wanted posters are antibodies, and the memory book remembers germs the body has beaten before](/img/diagrams/body-defenses.svg)
+
 :::info Technical Name
 Older learners may hear:
 

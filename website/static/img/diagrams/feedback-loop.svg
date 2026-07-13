@@ -1,0 +1,46 @@
+<svg viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="flTitle">
+  <title id="flTitle">The body's feedback loop: a body detector notices something is off, the brain checks it against the usual range, a body action part responds, and the loop checks again — shown with the sweating example</title>
+  <defs>
+    <marker id="flA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="458" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">The Body&#8217;s Check-and-Fix Loop</text>
+  <text x="430" y="64" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Example: getting too warm &#8594; sweating cools you down &#8594; check again.</text>
+
+  <!-- nodes -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <g transform="translate(160 190)">
+      <rect x="-115" y="-45" width="230" height="90" rx="12" fill="#ecfeff" stroke="#0e7490" stroke-width="2.5"/>
+      <text y="-14" font-size="15" font-weight="700" fill="#0e7490">BODY DETECTOR</text>
+      <text y="8" font-size="13" fill="#1e293b">temperature sensors notice:</text>
+      <text y="27" font-size="13" fill="#1e293b">&#8220;too warm!&#8221;</text>
+    </g>
+    <g transform="translate(430 190)">
+      <rect x="-115" y="-45" width="230" height="90" rx="12" fill="#ecfeff" stroke="#0e7490" stroke-width="2.5"/>
+      <text y="-14" font-size="15" font-weight="700" fill="#0e7490">BRAIN CHECKS</text>
+      <text y="8" font-size="13" fill="#1e293b">compares to the usual</text>
+      <text y="27" font-size="13" fill="#1e293b">safe range</text>
+    </g>
+    <g transform="translate(700 190)">
+      <rect x="-115" y="-45" width="230" height="90" rx="12" fill="#ecfeff" stroke="#0e7490" stroke-width="2.5"/>
+      <text y="-14" font-size="15" font-weight="700" fill="#0e7490">BODY ACTION</text>
+      <text y="8" font-size="13" fill="#1e293b">sweat glands turn on;</text>
+      <text y="27" font-size="13" fill="#1e293b">sweat cools the skin</text>
+    </g>
+  </g>
+
+  <!-- forward arrows -->
+  <g stroke="#0e7490" stroke-width="3.5">
+    <line x1="277" y1="190" x2="311" y2="190" marker-end="url(#flA)"/>
+    <line x1="547" y1="190" x2="581" y2="190" marker-end="url(#flA)"/>
+  </g>
+
+  <!-- feedback return -->
+  <path d="M700,238 C700,330 340,330 168,242" fill="none" stroke="#0e7490" stroke-width="3.5" stroke-dasharray="9 7" marker-end="url(#flA)"/>
+  <text x="430" y="352" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#0e7490">&#8230;then the loop checks again</text>
+  <text x="430" y="376" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">Cooler now? The sweat turns off. Still warm? Keep cooling.</text>
+
+  <text x="430" y="428" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">The same loop runs for thirst, shivering, hunger, and dozens of other body jobs &#8212; all day, without you noticing.</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg viewBox="0 0 860 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fpuTitle">
+  <title id="fpuTitle">How to find your pulse: place two fingers (not your thumb) flat on the inside of the wrist below the thumb side, or gently on the side of the neck under the jaw; press lightly and count the beats</title>
+  <rect x="1" y="1" width="858" height="478" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Finding Your Pulse</text>
+  <text x="430" y="64" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Use two fingers, press gently &#8212; like touching a sleeping kitten.</text>
+
+  <!-- wrist panel -->
+  <g>
+    <rect x="45" y="85" width="380" height="300" rx="12" fill="#ecfeff" stroke="#0e7490" stroke-width="2.5"/>
+    <text x="235" y="118" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="800" fill="#0e7490">SPOT 1: THE WRIST</text>
+    <!-- forearm + hand silhouette -->
+    <g fill="#fcd9b8">
+      <rect x="90" y="200" width="200" height="80" rx="34"/>
+      <ellipse cx="305" cy="240" rx="48" ry="44"/>
+      <rect x="330" y="196" width="22" height="42" rx="11" transform="rotate(20 341 217)"/>
+    </g>
+    <!-- pulse point -->
+    <circle cx="260" cy="222" r="12" fill="#dc2626"/>
+    <circle cx="260" cy="222" r="20" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="4 4"/>
+    <!-- two fingers from other hand -->
+    <g fill="#f6bf8f">
+      <rect x="236" y="130" width="20" height="88" rx="10"/>
+      <rect x="260" y="126" width="20" height="92" rx="10"/>
+    </g>
+    <text x="235" y="322" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">two fingers flat on the inside of the wrist,</text>
+    <text x="235" y="342" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">on the thumb side &#8212; not your thumb!</text>
+    <text x="235" y="366" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#94a3b8">(the thumb has its own little pulse and can confuse the count)</text>
+  </g>
+
+  <!-- neck panel -->
+  <g>
+    <rect x="445" y="85" width="380" height="300" rx="12" fill="#ecfeff" stroke="#0e7490" stroke-width="2.5"/>
+    <text x="635" y="118" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="800" fill="#0e7490">SPOT 2: THE NECK</text>
+    <!-- head + neck silhouette -->
+    <g fill="#fcd9b8">
+      <circle cx="635" cy="196" r="52"/>
+      <rect x="610" y="238" width="50" height="52"/>
+      <rect x="570" y="282" width="130" height="26" rx="13"/>
+    </g>
+    <!-- hair cap -->
+    <path d="M583,186 A52,52 0 0 1 687,186 L687,172 A52,52 0 0 0 583,172 Z" fill="#78350f"/>
+    <path d="M583,190 A52,52 0 0 1 687,190" fill="#78350f" transform="translate(0 -22)"/>
+    <!-- pulse point on side of neck -->
+    <circle cx="662" cy="258" r="10" fill="#dc2626"/>
+    <circle cx="662" cy="258" r="17" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="4 4"/>
+    <text x="635" y="322" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">two fingers gently on the side of the neck,</text>
+    <text x="635" y="342" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">in the soft spot under the jaw</text>
+    <text x="635" y="366" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#94a3b8">(press lightly &#8212; never squeeze, and only one side at a time)</text>
+  </g>
+
+  <text x="430" y="420" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14.5" font-weight="600" fill="#1e293b">Count the beats for 15 seconds, then multiply by 4 &#8212; that is beats per minute.</text>
+  <text x="430" y="448" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">Can&#8217;t find it right away? Totally normal. Wiggle your fingers a tiny bit and try again, or ask your facilitator to count with you.</text>
+</svg>

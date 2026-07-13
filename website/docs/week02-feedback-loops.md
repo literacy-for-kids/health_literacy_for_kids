@@ -26,6 +26,8 @@ Some body loops are like a snowball rolling downhill and getting bigger fast.
 Both kinds can be useful. The big question is: is this loop trying to **keep things steady**, or is it trying to **build fast for a reason**?
 :::
 
+![Two kinds of body loops: a steadying loop settles things back to normal like a swing slowing down; a fast-building loop grows quickly for a short time like a snowball rolling downhill](/img/diagrams/two-loops.svg)
+
 :::info Technical Name
 - **Steadying loop** = **negative feedback loop**
 - **Fast-building loop** = **positive feedback loop**

@@ -23,6 +23,8 @@ Your body has a clock inside it.
 
 It helps with sleepy feelings, wake-up feelings, body temperature changes, and daily rhythm.
 
+![The 24-hour body clock as a circle: morning wake-up, midday alertness, an afternoon dip, evening wind-down, and nighttime sleep, cleanup, and repair](/img/diagrams/body-clock.svg)
+
 This week, the learner notices when their body feels more awake, more sleepy, or more ready to rest.
 :::
 

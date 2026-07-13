@@ -164,6 +164,8 @@ Draw or label:
 - repair crew
 - memory librarian
 
+![Three night jobs while you sleep: the cleanup crew tidies the brain, the repair crew fixes and grows the body, and the memory librarian sorts what to keep from the day](/img/diagrams/night-jobs.svg)
+
 Ask:
 
 > "What might each one do while you are asleep?"

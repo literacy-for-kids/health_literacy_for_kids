@@ -150,6 +150,8 @@ By the end of this session, the learner can:
 
 Show the learner how to feel a pulse gently at the wrist or side of the neck.
 
+![How to find your pulse: two fingers flat on the inside of the wrist on the thumb side, or gently on the side of the neck under the jaw — press lightly and count the beats](/img/diagrams/find-your-pulse.svg)
+
 Say:
 
 > "We are not looking for a good number. We are looking for your starting number right now."
