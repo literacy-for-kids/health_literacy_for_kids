@@ -238,6 +238,37 @@ Repeat:
 
 ---
 
+## Core Practice: Getting Help From a Health Professional
+
+**Time:** 20 minutes; use in place of the movement activity when a seated option is needed, or in an additional meeting before Unit 4's checkpoint. **Goal:** describe a concern, involve a safe adult, prepare questions, and check instructions. Use the fictional card; no personal health disclosure, symptom testing, medical records, medication practice, or actual appointment is required.
+
+**Fictional card:** Ellis has noticed wrist discomfort while writing for three days. Ellis does not know the cause and wants help. A trusted adult arranges a conversation with the school nurse or a qualified health professional. The class's job is to prepare and ask questions, not diagnose the wrist or decide treatment.
+
+### Before the visit
+
+1. Identify the first help route: tell a trusted adult, who can help contact an appropriate professional using the school's or clinic's verified route. If that adult is unavailable or dismissive, seek another safe adult. Adults arrange care and handle access, cost, and transport barriers; children do not have to solve them alone.
+2. Make a fictional concern note: **what** hurts (wrist), **when** it started (three days ago), **when noticed** (writing), **what it affects** (writing comfortably), and **unknowns** (cause, severity, what to do next). Do not invent answers to unknown questions.
+3. Choose two questions: "What information do you need?" "What should we do next?" "What changes mean we should contact you again or seek urgent help?" An adult can bring relevant medicine/allergy information privately for a real visit; never gather it for class.
+4. Request access support when needed: "Could we have an interpreter?" "Could you write the instructions or explain them another way?" "May I use my communication device?"
+
+### During and after the visit
+
+Use this **pretend administrative instruction**, not a treatment: "Your caregiver should contact the clinic through its verified number after the visit to arrange follow-up. If instructions are unclear, ask the care team."
+
+- Learner: "Let me check: my caregiver contacts the clinic after this visit to arrange follow-up. Is that right? Which contact should we use?"
+- Facilitator playing staff: "Yes. Use the contact on the clinic's verified information. Ask us to clarify anything you do not understand."
+- Learner: "Who can we ask if we have another question? Could we have that written down?"
+
+Repeating instructions in your own words is a way to check understanding, not a test of obedience. The health professional should clarify the plan. It is okay to say "I don't understand" or ask what a word means. Adults and professionals decide actual care; do not start, stop, share, or change medicines based on this lesson.
+
+**Check and answer guide:** Ellis can name the concern without claiming a diagnosis; ask a safe adult for access to a professional; bring relevant questions; repeat back the follow-up step and verify the contact. If a learner guesses treatment, redirect: "What would we ask the professional?" **Simplify:** draw a concern card and select one question. **Extend:** explain how to request clarification when two instructions seem different.
+
+**Urgent help boundary:** this is not a triage exercise. Real severe symptoms or immediate danger require prompt adult/emergency help using local procedures; do not wait for a routine visit or finish the activity. Follow the [Facilitator Safety Guide](./facilitator-safety-guide.md). Learners do not need to decide a diagnosis or prove a concern is serious before asking for help.
+
+**Artifact:** a fictional visit-preparation card: concern ___; known timing ___; unknowns ___; safe adult/help route ___; two questions ___; instruction in my words ___; follow-up contact to verify ___. Do not assess access to care or willingness to share a private health story.
+
+**Reference, checked 2026-10-01:** [MedlinePlus: Talking with your doctor](https://medlineplus.gov/talkingwithyourdoctor.html), for appointment preparation, questions, communication support, and clarification. Ellis and the role-play are invented and prescribe no treatment.
+
 ## Independent Practice
 
 ### Goal

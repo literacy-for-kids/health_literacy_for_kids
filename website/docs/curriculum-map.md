@@ -30,3 +30,11 @@ sidebar_label: Curriculum Map
 | 18 | Share What You Discovered | What did I learn from my Body Mystery Project? | Synthesis and reflection | discovery, format, share, reflection | What is one thing you noticed that surprised you? | Choose one format (private, partial, or shared) and present your findings |
 | Opt. 1 | Deeper Dive: Gut-Brain Questions | How do the gut and brain communicate? | Gut-brain axis introduction | gut-brain axis, neurotransmitter, bidirectional, careful science | Describe one thing the gut and brain send each other | Research one study about gut-brain communication and evaluate its confidence |
 | Opt. 2 | Deeper Dive: Stress and Recovery | What happens in the body during and after stress? | Stress physiology analysis | cortisol, alert mode, recovery, nervous system | What is one cost of staying in alert mode too long? | Map your own stress-recovery cycles over one day (fictional or general) |
+
+## Practical Core Activities
+
+These activities are integrated into the existing weeks. Use the lesson's suggested substitution or add a meeting; they do not add new curriculum weeks.
+
+| Week | Added core skill | Evidence to collect |
+|---|---|---|
+| 14 | Healthcare navigation | Prepare fictional concern/questions and clarify follow-up |

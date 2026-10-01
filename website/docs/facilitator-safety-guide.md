@@ -76,6 +76,10 @@ If something feels scary, painful, extreme, or confusing, pause and get help.
 
 ---
 
+## Healthcare Navigation Is a Communication Skill
+
+[Week 14's fictional healthcare practice](./week14-wear-and-maintenance.md#core-practice-getting-help-from-a-health-professional) teaches describing concerns, asking questions, requesting communication support, and checking follow-up instructions. It does not teach children to choose treatments or triage symptoms. Use only fictional visit cards in class; keep medical records and medicine/allergy details private. Adults manage access and follow local emergency procedures for urgent concerns. Ask a qualified professional to clarify any actual care instruction.
+
 ## Food and Body Safety Rules
 
 - No weight tracking.

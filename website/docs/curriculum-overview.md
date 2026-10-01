@@ -223,3 +223,7 @@ If a week sparks more drawing, more questions, or more pretend examples, slow do
 If a learner needs smaller steps, make them smaller.
 
 The capstone works best when the earlier weeks have had time to settle.
+
+## Practical Core Skills
+
+[Week 14 includes fictional healthcare-navigation practice](./week14-wear-and-maintenance.md#core-practice-getting-help-from-a-health-professional): describing a concern, seeking adult/professional help, preparing questions, and clarifying follow-up without diagnosing or prescribing. Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.

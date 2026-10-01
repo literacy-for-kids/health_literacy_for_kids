@@ -187,3 +187,7 @@ Narrow the question and use a supplied fictional log if needed. Practice one sup
 ## Related Project Guidance
 
 Use [Capstone Rubric](./capstone-rubric.md) for optional communication feedback and [Learner Self-Assessment](./self-assessment.md) for private reflection. A separate outreach or advertising project is not required to complete the Body Mystery investigation.
+
+## Week 14 Healthcare-Navigation Check in Unit 4
+
+Use [Ellis's fictional visit](./week14-wear-and-maintenance.md#core-practice-getting-help-from-a-health-professional). Ask for a concern note, safe adult/help route, two questions, and the administrative follow-up in the learner's own words. Expected: distinguish known observations from an unknown cause, seek adult/professional help, request clarification, and verify the contact. Reteach with picture cards if needed. Do not assess diagnosis, treatment choices, real access to care, or personal disclosure.
