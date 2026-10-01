@@ -1,60 +1,43 @@
 ---
 sidebar_position: 6
-sidebar_label: "Week 6: Fast Up / Fast Down Fuel Patterns"
-title: "Week 6: Fast Up / Fast Down Fuel Patterns"
-description: "Students explore how body fuel can rise and settle at different speeds using fictional, adult-provided, or private examples."
+sidebar_label: "Week 6: Glucose and Insulin"
+title: "Week 6: How Glucose and Insulin Work"
+description: "Explain glucose regulation and compare labeled fictional data without treating energy feelings as blood-glucose measurements."
 ---
 
-# Week 6: Fast Up / Fast Down Fuel Patterns
-*Unit 2 - Food Journey and Body Clues*
+# Week 6: How Glucose and Insulin Work
+*Unit 2 — Food Journey and Body Clues*
 
-This week studies patterns, not blame.
+Food takes a journey, and different nutrients do different jobs. This week we follow **glucose**, a sugar carried in the blood, and **insulin**, a message that helps the body manage it.
 
-Some fuel patterns rise fast and drop fast. Some rise more gently and settle more gently. Bodies vary, and one meal is never a verdict.
+**Feeling energetic is not the same thing as measuring blood glucose.** A feeling, a breakfast description, or a graph shape cannot tell us a person's blood-glucose level.
 
 :::tip This Week's Mission
-- Compare a roller-coaster pattern with a gentle-hill pattern.
-- Learn that one meal is one clue, not a verdict.
-- Use fictional, adult-provided, or private examples only.
+- Explain how digestion, the pancreas, insulin, and cells connect.
+- Read a graph with a named quantity, scale, and time axis.
+- Separate a fictional blood-glucose model from a fictional report of how someone feels.
 :::
 
 :::info Kid Version
-Imagine two hills on paper.
+Some carbohydrate in food is broken down into glucose. Glucose enters the blood. When blood glucose rises, the pancreas sends an insulin message. That message helps many cells take in glucose and helps the body store some for later.
 
-One shoots up and down like a roller coaster. One rises and settles more gently.
-
-This week, the learner studies how body fuel might move in patterns like that. Nobody has to share a real breakfast.
+A glucose graph tracks one thing. A person saying “I feel tired” tells us something different. Both may matter, but they are not interchangeable.
 :::
 
-:::info Technical Name
-Older learners may hear:
+## Facilitator Snapshot
 
-- **glucose** for a main blood fuel
-- **insulin** for one of the helpers that helps move glucose into cells
-- **pancreas** for the organ that releases insulin
-
-The science words are optional. The pattern comes first.
-:::
-
-:::warning One Meal Is One Clue, Not a Verdict.
-This lesson does not ask the learner to change breakfast behavior.
-
-It does not rank breakfasts, bodies, or families.
-:::
-
-:::info Facilitator Snapshot
-- Default to fictional breakfasts first.
-- Approved activity versions: fictional graph, adult-provided example, or optional private real observation.
-- Use **fast up / fast down fuel pattern** before **spike and crash**.
-- Avoid universal moral claims like "this breakfast is better."
-- Say: "Many bodies handle slower fuel delivery more smoothly, but bodies vary."
-:::
+- Use the supplied fictional data. No breakfast experiment, food change, glucose testing, medical device, or personal disclosure is required.
+- Teach the mechanism before comparing curve shapes. Use “message” for hormone and “body helper” for pancreas if useful, while naming glucose and insulin.
+- Do not describe one shape as a healthier breakfast, a diagnosis, or evidence of a “sugar crash.”
+- Personal body clues may stay private. Fictional examples, drawings, pointing, AAC, and passing are valid choices.
+- If a learner has a medical care plan, this activity does not change it. Health concerns go to a caregiver or qualified health professional.
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Roller Coaster vs. Gentle Hill](#guided-session-1)
-- [Guided Session 2: Choose an Approved Version](#guided-session-2)
+- [Guided Session 1: Follow the Message](#guided-session-1)
+- [Guided Session 2: Read the Evidence](#guided-session-2)
 - [Independent Practice](#independent-practice)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Week at a Glance
@@ -62,193 +45,100 @@ It does not rank breakfasts, bodies, or families.
 | | |
 |---|---|
 | **Prep time** | ~10 minutes |
-| **Materials** | Paper, pencil, Body Clues Notebook, optional pre-drawn graphs |
-| **Key vocabulary** | fast up / fast down, gentle hill, glucose, insulin, fuel pattern |
-| **Difficulty** | Introductory |
+| **Materials** | This page or a printed copy, paper, pencil, optional counters and Body Clues Notebook |
+| **Key vocabulary** | glucose, insulin, pancreas, cells, blood glucose, model, self-report |
+| **Difficulty** | Introductory mechanism; guided graph comparison |
 
 ## Facilitator Preparation
 
-:::info Before You Begin
-- Prepare two simple graph shapes: roller coaster and gentle hill.
-- Plan to use pretend breakfasts unless the learner freely chooses otherwise.
-- Keep all examples shame-free and family-neutral.
-- Do not ask the learner to test or change meals.
-:::
+Read the mechanism and answer notes below. Copy the five-row data table and the two diagrams, or keep this page open. Write four cards: **digestion**, **blood**, **pancreas**, **cells and storage**. No web search or outside data is needed.
 
-:::tip Facilitation Mindset
-Stay in pattern language.
+Keep food talk neutral. Food access, culture, medical needs, digestion, movement, stress, and sleep vary. We are studying a process, not ranking foods or families.
 
-"What might happen next?" is a better question than "Which breakfast wins?"
-:::
+## Age and Access Options
 
-## For Younger Learners (Ages 8-9)
-
-:::info Adapting This Week
-**Simplest version of the concept:** "Some fuel patterns go up and down quickly. Some are smoother."
-
-**What to shorten or skip:**
-- Skip glucose numbers, insulin resistance, and mg/dL ranges.
-- Keep the whole lesson in pictures and story examples.
-
-**What success looks like:**
-The learner can point to the roller coaster and gentle hill and explain the difference.
-:::
-
-## For Older Learners (Ages 10-12)
-
-:::info Deeper Option
-- Add the terms **glucose**, **insulin**, and **pancreas**.
-- Explain that bodies vary and many factors affect how fuel feels over time.
-- Keep any blood-sugar numbers or advanced range talk in an optional side conversation only.
-:::
-
-## Different Bodies, Different Needs
-
-Bodies are different, and fuel patterns can be shaped by timing, food access, sleep, stress, movement, medicine, and many other factors. One graph or one meal is never a verdict about a body or a family.
-
-- Keep examples fictional, adult-provided, or private.
-- Do not turn a pattern shape into a moral score.
-- Health literacy means asking what else may be part of the pattern.
-
-## Health Activity Safety
-
-- Do not ask learners to test meals, skip meals, or change routines for this lesson.
-- Use fictional graphs, adult-provided examples, or optional private notes only.
-- Avoid competitions, rankings, or pressure about food or energy.
-
-## Medicine and Product Safety
-
-Medicine can help when used the right way by the right person at the right time. Medicine and products can also be unsafe if they are shared, guessed, mixed up, taken without permission, or used because an online post said to try them.
-
-- Never take medicine, vitamins, supplements, powders, energy drinks, or unknown products without a trusted adult.
-- Never share medicine or take someone else's medicine.
-- Ask before trusting health product claims, powders, drinks, or online remedies.
-- Tell an adult right away if something causes pain, rash, dizziness, trouble breathing, or another scary reaction.
-
-## Ask for Help
-
-Health questions can be important. Learners do not have to figure everything out alone. A trusted adult or qualified helper can support safe decisions.
-
-- Is this private, serious, confusing, painful, scary, or urgent?
-- Should I ask a trusted adult before trying, buying, or acting on this advice?
-- Who is a trusted adult I can talk to?
-- What should I avoid doing until I get help?
-
-## Ages 11-13 Optional Extension
-
-Older or especially interested learners can compare more detailed label examples, hormone vocabulary, or more than one pattern shape. Keep this adult-guided, optional, and out of the core expectations for younger learners.
+- **Ages 8–9:** Follow the picture arrows, use counters, and compare earlier/later and higher/lower. The learner need not memorize hormone vocabulary or perform calculations.
+- **Ages 10–12:** Name glucose, pancreas, and insulin; read the time and model-unit axes and distinguish measurements, models, and self-reports.
+- **Optional extension:** Discuss the liver's storage role and glucagon with adult guidance. Do not teach diagnostic thresholds or treatment decisions here.
+- **Accessible responses:** Point, draw, use AAC, dictate, or explain a fictional character's example. Personal observations and sharing are optional.
 
 ---
 
 ## Guided Session 1
-### Roller Coaster vs. Gentle Hill
+### Follow the Message
+
 #### Learning Goal
-By the end of this session, the learner can:
 
-- describe two simple fuel-pattern shapes
-- connect those shapes to how a person might feel later
-- explain that one example does not prove a rule for everyone
-
----
+The learner can describe the glucose–insulin process and connect it to the steadying loops from Week 2.
 
 #### Activities
 
-**1. Draw Two Shapes**
+**1. Build the Process**
 
-Draw:
+Explain the steps:
 
-- a roller coaster
-- a gentle hill
+1. Digestion breaks down many carbohydrates into glucose, which is absorbed into the blood.
+2. As blood glucose rises, the pancreas releases insulin, a hormone or chemical message.
+3. Insulin helps many cells take up glucose for use and helps the body store glucose, including as glycogen in the liver and muscles.
+4. These responses help blood glucose move back toward its usual level. The rising glucose signal decreases, so less insulin is needed.
 
-![Two fictional fuel patterns: a roller-coaster shape that rises fast and drops fast, and a gentle-hill shape that rises and settles slowly — bodies vary, and one graph is never a verdict](/img/diagrams/fuel-patterns.svg)
+![A simplified steadying loop: digestion adds glucose to blood; rising blood glucose signals the pancreas to release insulin; insulin supports glucose uptake and storage, reducing the rise](/img/diagrams/glucose-insulin-loop.svg)
 
-Ask:
+The body has more controls than this picture shows. Between meals, the liver can release stored glucose; glucagon is one message that supports that response. Insulin is not a force that drains all fuel away, and not every cell depends on insulin in the same way.
 
-> "Which one feels like fast up / fast down?"
+**2. Counter Model**
 
-> "Which one feels steadier over time?"
+Use paper circles as glucose counters in a “blood” area. Add four counters to represent absorption. Read the pancreas card, then move two counters to a “cells” area and one to “storage.” Explain that the counts are invented to show direction, not amounts in a real body. Ask which actions reduced the pile in the blood area.
 
----
+**3. Close the Loop**
 
-**2. Add a Story Character**
-
-Use a fictional character, stuffed animal, or comic hero.
-
-Ask:
-
-> "If this character ate Breakfast A, what might their energy feel like later?"
-
-> "If they ate Breakfast B, what might happen over the next few hours?"
-
-Keep the answers observational:
-
-- hungry again sooner
-- energy feels wiggly
-- energy feels steadier
-- hard to tell
-
----
-
-**3. Technical Name for Older Learners**
-
-If the learner wants more, say:
-
-> "One important fuel in the blood is called glucose. Insulin is one helper that helps move glucose into cells."
-
-Stop there unless deeper detail is requested.
+Ask: “As the rise gets smaller, should the insulin signal keep increasing forever?” Look for **no**: a steadying loop responds to the changing signal. Connect the answer to Week 2. A lower glucose signal changes the response; it does not mean the body has run out of energy.
 
 ---
 
 ## Guided Session 2
+### Read the Evidence
 
-:::tip Information Organization Moment
-Glucose and insulin form a chain of causes and effects. Draw it with arrows: eat → glucose rises → insulin responds → cells get fuel. When a body process has steps, an arrow chain shows what a paragraph hides.
-(More on the [Information Organization Skills](./information-organization.md) page.)
-:::
-
-### Choose an Approved Version
 #### Learning Goal
-By the end of this session, the learner can:
 
-- complete one safe version of the activity
-- describe a fuel pattern without shame language
-- explain that the page studies clues, not choices to copy
-
----
+The learner can compare two labeled model curves and explain why an energy-feeling report is not a glucose measurement.
 
 #### Activities
 
-Choose **one** version only.
+**1. Name What the Data Are**
 
-**1. Fictional Breakfast Graph**
+These are **invented classroom model data**, not readings from people, predictions for specific foods, or recommended targets. “Model glucose units” are arbitrary units, **not mg/dL**. A and B are two simulated patterns after a model adds glucose; neither represents a named breakfast.
 
-Invent two breakfasts for a pretend character and sketch what the later energy pattern might look like.
+| Time after model input (minutes) | Pattern A (model glucose units) | Pattern B (model glucose units) |
+|---|---:|---:|
+| 0 | 40 | 40 |
+| 30 | 75 | 55 |
+| 60 | 65 | 62 |
+| 90 | 50 | 54 |
+| 120 | 44 | 46 |
 
----
+![Two invented glucose model patterns on a shared scale: minutes after input on the horizontal axis and arbitrary model glucose units on the vertical axis. Pattern A peaks at 30 minutes and Pattern B at 60 minutes; neither is a medical target or energy-feeling score](/img/diagrams/fuel-patterns.svg)
 
-**2. Adult-Provided Example**
+Read the title and both axes before interpreting the curves. Trace each line back to its table values.
 
-The facilitator brings the example and the learner studies it without sharing personal food details.
+**2. Compare Only What Is Shown**
 
----
+- Which pattern reaches its highest shown value first? **A, at 30 minutes.**
+- Which has the higher highest shown value? **A, 75 model units versus B, 62.**
+- At 90 minutes, which is higher? **B, 54 versus A, 50.**
+- What can we say by 120 minutes? **Both are closer to their starting value of 40.**
+- Do we know that a real person felt tired, or that one breakfast is better? **No.** Neither was measured or supplied.
 
-**3. Optional Private Real Observation**
+The highest sampled value is not necessarily the exact peak between sample times. A model helps us discuss a mechanism; it does not establish what happened in a real body.
 
-Only if the learner freely chooses it.
+**3. Keep Feelings in a Separate Record**
 
-The learner keeps any real notes private unless they want to share part of them.
+Now read two invented story cards:
 
----
+- **Kai:** “I feel tired after a late night.” No blood-glucose measurement is provided.
+- **Jo:** “I feel energetic after seeing a friend.” No blood-glucose measurement is provided.
 
-After the version is chosen, ask:
-
-> "What is one clue this graph might give us?"
-
-> "What can this graph NOT tell us for sure?"
-
-This is where you repeat:
-
-> "One meal is one clue, not a verdict."
+Ask: “Can we draw a blood-glucose curve from either sentence?” **No.** Sleep, mood, activity, illness, and other factors can influence how someone feels. An energy-feeling score is a self-report, not a glucose reading. We can note the report honestly and say what remains unknown.
 
 ---
 
@@ -256,94 +146,70 @@ This is where you repeat:
 
 ### Goal
 
-Practice noticing fuel patterns through a safe example with privacy protected by default.
+Demonstrate the mechanism and the limits of the evidence using supplied fictional materials.
 
 ### Activities
 
-**1. Pick One Pattern Page**
+Choose one or both:
 
-The learner can:
+1. Draw the digestion–blood–pancreas–insulin–cells connection and show how the response steadies the rise.
+2. Copy one row from the model table, label its quantity and time, and explain one thing it shows and one thing it cannot establish.
 
-- draw the roller coaster and gentle hill
-- label a fictional breakfast example
-- record a private observation if they chose that version
-
-**2. Reflection Choice**
-
-Choose one:
-
-- "A graph can show..."
-- "A graph cannot prove..."
-- "One thing I noticed about fast up / fast down patterns is..."
+Do not invent a blood-glucose curve from a real or pretend breakfast description. Do not test, skip, or change meals for this activity. A private note about how someone feels may be kept as a **feeling report**, with glucose listed as **not measured**.
 
 ### Body Clues Notebook
 
-Starter page:
+```text
+My example: fictional model / fictional story / optional private feeling note
+What kind of information is this? model / measurement / self-report
+Quantity and units, if any:
+Time, if given:
+One observation supported by the example:
+One thing still unknown:
+How insulin fits into the steadying loop:
+```
 
-> **Which version I used:** fictional / adult example / private real observation
->
-> **Pattern I noticed:** _____________
->
-> **How a person might feel later:** _____________
->
-> **What I still wonder:** _____________
-
-No public sharing is required.
+Personal entries do not need to be shared; use a fictional sample for assessment. Learners may pass or switch examples without explaining why.
 
 ---
 
 ## Check for Understanding
 
-1. Can the learner tell the difference between a roller-coaster pattern and a gentle-hill pattern?
-2. Can the learner say that bodies vary?
-3. Can the learner repeat that one meal is one clue, not a verdict?
+1. **Mechanism:** “What does the pancreas send when blood glucose rises, and what does the message help the body do?” Look for insulin, glucose uptake/use and storage; kid language is enough.
+2. **Graph reading:** “What do the axes represent, and when does Pattern A have its highest shown value?” Look for minutes, arbitrary model glucose units, and 30 minutes.
+3. **Evidence limit:** “Kai feels tired. Do we know Kai's blood glucose?” Look for no: it was not measured; a feeling is a different kind of information.
+4. **Feedback:** “Why doesn't the insulin signal need to keep increasing as the glucose rise settles?” Look for a steadying response to a changing signal.
 
----
+If a learner can explain the basic process and distinguish a feeling from a glucose reading, they have the core idea. Reteach with the cards and one table row if needed; curve vocabulary alone is not evidence of mechanism understanding.
 
 ## Pause and Notice
 
-:::note What Matters Here
-Ask:
+“What changed when we named the quantity before interpreting the graph?”
 
-> "What changed when we looked at breakfast as a pattern clue instead of a good-or-bad choice?"
-
-The point is not to fix a meal.
-
-The point is to just notice patterns with kindness.
-:::
-
----
+A graph is only as useful as its labels and evidence. Bodies and meals are not grades.
 
 ## Spiral Review
 
-:::tip Connecting to Earlier Weeks
-From Week 4: food takes a journey.
+- **Week 2:** A steadying loop responds to a change and helps reduce it.
+- **Week 4:** Digestion and absorption move nutrients from food into the body.
+- **Week 5:** Nutrients have different jobs; this week follows one regulated fuel.
 
-From Week 5: different foods can do different jobs.
+## Vocabulary
 
-Week 6 adds timing by asking how fuel may show up over time.
-:::
+- **Glucose:** a sugar used as fuel and carried in blood.
+- **Insulin:** a hormone released by the pancreas that helps regulate glucose uptake and storage.
+- **Pancreas:** an organ that releases insulin and other hormones, and also helps digestion.
+- **Blood glucose:** the amount of glucose in blood; distinct from how energetic someone feels.
+- **Model:** a simplified representation, with clearly labeled assumptions.
+- **Self-report:** what someone says about their own experience.
 
----
+## Facilitator Science References
 
-:::tip Simplify (Ages 8-9)
-Use only pretend breakfasts and the two graph shapes.
-:::
+- [NIDDK: What Is Diabetes?](https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes) — glucose, insulin, pancreas, and cells.
+- [NIDDK: Insulin and Glucagon Regulate Blood Glucose](https://www.niddk.nih.gov/news/media-library/17969) — the two response directions.
 
-:::tip Extend (Ages 10-12)
-Ask older learners to add the terms glucose, insulin, and pancreas in a small technical note beside the graph.
-:::
-
-:::tip Vocabulary This Week
-**Kid phrase -> Technical phrase**
-
-- fast up / fast down fuel pattern -> glucose spike and drop pattern
-- gentle hill -> slower fuel-delivery pattern
-- body fuel helper -> insulin
-
-See the [Glossary](./glossary.md) for both versions.
-:::
+The numerical activity is original fictional teaching data, not a dataset from these references.
 
 ## Preview of Next Week
 
-Next week, the learner becomes a Body Pattern Detective and studies what clues tend to show up together.
+Next week, the learner becomes a Body Pattern Detective, recording clues and separating observations from explanations.

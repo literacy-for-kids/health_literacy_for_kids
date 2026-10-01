@@ -31,11 +31,11 @@ Learners meet the body's autopilot, learn how steadying loops work, and practice
 
 ### Unit 2 - Food Journey and Body Clues (Weeks 4-7)
 
-Learners follow one bite through the body, sort food jobs without moral labels, compare fuel patterns, and become Body Pattern Detectives.
+Learners follow one bite through the body, sort food jobs without moral labels, explain glucose regulation and compare labeled model data, and become Body Pattern Detectives.
 
 - Week 4: The Journey of One Bite
 - Week 5: Different Foods Do Different Jobs
-- Week 6: Fast Up / Fast Down Fuel Patterns
+- Week 6: How Glucose and Insulin Work
 - Week 7: Body Pattern Detective
 
 ---

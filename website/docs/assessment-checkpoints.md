@@ -15,209 +15,175 @@ Learners may answer by talking, drawing, sorting cards, writing short notes, usi
 
 ---
 
-## Phase Checkpoint: Weeks 1-4 - Health, Wellness, Body Signals, and Trusted Adults
+## Checkpoint Timing and Scope
 
-### What this checkpoint is for
+Use the checkpoint after its listed lessons, or after those lessons in a flexible schedule. The prompts below assess taught core content; unrelated health, civic, media, or social topics and optional extensions are discussion opportunities, not advancement requirements. Accept drawings, speech, AAC, dictation, or model demonstrations.
 
-This checkpoint helps facilitators see whether learners can describe health in a broad way, notice body signals without shame, and identify trusted adults who can help with health and safety questions.
+| After lessons | Unit |
+|---|---|
+| Weeks 1–3 | Body Autopilot and Steadying Loops |
+| Weeks 4–7 | Food Journey and Body Clues |
+| Weeks 8–10 | Body Security Team and Response Stories |
+| Weeks 11–14 | Body Clock, Cleanup, and Repair |
+| Weeks 15–18 | The Body Mystery Project |
 
-### Look-fors
+Fictional or supplied examples are sufficient; personal records and private experiences are never necessary to demonstrate a concept. Use a later or alternate check if a learner passes.
 
-Learners are ready to move on when they can:
+### Shared Progress Scale
 
-- describe health as more than one body rule
-- name at least two body signals or routine needs
-- explain that body clues are information, not proof that a body is bad
-- identify at least one trusted adult or qualified helper
+- **Beginning:** Needs the concept modeled with a concrete example.
+- **Developing:** Explains part of the mechanism with prompts.
+- **Secure:** Explains the core relationship using the selected accessible response format.
+- **Extending:** Applies it to a new example and names assumptions or limits.
 
-### Checkpoint questions
+Use the phase-specific answer guidance below. Extension vocabulary, polished writing, and speed are not readiness criteria.
 
-- What are some ways people take care of body, mind, relationships, or environment?
-- What is one body clue that can mean a person needs support, rest, food, water, or help?
-- Who could help with a health or safety question?
+## Phase Checkpoint: Body Autopilot and Steadying Loops (Weeks 1–3)
 
-### Ready to move on
+### Lessons Assessed
 
-The learner can name body signals, explain that privacy matters, and choose a trusted adult or helper for a simple scenario.
+- [Week 1: Your Body's Autopilot](./week01-homeostasis.md)
+- [Week 2: Steadying Loops and Fast-Building Loops](./week02-feedback-loops.md)
+- [Week 3: How Fast Does My Heart Calm Down?](./week03-the-bio-telemetry-baseline.md)
 
-### Reteach moves
+### Evidence to Use
 
-- Sort picture cards into body clues, feelings, routines, and helpers.
-- Use fictional characters to practice asking for help.
-- Model the sentence "This is a clue, not a grade."
+A fictional loop drawing and a labeled heart-rate example.
 
-### Checkpoint snapshot
+### Checkpoint Questions and Look-Fors
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Describes health | Names one rule only | Names more than one part of health with support | Explains that health includes body, mind, relationships, safety, or environment | Connects health ideas to different settings or communities |
-| Notices body signals | Needs prompts to name a clue | Names a clue but adds judgment language | Names clues as information or routine needs | Explains how context can change what a clue means |
-| Identifies help | Is unsure who could help | Names one helper with support | Chooses a trusted adult or qualified helper for a scenario | Explains why different situations need different helpers |
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 1 | What action helps the body respond when it becomes warmer? | Sweating and other body responses help regulate temperature; the learner identifies a change and response without diagnosing anyone. |
+| Week 2 | How does a steadying loop differ from a fast-building loop? | One tends to reduce a change; the other reinforces it until something limits or stops the process. |
+| Week 3 | A supplied heart-rate example falls after movement ends. What was observed, and what does it not prove? | The rate changed over the stated times; one observation is not a fitness grade, diagnosis, or rule for all bodies. |
 
----
+### Ready to Move On
 
-## Phase Checkpoint: Weeks 5-8 - Food, Movement, Sleep, Hygiene, and Routines
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### What this checkpoint is for
+### Reteach Moves
 
-This checkpoint helps facilitators see whether learners can talk about routines in body-neutral language, notice that needs vary, and avoid turning food, movement, hygiene, or sleep into a score.
+Rebuild a change–response loop with picture cards; label a fictional before/after table rather than requesting personal pulse data.
 
-### Look-fors
+## Phase Checkpoint: Food Journey and Body Clues (Weeks 4–7)
 
-Learners are ready to move on when they can:
+### Lessons Assessed
 
-- describe food, movement, sleep, or hygiene using neutral language
-- explain that different bodies and families may use different routines
-- name one routine support or barrier in a home, school, library, or community setting
-- suggest a small, realistic routine goal without body shame
+- [Week 4: The Journey of One Bite](./week04-fuel-and-energy.md)
+- [Week 5: Different Foods Do Different Jobs](./week05-macronutrients.md)
+- [Week 6: How Glucose and Insulin Work](./week06-glucose-and-insulin.md)
+- [Week 7: Body Pattern Detective](./week07-the-fuel-audit.md)
 
-### Checkpoint questions
+### Evidence to Use
 
-- What job might this food, movement, rest, or hygiene routine do?
-- Why might two people need different routines or supports?
-- What is one small, safe next step a learner could try with adult support?
+A digestion route, nutrient-job sort, and fictional glucose/model comparison.
 
-### Ready to move on
+### Checkpoint Questions and Look-Fors
 
-The learner can explain a routine in neutral language and name one access-aware way to support it.
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 4 | Trace a bite through digestion and absorption. | Food is broken down and nutrients are absorbed into the body; digestion and absorption are different steps. |
+| Week 5 | What different jobs can carbohydrates, proteins, and fats support? | Carbohydrates can provide glucose fuel; proteins support building and repair; fats supply energy and support structures and other functions. Foods are not moral grades. |
+| Week 6 | What does insulin do, and does a tired feeling tell us blood glucose? | The pancreas releases insulin, supporting glucose uptake and storage. A tired feeling is a self-report, not a glucose measurement. |
+| Week 7 | Two clues occur together in a fictional log. Does that establish the cause? | No; note timing, other factors, and uncertainty rather than turning a pattern into a diagnosis. |
 
-### Reteach moves
+### Ready to Move On
 
-- Compare a lunch menu, sleep card, handwashing poster, and movement choice board.
-- Rewrite judgment-heavy statements into job language.
-- Offer a choice of drawing, acting, sorting, or speaking.
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### Checkpoint snapshot
+### Reteach Moves
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Uses body-neutral language | Uses good or bad labels only | Repeats neutral wording with support | Describes routines by jobs, support, or context | Explains how culture, access, or disability can shape routines |
-| Notices different needs | Expects one routine for everyone | Accepts different needs after prompting | Explains that bodies, schedules, and supports vary | Gives respectful examples from more than one community setting |
-| Sets a realistic goal | Chooses a vague or appearance-based goal | Chooses a small goal with support | Chooses a small, supported habit or environment goal | Revises the goal to fit access, privacy, or support needs |
+Use the Week 6 counter model and labeled fictional data, then separate observation from explanation in one Week 7 story.
 
----
+## Phase Checkpoint: Body Security Team and Response Stories (Weeks 8–10)
 
-## Phase Checkpoint: Weeks 9-11 - Safety, Illness, Medicine, and Help-Seeking
+### Lessons Assessed
 
-### What this checkpoint is for
+- [Week 8: Your Body's Security Team](./week08-the-immune-system.md)
+- [Week 9: Body Alarm Timeline](./week09-threat-response.md)
+- [Week 10: Illness Story Map](./week10-the-outbreak-postmortem.md)
 
-This checkpoint helps facilitators see whether learners can recognize when a health question needs adult help, apply calm safety rules, and use child-appropriate medicine and emergency boundaries.
+### Evidence to Use
 
-### Look-fors
+A fictional defense diagram and an illness-response timeline.
 
-Learners are ready to move on when they can:
+### Checkpoint Questions and Look-Fors
 
-- name situations that need a trusted adult right away
-- explain simple medicine safety rules
-- describe one safe next step for illness, injury, or a confusing health message
-- use calm, privacy-safe language about illness or stress
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 8 | Name a barrier or defense and its job. | For example, skin is a barrier; immune responses help defend the body. A simple function explanation is enough. |
+| Week 9 | How would you order entry, detection, response, and recovery in a fictional illness story? | Show a plausible sequence and distinguish the trigger from the response; a symptom is not proof of an exact cause. |
+| Week 10 | What can an illness story map show, and what remains unknown? | It organizes known events and possible explanations; it cannot identify a diagnosis or prove transmission without evidence. Ask an adult or qualified helper about real concerns. |
 
-### Checkpoint questions
+### Ready to Move On
 
-- What should you do if someone finds medicine on the floor or wants to share it?
-- When should a learner get an adult right away?
-- What makes a health or safety question serious, private, or urgent?
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### Ready to move on
+### Reteach Moves
 
-The learner can choose a safe helper, avoid unsafe actions, and explain one calm next step for a scenario.
+Arrange supplied story cards in time order, mark known and unknown details, and avoid asking learners to retell personal illness.
 
-### Reteach moves
+## Phase Checkpoint: Body Clock, Cleanup, and Repair (Weeks 11–14)
 
-- Practice short scenario cards with trusted adult choices.
-- Repeat the rules never share medicine and ask an adult first.
-- Compare everyday body clues with urgent safety examples.
+### Lessons Assessed
 
-### Checkpoint snapshot
+- [Week 11: Your Body Clock](./week11-circadian-rhythms.md)
+- [Week 12: The Night Cleanup Crew](./week12-sleep-architecture.md)
+- [Week 13: Tiny Helpers in Your Gut](./week13-the-microbiome.md)
+- [Week 14: How Movement Tells Your Body What to Build](./week14-wear-and-maintenance.md)
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Recognizes when to get help | Misses urgent or private cues | Notices a serious cue with support | Identifies when adult help is needed right away | Explains why urgency, privacy, or pain changes the response |
-| Uses medicine safety rules | Is unsure of safe rules | Remembers one rule with support | Explains multiple calm safety rules clearly | Applies the rules to unfamiliar product or supplement examples |
-| Chooses a safe next step | Suggests guessing or acting alone | Names a next step with support | Names a safe next step and who to ask | Explains what to avoid doing until help arrives |
+### Evidence to Use
 
----
+A body-clock cue map and two system-function explanations.
 
-## Phase Checkpoint: Weeks 12-14 - Health Information, Media, Advertising, and Digital Wellness
+### Checkpoint Questions and Look-Fors
 
-### What this checkpoint is for
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 11 | How can light and timing act as body-clock cues? | Environmental cues help coordinate daily rhythms; the learner names a cue and response without promising an exact schedule for everyone. |
+| Week 12 | Why is sleep more than one uniform state? | Sleep includes different stages with different activity patterns and body functions; no personal sleep tracker is required. |
+| Week 13 | Why is the gut microbiome a community rather than one helper? | Many microbes interact with the body and one another; not every microbe or product has the same role. |
+| Week 14 | What might repeated, appropriate movement signal the body to adapt? | Muscles and other tissues can respond over time. Needs and abilities vary; a single performance is not proof of health. |
 
-This checkpoint helps facilitators see whether learners can slow down, identify a health claim, notice influence, and decide what should be checked with a trusted adult or reliable source before trusting, sharing, buying, trying, or acting. It is not a test. Learners may answer by talking, drawing, sorting cards, writing short notes, using AAC, or explaining their thinking to a partner.
+### Ready to Move On
 
-### Look-fors
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-Learners are ready to move on when they can:
+### Reteach Moves
 
-- identify who made a health message
-- separate a health claim from an opinion, feeling, ad, or advice
-- notice at least one influence, such as money, popularity, fear, shame, sponsorship, filters, algorithms, or AI
-- name one thing that should be checked before acting
-- explain when to ask a trusted adult or qualified helper
+Compare two fictional body-clock settings and pair sleep, gut, and movement cards with the functions taught in their lessons.
 
-### Checkpoint questions
+## Phase Checkpoint: The Body Mystery Project (Weeks 15–18)
 
-- What health claim is being made?
-- What evidence or source is shown?
-- What should be checked before trusting or trying this?
+### Lessons Assessed
 
-### Ready to move on
+- [Week 15: Pick a Body Question](./week15-protocol-design.md)
+- [Week 16: Set Up Your Space](./week16-environment-engineering.md)
+- [Week 17: Collect Your Clues](./week17-protocol-testing.md)
+- [Week 18: Share What You Discovered](./week18-the-maintenance-showcase.md)
 
-The learner can explain a health message, identify one influence, and name a safe next step.
+### Evidence to Use
 
-### Reteach moves
+A question, safe plan, labeled observation record, and revised explanation.
 
-- Compare a public health poster, a product ad, and a fictional influencer post.
-- Sort cards into fact, opinion, feeling, ad, advice, and question.
-- Use the Quick Health Check with a familiar example.
-- Model asking a trusted adult before trying online advice.
+### Checkpoint Questions and Look-Fors
 
-### Checkpoint snapshot
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 15 | Is this project question small, safe, and observable? | Choose a low-stakes question with adult support; avoid diagnosis, meal restriction, medicine changes, or personal disclosure requirements. |
+| Week 16 | What in the space or routine supports the chosen investigation? | Name a specific setup and access or safety constraint, not just a goal such as “be healthier.” |
+| Week 17 | Which records are observations, models, or estimates? | Label the data source and timing honestly and state what was not measured. |
+| Week 18 | What does the evidence support, and what would you change next? | Explain a finding with limits and one revision; no medical recommendation, private log inspection, or public presentation is needed. |
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Identifies health message | Needs help naming the message | Names the message with support | Clearly names the message and audience | Explains how audience affects the message |
-| Checks evidence | Gives a quick opinion only | Points to one clue or source with support | Explains what evidence or source is shown | Compares evidence across sources |
-| Decides safe next step | Wants to act immediately or avoid completely | Names one thing to check with support | Explains a safe next step and who to ask | Explains why different situations need different helpers |
+### Ready to Move On
 
----
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-## Phase Checkpoint: Weeks 15-18 - Health Literacy Project
+### Reteach Moves
 
-### What this checkpoint is for
+Narrow the question and use a supplied fictional log if needed. Practice one supported finding and one limit before adding a showcase.
 
-This checkpoint helps facilitators see whether learners can turn careful noticing into an honest health message, explanation, or project share-out that uses evidence, respects privacy, and shows safe help-seeking.
+## Related Project Guidance
 
-### Look-fors
-
-Learners are ready to move on when they can:
-
-- state the topic, question, routine, or safety issue clearly
-- identify an audience and a purpose
-- support a claim with evidence, observation, or a reliable source
-- explain when a trusted adult or qualified helper should be involved
-- revise for clarity, accessibility, and fairness
-
-### Checkpoint questions
-
-- What do you want your audience to understand, consider, or do?
-- What evidence supports your explanation?
-- What should someone check with a trusted adult or qualified helper before acting?
-
-### Ready to move on
-
-The learner can present a clear, supported, privacy-safe project and respond respectfully to questions or feedback.
-
-### Reteach moves
-
-- Use the [Honest Health Literacy Project Checklist](./capstone-rubric.md).
-- Practice separating fact, claim, opinion, advice, and question.
-- Model adding attribution for images, ideas, sources, or AI help.
-- Revise the presentation for readability, audience, and accessibility.
-
-### Checkpoint snapshot
-
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| States project purpose | Topic is unclear or too broad | States a topic with support | States a clear topic, audience, and purpose | Explains why the chosen audience matters |
-| Uses evidence and source quality | Shares ideas with little support | Adds one example or source with support | Uses relevant observation, evidence, or reliable sources | Compares sources and explains limits or uncertainty |
-| Communicates safely and ethically | May overstate or skip safety context | Adds safety or privacy reminders with support | Uses privacy-safe, body-neutral, and honest language | Revises independently for fairness, accessibility, and attribution |
+Use [Capstone Rubric](./capstone-rubric.md) for optional communication feedback and [Learner Self-Assessment](./self-assessment.md) for private reflection. A separate outreach or advertising project is not required to complete the Body Mystery investigation.

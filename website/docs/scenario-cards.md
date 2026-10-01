@@ -34,12 +34,12 @@ All scenarios use fictional characters. Do not ask students to apply these to th
 
 ## The Food Mystery
 
-**Scenario:** Riley eats a large bowl of white rice for lunch. Two hours later, Riley is hungry again and feels tired. A classmate who had a different lunch is still feeling fine.
+**Scenario:** Riley feels tired two hours after lunch. No glucose measurement was taken. Riley also slept poorly and had a busy morning.
 
 **Discussion:**
-- What might explain the difference in energy levels?
-- (Without labeling any food "bad") what might different foods do differently?
-- What does "fuel pattern" mean in this context?
+- What do we know, and what remains unknown?
+- Can a tired feeling establish a glucose spike or drop? Why not?
+- How could the Week 6 fictional model illustrate regulation without claiming it describes Riley?
 
 ---
 

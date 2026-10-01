@@ -325,4 +325,4 @@ See the [Glossary](./glossary.md) for both versions.
 
 ## Preview of Next Week
 
-Next week, the learner compares a roller-coaster fuel pattern with a gentle-hill fuel pattern using fictional breakfast examples.
+Next week, the learner follows the glucose–insulin steadying loop and compares labeled fictional data without treating energy feelings as glucose measurements.

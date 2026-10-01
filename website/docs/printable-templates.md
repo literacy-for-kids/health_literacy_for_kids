@@ -399,3 +399,22 @@ _______________________________________
 - AAC, gestures, partner talk, translation, and assistive tools count.
 
 The templates are there to support curiosity, not to create pressure.
+
+
+## Glucose Evidence Sheet (Week 6)
+
+Use the [Week 6 fictional table](./week06-glucose-and-insulin.md#guided-session-2). No personal food record or glucose testing is needed.
+
+```text
+GLUCOSE EVIDENCE SHEET
+Source: Week 6 invented classroom model
+Horizontal axis: minutes after model input
+Vertical axis: arbitrary model glucose units (not mg/dL)
+One table row I read:
+One comparison supported by the data:
+One claim the data cannot establish:
+Digestion adds glucose to blood. What does the pancreas release?
+How does that message help steady the rise?
+A character feels tired. Was blood glucose measured? No / Yes
+What information is missing?
+```

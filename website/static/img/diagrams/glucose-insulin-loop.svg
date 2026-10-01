@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 470" role="img" aria-labelledby="title desc">
+<title id="title">Glucose and insulin: a simplified steadying loop</title>
+<desc id="desc">Digestion adds glucose to blood. Rising blood glucose signals the pancreas to release insulin. Insulin supports glucose uptake by many cells and glucose storage, helping reduce the rise. A smaller rise means less insulin is needed. The liver and other hormones also help regulate glucose.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#475569"/></marker></defs>
+<rect width="860" height="470" rx="16" fill="#fff" stroke="#cbd5e1"/>
+<g font-family="system-ui, sans-serif" fill="#1e293b" text-anchor="middle">
+<text x="430" y="35" font-size="22" font-weight="700">A message helps steady the rise</text>
+<rect x="55" y="75" width="235" height="90" rx="12" fill="#fff7ed" stroke="#c2410c"/>
+<text x="172" y="107" font-size="16" font-weight="700">Digestion and absorption</text><text x="172" y="135" font-size="14">add glucose to blood</text>
+<rect x="455" y="75" width="300" height="90" rx="12" fill="#eff6ff" stroke="#0369a1"/>
+<text x="605" y="107" font-size="16" font-weight="700">Rising blood glucose</text><text x="605" y="135" font-size="14">signals the pancreas</text>
+<rect x="455" y="265" width="300" height="90" rx="12" fill="#eff6ff" stroke="#0369a1"/>
+<text x="605" y="297" font-size="16" font-weight="700">Pancreas releases insulin</text><text x="605" y="325" font-size="14">a chemical message</text>
+<rect x="55" y="265" width="300" height="90" rx="12" fill="#ecfdf5" stroke="#047857"/>
+<text x="205" y="294" font-size="16" font-weight="700">Uptake and storage increase</text><text x="205" y="322" font-size="14">helping reduce the glucose rise</text>
+<text x="430" y="406" font-size="14">As the rise settles, the signal changes and less insulin is needed.</text>
+<text x="430" y="434" font-size="13">Simplified model: the liver and other hormones also regulate glucose.</text>
+</g>
+<g fill="none" stroke="#475569" stroke-width="2.5" marker-end="url(#arrow)">
+<path d="M290 120 H450"/><path d="M605 165 V260"/><path d="M455 310 H360"/>
+<path d="M205 265 V205 H420 V150 H450" stroke-dasharray="7 5"/>
+</g>
+<text x="185" y="223" font-family="system-ui,sans-serif" font-size="13" fill="#1e293b">steadying feedback</text>
+</svg>

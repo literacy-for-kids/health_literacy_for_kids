@@ -127,7 +127,7 @@ The capstone teaches learners to pick one clue, notice it gently, protect privac
 | Unit | Weeks | Kid-facing path | Main idea |
 |---|---|---|---|
 | **Body Autopilot and Steadying Loops** | 1-3 | Your Body's Autopilot -> Steadying Loops -> Heart Calming-Down Check | The body notices change and tries to keep important things steady. |
-| **Food Journey and Body Clues** | 4-7 | The Journey of One Bite -> Food Jobs -> Fuel Patterns -> Body Pattern Detective | Food is part of a system story, not a moral score. |
+| **Food Journey and Body Clues** | 4-7 | The Journey of One Bite -> Food Jobs -> Glucose and Insulin -> Body Pattern Detective | Food is part of a system story, not a moral score. |
 | **Body Security Team and Response Stories** | 8-10 | Security Team -> Body Alarm Timeline -> Illness Story Map | Protection and illness can be studied with calm, privacy, and good boundaries. |
 | **Body Clock, Cleanup, and Repair** | 11-14 | Body Clock -> Night Cleanup Crew -> Tiny Gut Helpers -> Movement and Repair | Timing, sleep, gut helpers, and movement all shape the body's ongoing maintenance work. |
 | **The Body Mystery Project** | 15-18 | Pick a Body Question -> Set Up Your Space -> Collect Your Clues -> Share What You Discovered | A safe observation project helps learners practice scientific curiosity without self-judgment. |

@@ -39,7 +39,7 @@ Some terms have more technical meanings in medicine, media studies, or education
 | night cleanup crew | glymphatic system and sleep-related cleanup | A kid-friendly picture for some of the brain's nighttime cleanup work. | Research-backed brain cleanup processes linked to sleep, including glymphatic activity. | Week 12 |
 | memory book | immune memory | The part of the body's protection system that remembers a target for later. | The learned part of immunity that helps future responses become faster and more specific. | Week 8 |
 | body security team | immune system | The body's protection team. | The network of barriers, cells, signals, and memory systems that protect the body. | Week 8 |
-| body fuel helper | insulin | A helper that helps move blood fuel into cells. | A hormone released by the pancreas that helps cells take in glucose and lowers blood glucose toward baseline. | Week 6 |
+| body fuel helper | insulin | A helper that helps move blood fuel into cells. | A hormone released by the pancreas that supports glucose uptake and storage, helping regulate blood glucose. | Week 6 |
 | food groups by big jobs | macronutrients | The biggest food-job groups: carbs, fats, and proteins. | Nutrients needed in larger amounts that provide energy, structure, or both. | Week 5 |
 | memory librarian | memory consolidation | A kid-friendly picture for how sleep helps sort and keep memories. | Sleep-linked processes that help stabilize and organize memory. | Week 12 |
 | tiny helpers | micronutrients | Vitamins and minerals that help many body jobs work well. | Nutrients needed in small amounts that support enzymes, signaling, and regulation. | Week 5 |
@@ -122,3 +122,7 @@ Some terms have more technical meanings in medicine, media studies, or education
 - Add the technical phrase when it helps.
 - Keep both phrases visible for older learners.
 - When in doubt, ask: "Which version helps this learner picture the idea?"
+
+## Reading Glucose Evidence (Week 6)
+
+**Blood glucose** is the glucose level in blood, not a person's energy-feeling rating. **Model data** are labeled invented values used to illustrate a process. **Self-reports** describe a person's experience and cannot substitute for blood-glucose measurements. No diagnostic targets or personal glucose tests are part of this course.

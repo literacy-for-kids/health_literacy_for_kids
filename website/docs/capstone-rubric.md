@@ -13,6 +13,19 @@ Use this page with Weeks 15-18, the [Health Checkpoint](./health-checkpoint.md),
 
 ---
 
+## Core Body Mystery Process (Weeks 15–18)
+
+Assess the investigation taught in the sequence before optional outreach or presentation features:
+
+| Week | Core evidence | Look-for |
+|---|---|---|
+| 15 | Small, safe question | Observable and low-stakes; no diagnosis or risky experiment |
+| 16 | Environment/setup plan | Clear supports, permissions, access, and safety constraints |
+| 17 | Labeled clue record | Distinguishes observation, model, and estimate; states timing and missing data |
+| 18 | Explanation and revision | Links a finding to evidence, names limits, and proposes a safe next step |
+
+Fictional examples and private reflection count. A learner can demonstrate the reasoning with a separate supplied sample; personal health data and public presentation are not required. The communication checklist and rubric below are additional feedback for a chosen message or share-out, not a substitute for the investigation or a demand to analyze advertising.
+
 ## Honest Health Literacy Project Checklist
 
 Before presenting or sharing, check:
