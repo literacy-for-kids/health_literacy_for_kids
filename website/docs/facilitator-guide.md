@@ -58,9 +58,9 @@ Lessons use phrases like "Body Mystery Project" and "Clue Collector" intentional
 
 ## Supporting Different Learners
 
-**Younger learners (8-9):** Focus on Weeks 1-7 (homeostasis, food, energy). Avoid the optional extension weeks for younger learners.
+**Younger learners (8-9):** Use the younger route, oral or drawn responses, and fictional data throughout the core sequence. Choose optional depth by readiness and interest, with adult support; it is not a requirement. Earlier units can also form a short sampler without completing the whole course.
 
-**Older learners (11-12+):** The optional extensions (microbiome deep dive, stress physiology) are well-suited for older students. The Body Mystery Project goes deeper with older learners.
+**Older or ready learners:** Optional microbiome and stress-physiology modules add depth. Keep the core investigation expectations accessible, and use the supplied fictional worked cases before assigning outside research.
 
 **Students with health conditions, eating disorders, or body-image concerns:** Modify or skip lessons that involve body measurement. Use the facilitator notes in each lesson for specific guidance.
 
@@ -81,3 +81,7 @@ Lessons use phrases like "Body Mystery Project" and "Clue Collector" intentional
 ## Privacy and Student Data
 
 Body measurements and observations are private. The Body Mystery Project data is kept by the student. Nothing is submitted to the website.
+
+## Worked Examples and Optional Depth
+
+Use the [supplied weekly practice cards](./worked-examples-and-optional-depth.md) for fictional scenarios, illustrative responses, and one bounded depth question for each core week. Allow about 15–20 minutes per selected card after its core teaching. Depth is optional and does not change checkpoint requirements. Suggestions that require the adult to locate or construct missing sources, tool activities, interview records, or real-case materials are **open research prompts**, which need preparation and verification; use a supplied card when that preparation is unavailable. Assess evidence, reasoning, and limits, with oral, drawn, or written responses.

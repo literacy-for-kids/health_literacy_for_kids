@@ -126,3 +126,14 @@ Some terms have more technical meanings in medicine, media studies, or education
 ## Reading Glucose Evidence (Week 6)
 
 **Blood glucose** is the glucose level in blood, not a person's energy-feeling rating. **Model data** are labeled invented values used to illustrate a process. **Self-reports** describe a person's experience and cannot substitute for blood-glucose measurements. No diagnostic targets or personal glucose tests are part of this course.
+
+## Practical and Optional-Depth Vocabulary
+
+These entries align the worked examples and added practical activities with the core lessons. Optional-module vocabulary is not required for core progression.
+
+| Term | Meaning and limit | Taught in |
+|---|---|---|
+| **Blood glucose** | Glucose in blood; it is not the same as perceived energy or a feeling of tiredness. | Week 6 |
+| **Model glucose units** | Arbitrary numbers in a teaching example, not mg/dL, diagnostic thresholds, treatment targets, or food predictions. | Week 6 |
+| **Healthcare navigation** | Seeking appropriate adult/professional help, describing concerns, asking questions, and clarifying the plan. | Week 14 |
+| **Check-back in your words** | Repeating an instruction to check understanding and invite correction; it is not a test of obedience. | Week 14 |

@@ -191,3 +191,7 @@ Use [Capstone Rubric](./capstone-rubric.md) for optional communication feedback 
 ## Week 14 Healthcare-Navigation Check in Unit 4
 
 Use [Ellis's fictional visit](./week14-wear-and-maintenance.md#core-practice-getting-help-from-a-health-professional). Ask for a concern note, safe adult/help route, two questions, and the administrative follow-up in the learner's own words. Expected: distinguish known observations from an unknown cause, seek adult/professional help, request clarification, and verify the contact. Reteach with picture cards if needed. Do not assess diagnosis, treatment choices, real access to care, or personal disclosure.
+
+## Using Worked Responses Without Expanding the Core Assessment
+
+The [worked-example cards](./worked-examples-and-optional-depth.md) offer an illustrative response for each core week. Use the scenario to check the already taught idea and reasoning; sample wording is not a scoring key. Additional depth questions, technical vocabulary, and optional modules are enrichment, not requirements for moving to the next core week. External research, a new account, real-world contact, private disclosure, or public presentation is not required by these practice cards. If a core idea remains unclear, reteach it before adding depth. Accept oral, drawn, sorted, or written evidence appropriate to the learner.

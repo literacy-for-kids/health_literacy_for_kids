@@ -23,7 +23,7 @@ sidebar_label: Curriculum Map
 | 11 | Your Body Clock | How does a circadian rhythm work? | Circadian rhythm analysis | circadian rhythm, light, alertness, sleepiness | Describe what light does to your body clock | Notice your natural alertness and sleepiness patterns for one day |
 | 12 | The Night Cleanup Crew | What does the body do during sleep? | Sleep function analysis | sleep stage, memory consolidation, repair, cleanup | Name two things that happen during sleep that cannot happen while awake | Research one health benefit of sleep that surprised you |
 | 13 | Tiny Helpers in Your Gut | What is the microbiome? | Microbiome introduction | microbiome, gut, bacteria, symbiosis, diversity | Describe the microbiome relationship using the city or garden model | Research one thing that supports microbiome diversity |
-| 14 | How Movement Tells Your Body What to Build | How does movement affect the body over time? | Movement adaptation analysis | adaptation, strength, bone density, habit, maintenance | What is one thing the body does differently in response to regular movement? | Observe one way movement affects how you feel after doing it |
+| 14 | How Movement Tells Your Body What to Build | How does movement affect the body over time? | Movement adaptation analysis | adaptation, strength, bone density, habit, maintenance, healthcare navigation, clarification | What is one thing the body does differently in response to regular movement?; Prepare a fictional concern note and check follow-up in your own words | Observe one way movement affects how you feel after doing it |
 | 15 | Pick a Body Question | How do I choose a good observation question? | Research question design | question, observable, privacy-protecting, feasible | What makes your question safe, specific, and doable? | Refine your question so it is answerable without needing special equipment |
 | 16 | Set Up Your Space | What in my environment affects my Body Mystery Project? | Environment mapping | environment, support, obstacle, change | What is one environment change that would make your project easier? | Map the factors in your environment that affect your body question |
 | 17 | Collect Your Clues | How do I gather simple observations over time? | Data collection | observation, clue, midpoint check, simplify | What did you collect at the midpoint? Do you need to simplify? | Review your clues so far and note one pattern you see forming |
@@ -38,3 +38,7 @@ These activities are integrated into the existing weeks. Use the lesson's sugges
 | Week | Added core skill | Evidence to collect |
 |---|---|---|
 | 14 | Healthcare navigation | Prepare fictional concern/questions and clarify follow-up |
+
+## Optional-Work Status Key
+
+The map’s extension column is enrichment, not core assessment. An invitation to locate or construct missing source, current-case, interview, or tool-activity material is an **open research prompt** needing adult selection, verification, and additional preparation. Supplied tool instructions remain supplied teaching, with their stated setup needs. For a **supplied practice** alternative, use the [weekly worked examples](./worked-examples-and-optional-depth.md), which include the fictional scenario, illustrative response, and bounded depth question. Choose one activity after the corresponding core teaching; do not require both routes.

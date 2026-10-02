@@ -58,6 +58,24 @@ Body notes can stay private. Fictional examples are welcome.
 - [Independent Practice](#independent-practice)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Week 13 and source-checking practice: microbiome, communication, and claim limits.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — Separate a mechanism from a product promise:** Card A summarizes the lesson: gut and brain communicate through multiple pathways, while many microbiome effects are under study. Card B is an invented ad: "Our gut product guarantees happiness for everyone." Card C reports no product trial. Classify what the cards can support.
+
+**Illustrative response and reasoning:** A supports a broad communication idea, not a particular treatment effect. B’s guarantee is unsupported by the packet; C supplies no missing trial evidence. A plausible pathway is not proof that an advertised product safely changes mood. Do not buy, take, restrict food, or alter medicines to test it.
+
+**Optional depth question:** List what a product-effect study would need to establish, including a relevant comparison, outcome, participants, and harms, without designing a child’s personal experiment.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Week at a Glance
 
 | | |

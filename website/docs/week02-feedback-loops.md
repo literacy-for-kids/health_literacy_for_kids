@@ -309,6 +309,13 @@ If the learner wants a no-body option, they can use a playground or story exampl
 
 ---
 
+
+## Optional Depth and Worked Response
+
+**Supplied practice, about 15–20 minutes:** [Week 2's fictional scenario, illustrative response, and depth question](./worked-examples-and-optional-depth.md#week-2) are ready to use after this week's core teaching. Choose the depth question by readiness and interest; it is not a prerequisite or core assessment requirement.
+
+**Open research prompts:** Enrichment suggestions that ask you to locate sources, investigate a real case, choose a tool, or contact someone **without supplying the teaching material** need adult preparation and verified materials. Such suggestions are optional, not a supplied packet. A tool activity with provided instructions remains supplied instruction, though adult setup may be needed. Use the linked fictional practice when outside preparation or access is unavailable.
+
 ## Check for Understanding
 
 1. Can the learner explain a **steadying loop** in their own words?

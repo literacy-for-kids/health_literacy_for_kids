@@ -63,6 +63,24 @@ This lesson is not asking them to fix those stressors. Personal examples are opt
 - [Independent Practice](#independent-practice)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Weeks 2 and 11–12: feedback, timing, and recovery; use fictional situations.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — Map an alert and a support opportunity:** Fictional sequence: a loud unexpected announcement starts an alert; a safe adult explains it; a quieter space is offered. The character chooses to sit with support. Draw the alert, body-response idea, and recovery opportunity without claiming a measured hormone level.
+
+**Illustrative response and reasoning:** The model links a trigger, fast protective response, and possible settling with safety/support. It does not diagnose stress physiology, prove cortisol changed, or require the child to feel calm. Uncontrolled stressors and access barriers are not character failures.
+
+**Optional depth question:** Distinguish fast nerve signaling from slower hormone support as a simplified timing model. State one thing the diagram does not measure; real concerning symptoms need appropriate adult/professional support.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Week at a Glance
 
 | | |
