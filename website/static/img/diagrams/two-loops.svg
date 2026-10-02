@@ -1,37 +1,28 @@
-<svg viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tlTitle">
-  <title id="tlTitle">Two kinds of body loops: a steadying loop settles things back to normal like a swing slowing down; a fast-building loop grows quickly for a short time like a snowball rolling downhill</title>
-  <rect x="1" y="1" width="858" height="458" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
-  <text x="430" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Two Kinds of Body Loops</text>
-
-  <!-- steadying -->
-  <g>
-    <rect x="45" y="70" width="380" height="320" rx="12" fill="#ecfeff" stroke="#0e7490" stroke-width="2.5"/>
-    <text x="235" y="104" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="800" fill="#0e7490">STEADYING LOOP</text>
-    <text x="235" y="126" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">like a swing slowly settling down</text>
-    <!-- damped wave -->
-    <path d="M85,230 Q115,150 145,230 Q170,290 195,230 Q216,185 237,230 Q254,262 271,230 Q285,208 299,230 Q310,246 321,230 Q340,222 385,229"
-          fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round"/>
-    <line x1="85" y1="230" x2="385" y2="230" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 5"/>
-    <text x="235" y="330" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">wiggles get smaller until things are</text>
-    <text x="235" y="350" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">back in the safe range</text>
-    <text x="235" y="376" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#94a3b8">toolbox words: negative feedback loop</text>
-  </g>
-
-  <!-- fast-building -->
-  <g>
-    <rect x="445" y="70" width="380" height="320" rx="12" fill="#fff7ed" stroke="#ea580c" stroke-width="2.5"/>
-    <text x="635" y="104" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="800" fill="#c2410c">FAST-BUILDING LOOP</text>
-    <text x="635" y="126" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">like a snowball rolling downhill</text>
-    <!-- growing curve + snowballs -->
-    <path d="M485,290 C560,285 640,265 730,180" fill="none" stroke="#ea580c" stroke-width="4" stroke-linecap="round"/>
-    <circle cx="500" cy="282" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"/>
-    <circle cx="580" cy="273" r="15" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"/>
-    <circle cx="660" cy="248" r="23" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"/>
-    <circle cx="735" cy="195" r="33" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"/>
-    <text x="635" y="330" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">each round makes the next round bigger &#8212;</text>
-    <text x="635" y="350" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">useful for a short burst, then it needs a stop</text>
-    <text x="635" y="376" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#94a3b8">toolbox words: positive feedback loop</text>
-  </g>
-
-  <text x="430" y="428" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Both are useful! The question is: is this loop keeping things steady, or building fast for a reason?</text>
-</svg>
+<svg viewBox="0 0 860 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tlTitle tlDesc">
+<title id="tlTitle">Feedback needs a return path</title>
+<desc id="tlDesc">A thermostat senses cooling, calls for heat, and senses the warmer room, reducing the call for heat. A microphone picks up sound, the speaker amplifies it, and sound returns to the microphone, reinforcing amplification.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#475569"/></marker></defs>
+<rect x="1" y="1" width="858" height="438" rx="16" fill="white" stroke="#e2e8f0" stroke-width="2"/>
+<g font-family="sans-serif" text-anchor="middle" fill="#1e293b">
+<text x="430" y="40" font-size="22" font-weight="700">Feedback Needs a Return Path</text>
+<rect x="30" y="70" width="395" height="310" rx="12" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="227" y="106" fill="#0e7490" font-size="16" font-weight="700">THERMOSTAT: STEADYING</text>
+<rect x="60" y="130" width="310" height="42" rx="8" fill="white" stroke="#0e7490"/><text x="215" y="156" font-size="14">Room cools below the target</text>
+<path d="M215,172 V195" stroke="#475569" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="60" y="198" width="310" height="42" rx="8" fill="white" stroke="#0e7490"/><text x="215" y="224" font-size="14">Sensor / thermostat calls for heat</text>
+<path d="M215,240 V263" stroke="#475569" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="60" y="266" width="310" height="42" rx="8" fill="white" stroke="#0e7490"/><text x="215" y="292" font-size="14">Heater warms the room</text>
+<path d="M370,287 H396 V219 H373" fill="none" stroke="#475569" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="227" y="336" font-size="14">Warming reduces the call for heat.</text><text x="227" y="361" font-size="14" font-weight="700" fill="#0e7490">Opposes cooling: negative feedback</text>
+<rect x="435" y="70" width="395" height="310" rx="12" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="632" y="106" fill="#c2410c" font-size="16" font-weight="700">MICROPHONE: AMPLIFYING</text>
+<rect x="465" y="130" width="310" height="42" rx="8" fill="white" stroke="#c2410c"/><text x="620" y="156" font-size="14">Microphone picks up sound</text>
+<path d="M620,172 V195" stroke="#475569" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="465" y="198" width="310" height="42" rx="8" fill="white" stroke="#c2410c"/><text x="620" y="224" font-size="14">Amplifier / speaker makes it louder</text>
+<path d="M620,240 V263" stroke="#475569" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="465" y="266" width="310" height="42" rx="8" fill="white" stroke="#c2410c"/><text x="620" y="292" font-size="14">Sound returns to the microphone</text>
+<path d="M775,287 H801 V151 H778" fill="none" stroke="#475569" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="632" y="336" font-size="14">Returning sound gets amplified again.</text><text x="632" y="361" font-size="14" font-weight="700" fill="#c2410c">Reinforces sound: positive feedback</text>
+<text x="430" y="406" font-size="14">Speed alone does not define feedback. Trace what returns and what it changes.</text>
+<text x="430" y="427" font-size="12" fill="#64748b">Use paper models only; no loud-sound or body-temperature experiments.</text>
+</g></svg>

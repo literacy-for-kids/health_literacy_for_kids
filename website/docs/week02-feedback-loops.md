@@ -2,7 +2,7 @@
 sidebar_position: 2
 sidebar_label: "Week 2: Steadying Loops and Fast-Building Loops"
 title: "Week 2: Steadying Loops and Fast-Building Loops"
-description: "Students compare loops that keep the body steady with loops that build quickly for a short time."
+description: "Students trace feedback return paths and compare responses that oppose or reinforce a change."
 ---
 
 # Week 2: Steadying Loops and Fast-Building Loops
@@ -10,27 +10,29 @@ description: "Students compare loops that keep the body steady with loops that b
 
 Last week, the learner met the idea of body autopilot.
 
-This week, they sort two kinds of loops: loops that help keep things steady and loops that build quickly for a short time.
+This week, they trace two kinds of feedback loops: responses that oppose a change and responses that reinforce it. The familiar label "fast-building" describes some examples, but speed is not the defining feature.
 
 :::tip This Week's Mission
 - Learn the difference between a **steadying loop** and a **fast-building loop**.
-- Use playground and story examples before body examples.
-- Sort body clues into "keeps steady" and "builds fast."
+- Follow a thermostat and microphone story before body examples.
+- Find the return arrow, then ask whether the response opposes or reinforces the change.
 :::
 
 :::info Kid Version
-Some body loops are like a swing slowly settling down.
+A feedback loop has a return path: what happens next changes the signal that started the response.
 
-Some body loops are like a snowball rolling downhill and getting bigger fast.
+A thermostat notices a cool room and turns on heat. As the room warms toward its target, the thermostat switches the heat off. The response **opposes the original change**.
 
-Both kinds can be useful. The big question is: is this loop trying to **keep things steady**, or is it trying to **build fast for a reason**?
+A microphone can pick up sound from its own speaker. The speaker makes that sound louder, the microphone picks it up again, and it can grow into a squeal. The response **reinforces the original change**.
+
+Neither kind is automatically good or bad. Speed alone does not tell you which kind it is.
 :::
 
-![Two kinds of body loops: a steadying loop settles things back to normal like a swing slowing down; a fast-building loop grows quickly for a short time like a snowball rolling downhill](/img/diagrams/two-loops.svg)
+![Feedback return paths: a thermostat's warming response reduces the heating signal; a microphone picks up its speaker's output and reinforces the sound](/img/diagrams/two-loops.svg)
 
 :::info Technical Name
 - **Steadying loop** = **negative feedback loop**
-- **Fast-building loop** = **positive feedback loop**
+- **Fast-building / amplifying loop** = **positive feedback loop**; it reinforces a change, but it need not happen quickly.
 
 Older learners may also hear **set point** or **target range**. For younger learners, "the body's usual safe range" is enough.
 :::
@@ -42,16 +44,16 @@ They can overlap, get noisy, get overwhelmed, or need help. A loop needing help 
 :::
 
 :::info Facilitator Snapshot
-- Lead with the swing and snowball examples before any science words.
+- Lead with the supplied thermostat and microphone stories. Use paper only; do not create loud microphone feedback.
 - Use **steadying loop** and **fast-building loop** first. Add **negative feedback** and **positive feedback** second.
 - Keep the mood calm. This page should feel like sorting patterns, not spotting danger everywhere.
-- If the learner asks about fever or blood clotting, explain that some body responses build fast for a reason and still may need adult care.
+- Blood clotting includes amplification; fever changes the temperature target. A rising temperature alone does not identify positive feedback. Both topics stay descriptive and may need adult care in real life.
 - Fictional examples are always allowed.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Playground Loop Examples](#guided-session-1)
+- [Guided Session 1: Follow the Return Arrow](#guided-session-1)
 - [Guided Session 2: Sorting Body Loops](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
@@ -61,15 +63,15 @@ They can overlap, get noisy, get overwhelmed, or need help. A loop needing help 
 | | |
 |---|---|
 | **Prep time** | ~10 minutes |
-| **Materials** | Paper, pencil, Body Clues Notebook, optional index cards, optional swing or simple rolling object |
+| **Materials** | This page's story cards and diagram, paper, pencil, Body Clues Notebook; optional index cards |
 | **Key vocabulary** | steadying loop, fast-building loop, negative feedback, positive feedback, target range |
 | **Difficulty** | Introductory |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Make six quick cards: shivering, sweating, blood clotting, fever, thirst, hunger.
-- Have a playground or toy example ready: a swing, a rolling ball, or a simple sketch.
+- Read or print the two supplied loop stories and the body-story table below; no new examples need to be found.
+- Trace the return arrow in the diagram. Do not use temperature changes, injuries, or loud sounds as experiments.
 - Remind the learner they can use pretend examples if body examples feel too personal.
 - Keep the focus on pattern-recognition. The learner does not need to memorize every technical term.
 :::
@@ -77,27 +79,27 @@ They can overlap, get noisy, get overwhelmed, or need help. A loop needing help 
 :::tip Facilitation Mindset
 Use short contrasts.
 
-"This one pushes back toward steady." "This one builds fast for a short time." That is enough.
+"The response comes back and changes the starting signal. Does it push against the change or make more of it?" A return arrow and explanation matter more than the technical label.
 :::
 
 ## For Younger Learners (Ages 8-9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "Some body loops calm things down. Some body loops help something happen quickly."
+**Simplest version of the concept:** "A response can come back and change what happens next. It can push against a change or make more of it."
 
 **What to shorten or skip:**
 - Skip **negative** and **positive** if they cause confusion.
 - Skip number-heavy examples like blood pH or glucose ranges.
 
 **What success looks like:**
-The learner can sort at least one example into each group and explain why.
+The learner can trace the return path in each supplied story and say "opposes" or "reinforces" in their own words.
 :::
 
 ## For Older Learners (Ages 10-12)
 
 :::info Deeper Option
 - Add the terms **negative feedback**, **positive feedback**, and **set point**.
-- Explain that fever can involve a deliberate change in the body's target, which is why it feels different from plain overheating.
+- Explain that fever can involve a regulated change in the body's target, which is why it feels different from plain overheating.
 - Ask older learners to describe how a loop can be helpful and still need backup from an adult or doctor.
 :::
 
@@ -105,7 +107,7 @@ The learner can sort at least one example into each group and explain why.
 
 Bodies are different, and body loops do not look identical in every person or every situation. Health literacy means learning how to notice a pattern without acting like there is one perfect body response.
 
-- Use story, playground, or fictional examples when a real body example feels too personal.
+- Use the supplied thermostat and microphone stories when a body example feels too personal.
 - Keep fever, clotting, and other bigger examples descriptive rather than dramatic.
 - Needing help does not mean a body failed.
 
@@ -131,34 +133,28 @@ For emergencies, learners should follow local emergency rules and get an adult i
 ---
 
 ## Guided Session 1
-### Playground Loop Examples
+### Follow the Return Arrow
 #### Learning Goal
 By the end of this session, the learner can:
 
 - explain the difference between a steadying loop and a fast-building loop
-- use a simple example from play or everyday life
-- describe what each kind of loop is trying to do
+- trace a response back to the signal it changes
+- explain why something slowing down or speeding up is not enough to identify feedback
 
 ---
 
 #### Activities
 
-**1. Swing vs. Snowball**
+**1. Two Supplied Stories**
 
-Ask:
+Read these fictional model cards aloud or point to the diagram. Allow about 10 minutes to discuss both.
 
-> "What happens to a swing if nobody keeps pushing it?"
+| Card | What happens | Return path and facilitator answer |
+|---|---|---|
+| A: Thermostat | A room cools below the target. A sensor reports the temperature, the thermostat calls for heat, and the heater warms the room. As the room reaches its target, the thermostat stops calling for heat. | The warmer room changes what the sensor reports, reducing the heating signal. The response opposes the original cooling: steadying / negative feedback. |
+| B: Microphone | A microphone picks up a speaker's sound. The system amplifies it and sends it back through the speaker. The microphone picks up that louder sound again. | Speaker output returns to the microphone input. Under these conditions the response reinforces the sound: amplifying / positive feedback. Reducing amplification or breaking the return path can stop the squeal. |
 
-Then ask:
-
-> "What happens to a snowball rolling downhill?"
-
-Write the contrast:
-
-- swing slowing down = **steadying loop**
-- snowball growing fast = **fast-building loop**
-
-If you do not have those experiences handy, use a toy car slowing down on carpet and a marble collecting speed on a ramp.
+Ask: "What comes back to change the next response?" Cover the answer column while learners explain. A drawn arrow or oral answer counts. These are simplified models, not complete device diagrams.
 
 ---
 
@@ -166,15 +162,15 @@ If you do not have those experiences handy, use a toy car slowing down on carpet
 
 Fold paper in half.
 
-On one side, draw something settling back to normal.
-
-On the other side, draw something building quickly.
+On one side, draw the thermostat's temperature–sensor–heater path. On the other, draw microphone–speaker–microphone. Close each loop with a return arrow.
 
 Prompts:
 
-- "What helps it slow down?"
-- "What helps it speed up?"
-- "When would each kind be useful?"
+- "What does the response change?"
+- "Does that change oppose or reinforce the starting change?"
+- "What could limit or interrupt this loop?"
+
+**Contrast cards:** A swing slows because energy is dissipated; a marble speeds up down a ramp because gravity accelerates it. Those descriptions do not show output returning to influence its cause. Do not label them negative or positive feedback just because their speed changes. A growing snowball story would also need its reinforcing return mechanism explained, not just a picture of growth.
 
 ---
 
@@ -183,7 +179,7 @@ Prompts:
 Only after the learner gets the idea, add:
 
 - steadying loop = **negative feedback**
-- fast-building loop = **positive feedback**
+- amplifying loop = **positive feedback**
 
 Say clearly:
 
@@ -206,30 +202,16 @@ By the end of this session, the learner can:
 
 **1. Body Loop Sorting Game**
 
-Use cards or write the examples on paper:
+Use these supplied story cards. Hide the explanation column for a first sort, then trace the return path together. No personal measurements or body experiments are needed.
 
-- shivering
-- sweating
-- blood clotting
-- fever
-- thirst
-- hunger
+| Story card | Explanation and answer guide |
+|---|---|
+| A character becomes too warm; sweating helps heat leave the body; the reduced temperature changes the signals controlling sweating. | A steadying loop opposes the temperature rise. Sweat evaporation depends on conditions; this is a simplified example. |
+| A character becomes too cool; shivering produces heat; warming changes the signals controlling shivering. | A steadying loop opposes cooling. Negative feedback can make a variable rise, so "negative" does not mean decreasing. |
+| At a small damaged blood vessel, activated platelets release signals that recruit and activate more platelets. The newly activated platelets release more recruitment signals. | The response returns as more of the signal that activates platelets, reinforcing the process and helping build a clot. Real clotting also has controls that limit it; this is not an injury activity. |
+| During a fictional illness, the body's temperature target rises. Warming responses can work toward that changed target. | Changed-target case. Do not sort fever as positive feedback just because temperature rises. A target change and feedback direction are different ideas. |
 
-Make two groups:
-
-- **keeps steady**
-- **builds fast**
-
-Suggested sorting talk:
-
-- shivering -> keeps steady
-- sweating -> keeps steady
-- thirst -> keeps steady
-- hunger -> keeps steady
-- blood clotting -> builds fast
-- fever -> can build as part of a response, then settle later
-
-If the learner disagrees, let them explain. The discussion matters more than the exact phrasing.
+**Optional context cards:** Thirst can be part of water regulation, and hunger is influenced by many signals. A feeling alone does not display a whole loop. Ask what changes, what response follows, and what returns to affect the signal; "not enough information yet" is a valid answer.
 
 ---
 
@@ -243,11 +225,9 @@ Have three people or three stuffed animals play:
 
 Try one steadying example and one fast-building example.
 
-Prompt:
+Use sweating or shivering first. For the clotting story, paper cards can show activated platelets sending signals, recruiting more platelets, and generating more of the same signal; no bodily role-play is needed.
 
-> "What started the loop?"
-
-> "What would tell it to calm down or stop?"
+Prompt: "What started the response? What effect returns to change the next response? Does it oppose or reinforce the change? What limits the process?"
 
 ---
 
@@ -276,12 +256,12 @@ Use the Body Clues Notebook to spot one steadying loop and one fast-building loo
 Make two columns:
 
 - Keeps steady
-- Builds fast
+- Reinforces a change
 
 The learner can fill the page with:
 
 - body examples
-- playground examples
+- thermostat or microphone stories
 - fictional character examples
 - drawings
 
@@ -290,7 +270,7 @@ The learner can fill the page with:
 Choose one:
 
 - "A loop that keeps things steady is..."
-- "A loop that builds fast is..."
+- "A loop that reinforces a change is..."
 - "One time a body might need help is..."
 
 ### Body Clues Notebook
@@ -301,11 +281,13 @@ Starter page:
 >
 > **Which kind of loop is it?** steadying / fast-building
 >
-> **What is the loop trying to do?** _____________
+> **What response comes back to change the starting signal?** _____________
+>
+> **Does it oppose or reinforce the change?** _____________
 >
 > **What I wonder:** _____________
 
-If the learner wants a no-body option, they can use a playground or story example instead.
+If the learner wants a no-body option, use the supplied thermostat or microphone story instead.
 
 ---
 
@@ -318,9 +300,11 @@ If the learner wants a no-body option, they can use a playground or story exampl
 
 ## Check for Understanding
 
-1. Can the learner explain a **steadying loop** in their own words?
-2. Can the learner give one example of a **fast-building loop**?
+1. Can the learner trace the return path in the thermostat story and explain how it opposes cooling?
+2. Can the learner trace speaker output back to microphone input and explain how that reinforces sound?
 3. Can the learner say that a loop can be useful and still sometimes need help?
+
+**Contrast check:** "A marble speeds up down a ramp. Is that enough to call it positive feedback?" Look for: no; the description needs a reinforcing return path, not just increasing speed. Reteach with arrows if the learner sorts only by faster/slower.
 
 ---
 
@@ -343,27 +327,29 @@ It is about noticing what the loop is trying to do.
 :::tip Connecting to Earlier Weeks
 From Week 1: the body uses detectors, messages, and actions to keep important things steady.
 
-Week 2 adds a new idea: not every helpful loop looks calm. Some build quickly for a job that needs to happen fast.
+Week 2 adds a new idea: a response can reinforce a change rather than oppose it. Trace the return path instead of judging by speed.
 :::
 
 ---
 
 :::tip Simplify (Ages 8-9)
-Use the swing and snowball only, then sort two or three cards.
+Trace the two supplied story loops with a finger, then use the sweating and clotting cards. Accept pointing, drawings, or oral explanations.
 :::
 
 :::tip Extend (Ages 10-12)
-Invite older learners to explain why fever and blood clotting are not the same kind of loop as sweating or thirst.
+Compare shivering with sweating: one raises temperature and one lowers it, yet both can be negative feedback. Explain why fever's changed target does not itself establish positive feedback.
 :::
 
 :::tip Vocabulary This Week
 **Kid phrase -> Technical phrase**
 
 - steadying loop -> negative feedback
-- fast-building loop -> positive feedback
+- fast-building / amplifying loop -> positive feedback
 - usual safe range -> target range / set point
 
 See the [Glossary](./glossary.md) for both versions.
+
+**Facilitator references, checked October 2, 2026:** [OpenStax Anatomy and Physiology: Homeostasis](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis) for feedback components and body examples; [OpenStax Biology: Homeostasis](https://openstax.org/books/biology-ap-courses/pages/24-3-homeostasis) for temperature regulation and changed targets. The supplied device stories and diagram are classroom models. These references are for adult preparation, not required learner browsing or treatment instructions.
 :::
 
 ## Preview of Next Week

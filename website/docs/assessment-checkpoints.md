@@ -55,7 +55,7 @@ A fictional loop drawing and a labeled heart-rate example.
 | Taught in | Prompt | Expected core reasoning |
 |---|---|---|
 | Week 1 | What action helps the body respond when it becomes warmer? | Sweating and other body responses help regulate temperature; the learner identifies a change and response without diagnosing anyone. |
-| Week 2 | How does a steadying loop differ from a fast-building loop? | One tends to reduce a change; the other reinforces it until something limits or stops the process. |
+| Week 2 | Trace the return path in the thermostat and microphone stories. How do the responses differ? | Warming changes the thermostat's temperature signal and reduces the call for heat; speaker sound returns to the microphone and is amplified again. One opposes the starting change; the other reinforces it. Speed or increase/decrease alone is not a feedback test. |
 | Week 3 | A supplied heart-rate example falls after movement ends. What was observed, and what does it not prove? | The rate changed over the stated times; one observation is not a fitness grade, diagnosis, or rule for all bodies. |
 
 ### Ready to Move On

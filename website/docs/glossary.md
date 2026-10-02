@@ -50,8 +50,8 @@ Some terms have more technical meanings in medicine, media studies, or education
 | calming-down pattern | recovery rate | How the body settles after activity or stress. | The rate at which the body returns toward baseline after exertion or challenge. | Week 3 |
 | repair and grow | tissue adaptation / tissue repair | The body's way of responding to practice, support, movement, and rest over time. | Biological repair and adaptation processes in tissues such as muscle, bone, and connective tissue. | Week 14 |
 | slow fuel | slower-delivery fuel / fats and mixed meals | Fuel that often lasts longer or arrives more gradually. | Fuel sources that may digest or deliver energy more slowly depending on composition and context. | Week 5 |
-| steadying loop | negative feedback | A loop that pushes things back toward steady. | A feedback loop that counters a change and helps return a variable toward a target. | Week 2 |
-| fast-building loop | positive feedback | A loop that builds quickly for a short time. | A feedback loop that amplifies a change and can accelerate a process. | Week 2 |
+| steadying loop | negative feedback | A response comes back and pushes against the change that started it. | A feedback loop whose response opposes a change; it can raise or lower a variable toward a target. | Week 2 |
+| fast-building / amplifying loop | positive feedback | A response comes back and makes more of the change that started it. | A feedback loop that reinforces a change. It may accelerate a process, but speed alone does not define feedback. | Week 2 |
 | clue pattern | dataset / observation record | The clues a learner collected over time. | A set of recorded observations or measurements used for comparison or interpretation. | Week 17 |
 | what I will notice | metric | The clue or number used in a project. | The specific thing measured or recorded in a project. | Week 15 |
 | clue question | hypothesis | A first guess about what the learner may notice. | A testable prediction made before collecting data. | Week 15 |
