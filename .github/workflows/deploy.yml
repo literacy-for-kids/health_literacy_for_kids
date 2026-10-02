@@ -11,7 +11,8 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  # Only the newest site revision needs to finish deploying.
+  cancel-in-progress: true
 
 jobs:
   build:
